@@ -17,6 +17,7 @@ Root = 词根
    1. **agitate** [ag = to drive or keep moving 驱使, 使运动; -it-; -ate *v*. = to make or cause 使...] -> 引起不断的动荡 -> *v.* disturb 鼓动
        * **agitation** *n.* 鼓动; 激动; 不安
        * **agitator** *n.* 鼓动者; 煽动者
+       * **agitprop** [ag = to drive or keep moving 驱使, 使运动; -it-; -prop *v*. = propaganda 宣传 ] *v.* 宣传鼓动
    1. **act** [act = to do 做; -> 做要求之事] -> *v.* (1) 行动,做某事 (2) 起作用 (3) 演出,扮演 *n.* (1) 行为 (2) 行为过程,行动
        * **actor** *n.* 男演员
        * **actress** *n.* 女演员
@@ -33,6 +34,8 @@ Root = 词根
    1. **autual** [act = to do 做; -u-; -al *a.* = the act or fact of 表行为或事实 -> ]  *a.* 实际的; 现实的
        * **actuality** *n.* 事实,现存情况; 现实性
        * **actualize** *v.* 实行,使现实化
+       * **actualist** *n.* 现实主义者
+       * **actuary** *n.* (保险) 精算师
    1. **actuate** [act = to do 做; -u-; -ate *v.* = to make or cause 使... -> ]  *v.* 驱动,激励
        * **actuation** *n.* 驱动,激励; 开动
        * **actuator** *n.* [机] 促动器; 传动机构

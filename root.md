@@ -3,7 +3,7 @@ Root = 词根
 
 1. ag, act = to do or drive 做; 驱使
 
-   1. **agent** [ag = to do 做; -ent *n*. = person 人 -> 办事者] -> *n.* 代理人
+   1. **agent** [ag = to do 做; -ent *n*. = person or thing 人或物 -> 办事者] -> *n.* (1) 代理人 (2) 药剂
        * **agential** [agent; -i-; -al *a.*] *a.* 代理人的; 起媒介作用的
        * **coagent** *n.* 共事者; 合作者
        * **subagent** *n.* 副代理人

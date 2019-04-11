@@ -7,6 +7,7 @@ Root = 词根
        * **agential** [agent; -i-; -al *a.*] *a.* 代理人的; 起媒介作用的
        * **coagent** *n.* 共事者; 合作者
        * **subagent** *n.* 副代理人
+       * **reagent** *n.* 反应力; 反应物 [化] 试剂
        * **counteragent** *n.* 反作用剂; 反抗力
    1. **agency** [ag = to do 做; -ency *n.* = the quality or state 表性质或状态 -> 办事的能力或场所] -> *n.* (1) 力量; 作用 / human agency 人力 (2) 代理处; 机构
        * **subagency** *n.* 分代理处
@@ -44,7 +45,6 @@ Root = 词根
        * **reactor** *n.* 引起反应的人或物; [原] 反应堆
        * **reactive** *a.* 反应的; 反动的
        * **reactant** *n.* [化] 反应物
-       * **reagent** *n.* 反应力; 反应物 [化] 试剂
    1. **interact** [inter- = between 在...之间; act = to do 做 -> 在两者之间互动 ->]  *v.* 互相作用, 互相影响
        * **interaction** *n.* 相互作用; 相互
        * **interactive** *n.* 相互作用的; [机] 交互的

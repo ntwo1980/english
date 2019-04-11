@@ -40,5 +40,11 @@ Root = 词根
        * **reactor** *n.* 引起反应的人或物; [原] 反应堆
        * **reactive** *a.* 反应的; 反动的
        * **reactant** *n.* [化] 反应物
+   1. **interact** [inter- = between 在...之间; act = to do 做 -> 在两者之间互动 ->]  *v.* 互相作用, 互相影响
+       * **interaction** *n.* 相互作用; 相互
+       * **interactive** *n.* 相互作用的; [机] 交互的
+   1. **transact** [trans- = across or through 穿过; act = to drive 驱使 -> 使通过 ->]  *v.* 执行, 办理
+       * **transaction** *n.* 办理, 处理; 交易, 业务
+       * **transactor** *n.* 办事人; 处理者
 
 1. am(at) = to love 爱

@@ -25,5 +25,20 @@ Root = 词根
        * **activism** *n.* [哲] 能动主义; 积极,活跃
        * **activist** *n.* 活动分子,积极分子
        * **activity** *n.* 能动性; 活跃; [复] 活动
+   1. **autual** [act = to do 做; -u-; -al *a.* = the act or fact of 表行为或事实 -> ]  *a.* 实际的; 现实的
+       * **actuality** *n.* 事实,现存情况; 现实性
+       * **actualize** *v.* 实行,使现实化
+   1. **actuate** [act = to do 做; -u-; -ate *v.* = to make or cause 使... -> ]  *v.* 驱动,激励
+       * **actuation** *n.* 驱动,激励; 开动
+       * **actuator** *n.* [机] 促动器; 传动机构
+   1. **exact** [ex- = out 出; act = to drive 驱使 -> 逼出来; 逼出来的 ->]  *v.* 强求, 索取 *a.* 准确的; 精确的
+       * **exacting** *a.* 苛求的, 严厉的; 强索的
+       * **exaction** *n.* 强索; 勒索; 榨取
+       * **exactitude** *n.* 精确(性); 严格, 严谨
+   1. **react** [re- = back 回返; act = to do 做 ->]  *v.* (1) 反应 (2) 反动,反作用
+       * **reaction** *n.* 反应; 反作用; 反动
+       * **reactor** *n.* 引起反应的人或物; [原] 反应堆
+       * **reactive** *a.* 反应的; 反动的
+       * **reactant** *n.* [化] 反应物
 
 1. am(at) = to love 爱

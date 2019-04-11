@@ -18,5 +18,7 @@ Root = 词根
        * **acting** *n.* 行为
        * **re-act** *v.* 重做,再做; 重演,再演
        * **overact** *v.* 演得过于夸张
+   1. **action** [act = to do 做; -ion *n.* = 表过程或结果 -> ]  *n.* (1) 行动,活动 (2) 作用 (3) charge 诉讼
+       * **actionable** *a.* 可控诉的
 
 1. am(at) = to love 爱

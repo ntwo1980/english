@@ -7,6 +7,7 @@ Root = 词根
        * **agential** [agent; -i-; -al *a.*] *a.* 代理人的; 起媒介作用的
        * **coagent** *n.* 共事者; 合作者
        * **subagent** *n.* 副代理人
+       * **counteragent** *n.* 反作用剂; 反抗力
    1. **agency** [ag = to do 做; -ency *n.* = the quality or state 表性质或状态 -> 办事的能力或场所] -> *n.* (1) 力量; 作用 / human agency 人力 (2) 代理处; 机构
        * **subagency** *n.* 分代理处
    1. **agenda** [ag = to do 做; -enda (-a表 复数) *n.* = things 事情 -> 要办的事项] -> *n.* 议事日程
@@ -34,8 +35,6 @@ Root = 词根
    1. **actuate** [act = to do 做; -u-; -ate *v.* = to make or cause 使... -> ]  *v.* 驱动,激励
        * **actuation** *n.* 驱动,激励; 开动
        * **actuator** *n.* [机] 促动器; 传动机构
-   1. **counteract**   *v.* (1) 抵制, 妨碍 (2) [化] 中和, 抵消
-       * **counteragent** *n.* 反作用剂; 反抗力
    1. **exact** [ex- = out 出; act = to drive 驱使 -> 逼出来; 逼出来的 ->]  *v.* 强求, 索取 *a.* 准确的; 精确的
        * **exacting** *a.* 苛求的, 严厉的; 强索的
        * **exaction** *n.* 强索; 勒索; 榨取

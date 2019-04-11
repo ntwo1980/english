@@ -12,5 +12,11 @@ Root = 词根
    1. **agitate** [ag = to drive or keep moving 驱使, 使运动; -it-; -ate *v*. = to make or cause 使...] -> 引起不断的动荡 -> *v.* disturb 鼓动
        * **agitation** *n.* 鼓动; 激动; 不安
        * **agitator** *n.* 鼓动者; 煽动者
+   1. **act** [act = to do 做; -> 做要求之事] -> *v.* (1) 行动,做某事 (2) 起作用 (3) 演出,扮演 *n.* (1) 行为 (2) 行为过程,行动
+       * **actor** *n.* 男演员
+       * **actress** *n.* 女演员
+       * **acting** *n.* 行为
+       * **re-act** *v.* 重做,再做; 重演,再演
+       * **overact** *v.* 演得过于夸张
 
 1. am(at) = to love 爱

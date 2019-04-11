@@ -20,5 +20,10 @@ Root = 词根
        * **overact** *v.* 演得过于夸张
    1. **action** [act = to do 做; -ion *n.* = 表过程或结果 -> ]  *n.* (1) 行动,活动 (2) 作用 (3) charge 诉讼
        * **actionable** *a.* 可控诉的
+   1. **active** [act = to do 做; -ive *a.* = 会...的 -> ]  *a.* 活跃的,积极的,能动的
+       * **activate** *v.* 使活动
+       * **activism** *n.* [哲] 能动主义; 积极,活跃
+       * **activist** *n.* 活动分子,积极分子
+       * **activity** *n.* 能动性; 活跃; [复] 活动
 
 1. am(at) = to love 爱

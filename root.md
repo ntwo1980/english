@@ -82,9 +82,29 @@ Root = 词根
    1. **animal** [anim = life 生命; -al *n*. = thing characterized by 具有...特征的东西 -> 有生命的东西 ->] *n.* 动物
        * **animalism** *n.* 动物性; 兽欲
        * **animalize** *v.* 使动物化
+       * **animalization** *n.* 动物化
+       * **animality** *n.* 动物的生命力,兽性
+       * **animalistic** *a.* 动物性的
+       * **animalcule** *n.* 微生物
+       * **animism** *n.* 泛灵论; 万物有灵论
    1. **animate** [anim = life 生命; -ate *a*. = having 有...的 -> 有生命的, 有精神的 ->] *a.* (1) 有生命的 (2) 生气勃勃的 *v.* 使活跃
        * **animation** *n.* 活跃; 生气
        * **reanimate** *v.* 使复活; 激励
+       * **animator** *v.* 鼓舞者
+       * **animated** *a.* 栩栩如生的
+       * **inanimate** *a.* 无生命的; 无生气的
+       * **exanimate** *a.* 无生命的; 无精神的
+       * **exanimatation** *a.* 死; 意志消沉
+   1. **animus** *n* 主导精神; 意向
    1. **animosity** [anim = life, spirit 生命, 精神; -osity (-ous + -ity) *n*. = the special state or quality 表特殊的状态或性质 -> 特别的精神 -> 强烈的感情 ->] *n.* 敌意; 仇恨
+   1. **animadvert** *v* 谴责, 批评
+       * **animadversion** *n.* 谴责, 批评
    1. **magnanimity** [magn = great 大; anim = spirit 精神; -ity *n*. = the quality 表性质 -> 精神上的大度 ->] *n.* 宽宏大量
        * **magnanimous** *a.* 宽宏大量的
+   1. **equanimity** [equ = even 平衡; anim = spirit 精神; -ity *n*. = the quality 表性质 -> 平稳的精神品质 ->] *n.* 平静; 沉着; 镇定
+       * **equanimous** *a.* 沉着的; 镇定的
+   1. **longanimity** [long (longus) = long 长久的; anim = spirit 精神; -ity *n*. = the quality 表性质 -> 能长久忍耐的精神品质 ->] *n.* 忍耐性; 坚韧性
+       * **longanimous** *a.* 忍耐的; 坚韧的
+   1. **unanimous** [un = one 一; anim = mind 思想; -ous *a*. = having 有...的 ->] *a.* 思想一致的; 观点统一的
+       * **unanimity** *a.* 全体一致; 无异议
+       * **unanimously** *a.* 无异议地

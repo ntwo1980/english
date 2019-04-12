@@ -82,3 +82,7 @@ Root = 词根
    1. **animal** [anim = life 生命; -al *n*. = thing characterized by 具有...特征的东西 -> 有生命的东西 ->] *n.* 动物
        * **animalism** *n.* 动物性; 兽欲
        * **animalize** *v.* 使动物化
+   1. **animate** [anim = life 生命; -ate *a*. = having 有...的 -> 有生命的, 有精神的 ->] *a.* (1) 有生命的 (2) 生气勃勃的 *v* 使活跃
+       * **animation** *n.* 活跃; 生气
+       * **reanimate** *v.* 使复活; 激励
+   1. **animosity** [anim = life, spirit 生命, 精神; -osity (-ous + -ity) *n*. = the special state or quality 表特殊的状态或性质 -> 特别的精神 -> 强烈的感情 ->] *n.* 敌意; 仇恨

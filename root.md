@@ -105,6 +105,36 @@ Root = 词根
        * **equanimous** *a.* 沉着的; 镇定的
    1. **longanimity** [long (longus) = long 长久的; anim = spirit 精神; -ity *n*. = the quality 表性质 -> 能长久忍耐的精神品质 ->] *n.* 忍耐性; 坚韧性
        * **longanimous** *a.* 忍耐的; 坚韧的
+   1. **pusillanimity** [pusill- = week 弱小的; anim = spirit 精神; -ity *n*. = the quality 表性质 -> 弱小的精神品质 ->] *n.* 卑怯, 胆小
+       * **pusillanimous** *a.* 卑怯的, 胆小的
    1. **unanimous** [un = one 一; anim = mind 思想; -ous *a*. = having 有...的 ->] *a.* 思想一致的; 观点统一的
        * **unanimity** *a.* 全体一致; 无异议
        * **unanimously** *a.* 无异议地
+
+1. ann, enn = year 年
+
+   1. **anniversary** [ann = year 年; -i-; vers = to turn 转; -ary *n*. = thing 物 -> 与时间周转一年相关的日子 ->] *n.* 周年纪念日
+       * **centenary** *n.* 一百年; 一百周年纪念
+       * **centenarian** *n.* 百岁老人
+   1. **annual** [ann = year 年; -u-; -al *a.* = of ...的 ->] *a.* 一年的; 每年的 *n.* 年鉴; 年刊
+   1. **annals** [ann = year 年; -al *n.* = thing 物; -s表复数 -> 一年中发生的许多事情 ->] *n.* 编年史; 历史记载
+       * **annalist** *a.* 编年史作者
+   1. **perennial** [per- = through 通; enn = year 年; -i-; -al *a.* = of ...的; -> 贯通一年时间的 ->] *a.* (1) 长年不断的 (2) 长久的
+       * **perenniality** *n.* 常年性; 长久性
+   1. **annuity** [ann = year 年; -u-; -ity *n.* = thing connected with 与...有关的事物; -> 按一年时间计算的钱 ->] *n.* (1) 年金; 年收入 (2) 年金保险投资
+       * **annuitant** *n.* 领受年金者
+   1. **superannuate** [super- = over 超; ann = year or age 年,年龄; -u-; -ate *v.* = to cause to be 使成为 -> 使某人成为超龄者 ->] *v.* 因超过规定年龄而令其退休
+   1. **semiannual** [semi- = half 半; annu = year 年; -al *a.* = of ...的; ->] *a.* 半年的
+   1. **biannual** [bi- = two, twice 二, 两次; annu = year 年; -al *a.* = of ...的 ->] *a.* 每年两度的
+   1. **biennial** [bi- = two 二; enni = year 年; -al *a.* = of ...的 -> 两年的 ->] *a.* 持续两年的; 两年一度的
+       * **biennium** *n.* 两年时间
+       * **millennial** [mille- = thousand] *n.* 千年时间
+       * **sexennial** [sex- = six]
+       * **decennial** [dec- = ten]
+       * **bicentennial** [bi- = two; cent- hundred]
+       * **quadrennial** [quadr- = four]
+       * **novennial** [nov- = nine]
+       * **septennial** [sept- = seven]
+       * **quinquennial** [quinqu- = five]
+       * **octennial** [oct- = eight]
+       * **trimillennial** [tri- = three; mille- = thousand]

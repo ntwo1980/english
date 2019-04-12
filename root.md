@@ -138,3 +138,11 @@ Root = 词根
        * **quinquennial** [quinqu- = five]
        * **octennial** [oct- = eight]
        * **trimillennial** [tri- = three; mille- = thousand]
+
+1. anthrop(o) = man 人类
+
+   1. **anthropology** [anthropo = man 人类; -logy *n* = branch of science 表学科 -> 研究人类的科学 ->] *n.* 人类学
+       * **anthropologist** *n.* 人类学者
+   1. **philanthropist** [phil = to love 爱; anthrop = man 人类; -ist *n* = person 人; -> 爱人类者 ->] *n.* 博爱主义者; 慈善家
+       * **philanthropy** *n.* 慈善; 仁爱
+       * **philanthropic** *n.* 博爱的

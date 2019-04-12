@@ -76,3 +76,9 @@ Root = 词根
    1. **enamor** [en- *v* = to cause to be 使; amo(u)r *n*. = love 恋爱 -> 使恋爱 ->] -> *v.* 使倾心; 使迷恋
        * **enamored** *a.* 倾心的
    1. **amatory** [amat = to love 爱; -ory *a*. = related to 与...有关的 ->] *a.* 恋爱的; 爱慕的
+
+1. anim = life 生命
+
+   1. **animal** [anim = life 生命; -al *n*. = thing characterized by 具有...特征的东西 -> 有生命的东西 ->] *n.* 动物
+       * **animalism** *n.* 动物性; 兽欲
+       * **animalize** *v.* 使动物化

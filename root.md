@@ -33,7 +33,7 @@ Root = 词根
        * **activism** *n.* [哲] 能动主义; 积极,活跃
        * **activist** *n.* 活动分子,积极分子
        * **activity** *n.* 能动性; 活跃; [复] 活动
-   1. **autual** [act = to do 做; -u-; -al *a.* = the act or fact of 表行为或事实 -> ]  *a.* 实际的; 现实的
+   1. **actual** [act = to do 做; -u-; -al *a.* = the act or fact of 表行为或事实 -> ]  *a.* 实际的; 现实的
        * **actuality** *n.* 事实,现存情况; 现实性
        * **actualize** *v.* 实行,使现实化
        * **actualist** *n.* 现实主义者
@@ -143,6 +143,20 @@ Root = 词根
 
    1. **anthropology** [anthropo = man 人类; -logy *n* = branch of science 表学科 -> 研究人类的科学 ->] *n.* 人类学
        * **anthropologist** *n.* 人类学者
-   1. **philanthropist** [phil = to love 爱; anthrop = man 人类; -ist *n* = person 人; -> 爱人类者 ->] *n.* 博爱主义者; 慈善家
+       * **anthropophagy**[phag = to eat] *n.* 食人肉的习性
+   1. **philanthropist** [phil = to love 爱; anthrop = man 人类; -ist *n.* = person 人; -> 爱人类者 ->] *n.* 博爱主义者; 慈善家
        * **philanthropy** *n.* 慈善; 仁爱
        * **philanthropic** *n.* 博爱的
+   1. **misanthropist** [mis = to hate 恨; anthrop = man 人类 -> -ist *n.* = person 人 -> 厌恶人类者 ->] *n.* 离群索居的厌世者; 愤世嫉俗者
+       * **misanthropy** *n.* 厌世
+       * **misanthropic** *a.* 厌世的; 厌世者的
+   1. **anthropoid** [anthrop = man 人类; -oid *a* = like 像...的 ->] *n.* 类人的; 有人形的
+       * **anthropomorphous** [morph = shape] *a.* 有人形的; 似人的
+   1. **anthropography** [anthropo = man 人类; -graphy *n* = the study about ...学 -> 有关人类情况的学说 ->] *n.* 人种地理分布学
+       * **anthropogeography** *n.* 人种地理学
+       * **anthroposociology** *n.* 人种社会学
+       * **anthropometry**[metr = to measure] *n.* 人体测量学
+   1. **anthropogenesis** [anthropo = man 人类; genesis = the origin 起源 ->] *n.* 人类起源和发展学
+   1. **anthropotomy** [anthropo = man 人类; -tomy = cutting ...切开术 ->] *n.* 人类解剖学
+   1. **anthropocentric** [centr = center] *n.* 以人类为宇宙中心的
+   1. **pithecanthrope** [pithec = ape] *n.* 猿人

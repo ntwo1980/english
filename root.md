@@ -171,11 +171,29 @@ Root = 词根
    1. **monarchy** [mon- = one, alone 单一; arch = ruler 统治者 -> -y *n.* = the state 表状态 -> 单人统治的政体 ->] *n.* 君主政体; 君主国
        * **monarchic** *n.*君主制的; 君主国的
        * **monarchism** *n.*君主制度; 君主主义
+       * **archon** *n.*古雅典之执政者; 统治者
    1. **oligarchy** [olig- = few 少; arch = ruler 统治者 -> -y *n.* = the state 表状态 -> 由少数人统治的政府 ->] *n.* 寡头政治; 寡头统治的政府
        * **oligarchic** *n.*寡头政治的
    1. **oligarch** [olig- = few 少, 寡; arch = ruler 统治者 ->  少数统治者之一 ->] *n.* 寡头统治成员; 寡头统治的执政者
    1. **polyarchy** [poly- = many 多; arch = ruler 统治者 -> -y *n.* = the state 表状态 -> 由多数统治的政府 ->] *n.* 多头政治
        * **polyarchic** *n.*多头政治的
+       * **triarchy** *n.*三头政治
    1. **matriarch** [matri = mother 母; arch = ruler 统治者 -> 母权统治者 ->] *n.* 女家长; 女族长
        * **matriarchal** *a.*女家长的; 女族长的
+       * **patriarch**[patri = father] *a.*家长的; 族长的
    1. **matriarchy** [matri = mother 母; arch = rule 统治; -y *n.* the state of 表状态 -> 母权统治 ->] *n.* 母权制; 母系氏族制
+       * **patriarchy**[patri = father] *n.*父权制; 父系氏族制
+   1. **archives** [arch = ruler 统治者; -ive *n.* thing 物 -> 属于统治者或政府的文件 ->] *n.* (1) 档案 (2) 档案室(馆)
+       * **archivist** *n.*档案保管员
+       * **archival** *a.*关于档案的; 在档案中的
+
+    arch还可以当原生前缀或派生前缀使用。arch-的意思的chief(主要的)。
+
+   1. **architect** [arch- = chief 首要的; -i-; tect = builder 建筑者 -> 首席建筑者 ->] *n.* 建筑设计师
+       * **architecture** *n.* 建筑学
+       * **archbishop** *n.* 大主教
+       * **archpriest** *n.* 大祭司
+       * **archangel** *n.* 大天使
+       * **archfriend** *n.* 大恶魔
+   1. **archenemy** [arch- = chief 主要的; enemy *n* 敌人 ->] *n.* 头号敌人; 主要敌人
+       * **arch-criminal** *n.* 罪魁祸首

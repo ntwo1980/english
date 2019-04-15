@@ -178,6 +178,8 @@ Root = 词根
    1. **polyarchy** [poly- = many 多; arch = ruler 统治者 -> -y *n.* = the state 表状态 -> 由多数统治的政府 ->] *n.* 多头政治
        * **polyarchic** *n.*多头政治的
        * **triarchy** *n.*三头政治
+       * **diarchy**[di- = two] *n.*两头政治
+       * **plutarchy**[plut- = wealth] *n.*富豪统治; 富人政府
    1. **matriarch** [matri = mother 母; arch = ruler 统治者 -> 母权统治者 ->] *n.* 女家长; 女族长
        * **matriarchal** *a.*女家长的; 女族长的
        * **patriarch**[patri = father] *a.*家长的; 族长的
@@ -192,8 +194,11 @@ Root = 词根
    1. **architect** [arch- = chief 首要的; -i-; tect = builder 建筑者 -> 首席建筑者 ->] *n.* 建筑设计师
        * **architecture** *n.* 建筑学
        * **archbishop** *n.* 大主教
+       * **hierarch**[hier = sacred] *n.* 教主, 主教
        * **archpriest** *n.* 大祭司
        * **archangel** *n.* 大天使
        * **archfriend** *n.* 大恶魔
+       * **arch-rival** *n.* 首要对手
    1. **archenemy** [arch- = chief 主要的; enemy *n* 敌人 ->] *n.* 头号敌人; 主要敌人
        * **arch-criminal** *n.* 罪魁祸首
+   1. **archipelago** [arch- = 多; pelago = sea 海洋 ->] *n.* 群岛

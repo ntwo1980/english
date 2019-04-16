@@ -202,3 +202,30 @@ Root = 词根
    1. **archenemy** [arch- = chief 主要的; enemy *n* 敌人 ->] *n.* 头号敌人; 主要敌人
        * **arch-criminal** *n.* 罪魁祸首
    1. **archipelago** [arch- = 多; pelago = sea 海洋 ->] *n.* 群岛
+
+1. aud(it) = to hear 听
+
+   1. **audience** [aud = to hear 听; -i-; -ence *n.* = 表行为或状态 -> 听的行为或状态 ->] *n.* (1) 会见; 接见 (2) 听众
+   1. **auditorium** [audit = to hear 听; -orium *n.* = place 场所 -> 听的场所 ->] *n.* (1) 礼堂; 讲厅 (2) 听众席
+   1. **audible** [aud = to hear 听; -ible *a.* = capable of being 能被...的 -> ] *a.* 听得见的; 可闻的
+       * **inaudible** *a.* 听不见的
+       * **audibility** *n.* [物理] 可闻度
+   1. **audit** [audit = to hear 听 ->] *v.* (1) 审查(账目), 审计 (2) 旁听
+       * **auditor** *n.* 查账员, 审计员; (大学)旁听生
+       * **auditress** *n.* 女审计员
+       * **auditorial** *a.* 审计的; 审计员的
+   1. **audition** [audit = to hear 听; -ion *n.* = 表行为 ->] *n.* 对(演员等)试听
+       * **subaudition** [sub- = under] *n.* 领会到的言外之意
+   1. **auditory** [audit = to hear 听; -ory *a.* = relating to 与...有关的 ->] *a.* 听觉的
+       * **audile** *a.*听觉的
+   1. **audio** [audi = to hear 听; -o *a.* = of ...的 -> 与听有关的 ->] *a.* 声音的; 声波的 *n.* 播音; 录音
+       * **audiphone** *n.* 助听器
+   1. **audiology** [audi = to hear 听; -o-; -logy *n.* = 表学科 ->] *n.* 听觉学
+       * **audiologist** *n.* 听觉学学者
+   1. **audiolingual** [audi = to hear 听; lingu = to speak 说 ->] *a.* 听与说的
+
+   以下两个单词是从古法语进入英语的，edi与ey都是audi的异形词。
+
+   1. **obey** [ob- = toward; ey = to hear 听 ->] *v.* 服从; 遵守
+       * **obedient** *a.* 顺从的, 服从的; 遵守的
+       * **obedience** *n.* 顺从, 服从

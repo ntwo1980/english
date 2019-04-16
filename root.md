@@ -229,3 +229,14 @@ Root = 词根
    1. **obey** [ob- = toward; ey = to hear 听 ->] *v.* 服从; 遵守
        * **obedient** *a.* 顺从的, 服从的; 遵守的
        * **obedience** *n.* 顺从, 服从
+
+1. aug, auct, auth = to increase 增加
+
+   1. **august** [aug = to increase 使增大; -ust *a.* = the most 最 -> 增到最大 -> 最伟大的 ->] *a.* 威严的 *n.* (1) 奥古斯特(即古罗马凯撒大帝Augustus, 他自认为是最伟大的帝王) (2) 八月(奥古斯特大帝以自己的名字命名八月份)
+   1. **augment** [aug = to increase 增加; -ment *v.* = to make 使... ->] *v.* (1) 增加, 扩大 (2) 增加, 增大
+       * **augmentative** *a.* 有扩大(增加)作用的
+   1. **auction** [auct = to cause to grow 使增加; -ion *n.* = act 表行为 -> 使价格上升的行为 ->] *n.* 拍卖 *v.* 拍卖
+       * **auctioneer** *n.* 拍卖商
+   1. **author** [auth (auct) = to cause to grow 使增加; -or *n.* = person 人 -> 使事物产生者 ->] *n.* (1) 发起人, 创始者 (2) 著作者, 作家 (3) 造物主, 上帝
+       * **authoress** *n.* 女著作者, 女作家
+       * **authorial** *a.* 作者的

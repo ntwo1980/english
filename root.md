@@ -173,7 +173,7 @@ Root = 词根
        * **monarchism** *n.* 君主制度; 君主主义
        * **archon** *n.* 古雅典之执政者; 统治者
    1. **oligarchy** [olig- = few 少; arch = ruler 统治者 -> -y *n.* = the state 表状态 -> 由少数人统治的政府 ->] *n.* 寡头政治; 寡头统治的政府
-       * **oligarchic** * n.*寡头政治的
+       * **oligarchic** * n.* 寡头政治的
    1. **oligarch** [olig- = few 少, 寡; arch = ruler 统治者 ->  少数统治者之一 ->] *n.* 寡头统治成员; 寡头统治的执政者
    1. **polyarchy** [poly- = many 多; arch = ruler 统治者 -> -y *n.* = the state 表状态 -> 由多数统治的政府 ->] *n.* 多头政治
        * **polyarchic** *n.* 多头政治的
@@ -217,7 +217,7 @@ Root = 词根
    1. **audition** [audit = to hear 听; -ion *n.* = 表行为 ->] *n.* 对(演员等)试听
        * **subaudition** [sub- = under] *n.* 领会到的言外之意
    1. **auditory** [audit = to hear 听; -ory *a.* = relating to 与...有关的 ->] *a.* 听觉的
-       * **audile** *a.*听觉的
+       * **audile** *a.* 听觉的
    1. **audio** [audi = to hear 听; -o *a.* = of ...的 -> 与听有关的 ->] *a.* 声音的; 声波的 *n.* 播音; 录音
        * **audiphone** *n.* 助听器
    1. **audiology** [audi = to hear 听; -o-; -logy *n.* = 表学科 ->] *n.* 听觉学

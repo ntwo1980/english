@@ -382,3 +382,67 @@ Root = 词根
 1. pend, pens = to hang 悬挂; to weigh 称量; to pay 支付
 
 1. pet(it) = to seek or strive 寻求; 追求
+
+1. ple(t), plen = to fill 装满; full 充满的
+
+1. plic, pli, ply = to bend or fold 弯, 折
+
+1. polic, polis, polit = city 城市; citizen 市民
+
+1. pon, pos(it) = to place, to put 放, 置
+
+1. port(at) = to carry 拿, 运
+
+1. prehend, prehens, pris = to seize 抓住
+
+1. press = to press 压
+
+1. quer, ques(i)t, quir, quisit = to seek or ask for 寻求; 要求
+
+1. reg, rect = to rule 划直线; to guide 引导; to govern 治理
+
+1. rog(at) = to ask 询问
+
+1. rupt = to break 破
+
+1. sci = to know 知, 晓
+
+1. scrib, script = to write 写
+
+1. sect = to cut 切
+
+1. sent, sens = to fell 感觉
+
+1. sequ, secut = to follow 跟随
+
+1. serv = (to be) a slave (当)奴仆
+
+1. sid, sess = to sit or settle 坐; 停留
+
+1. sign = mark 记号; to mark 加记号
+
+1. sist = to stand 站立
+
+1. solv, solut = to loosen 松开
+
+1. spec, spect, spic = to look 看
+
+1. spir = to breathe 呼吸
+
+1. st(at) = to stand 站立
+
+1. string, strict, strain, stress = to draw tight or bind 拉紧; 捆绑
+
+1. stru, struct = to pile up or build 堆砌; 建造
+
+1. tang, tact = to touch 接触
+
+1. ten, tin, tent, tain = to hold 握, 持
+
+1. tend, tens, tent = to stretch 伸
+
+1. tract = to draw 拉, 抽
+
+1. un(i) = one 一
+
+1. val(u), vail = to be strong or effective or worh 有力; 有效; 有价值

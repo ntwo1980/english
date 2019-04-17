@@ -243,31 +243,63 @@ Root = 词根
 
 1. bi(o) = life 生命, 生物
 
+   1. **biology** [bio = life 生命; -logy *n.* = branch of science -> 表学科 ->] *n.* 生物学
+
 1. cad, cas, cid = to fall or befall 降; 降临
+
+   1. **case** [cas = to befall 降临; -e *n.* = sth which be befalls -> 降临之事 ->] *n.* (1) 事件 (2) 情况
 
 1. cap, capt, cept, ceive = to to take 取
 
+   1. **capable** [cap = to take 取; -able *a.* = able 能...的 -> 能获取的 ->] *a.* 有能力的; 有才能的
+
+1. ced, ceed, cess = to go 走
+
+   1. **antecedent** [ante- = before 在...前; ced = to go 走; -ent *a.* = -ing表性质 ->] *a.* 先行的; 先前的
+
 1. centr = the middle point 中心
+
+   1. **centre** [centr = the middle point 中心点; -e ->] *a.* 中心点; 中心
 
 1. cern, cret = to separate 分离
 
+   1. **concern** [con-(com-) = thoroughly 彻底地; -cern = to separate 区分 -> 心里区分得一清二楚 -> 非常感兴趣 ->] *v.* (1) 关心; 牵挂 (2) 与...有关; 影响 *n.* 关心; 关系
+
 1. cid, cis = to cut 切
+
+   1. **decide** [de- = away 离; cid = to cut 切; -e -> 切掉 -> 切断某事使之告结 ->] *v.* 裁决; 决定
 
 1. claim, clam(at) = to call out 喊
 
+   1. **claim** [claim = to call out 呼喊 ->] *v.* 要求; 索取
+
 1. clin, clim = to learn or slope 倾斜
+
+   1. **incline** [in- = towards 向; clin = to lean 倾斜; -e -> 向...倾斜 ->] *v.* (1) 弯腰, 点头 (2) 倾斜
 
 1. clud, clus = to shut or close 关闭
 
+   1. **conclude** [con-(com-) = thoroughly 完全地; clud = to shut 关闭; -e -> 完全关闭(使之了结) ->] *v.* (1) 结束 (2) 决定; 断定
+
 1. cord = heart 心
+
+   1. **accord** [ac-(ad-) = towards 向; cord = heart 心; -> 心心相向 ->] *n.* 一致; 调和 *v.* 同意; 一致
 
 1. corp(or) = body 体
 
+   1. **corps** [corp = body 人体 -> person 人; -s表复数 -> 一伙人 -> 团体 ->] *n.* (1) 团队 (2) 特殊兵种, 特种部队
+
 1. cred(it) = to believe or trust 相信; 信任
+
+   1. **credit** [credit = to believe or trust 相信; 信任 ->] *n.* (1) 相信; 信任 (2) 存入款项
 
 1. cresc, cret, cre = to grow 生长
 
+   1. **crescent** [cresc = to grow 生长, 变化; -ent *n.* = the state 表状态 -> (月亮)变化的状态 ->] *n.* (1) 月牙 (2) 月牙形的东西
+
 1. cub, cumb = to lie down 卧
+
+1. **incumbent** [in- = upon 在...之上; cumb = to lie down 躺 -> -ent *a.* = -ing ...的 -> lying upon (sb) 躺在或赋予(某人)身上的 ->] *a.* 作为责任的; 义不容辞的 *n.* 负有责任者; 任公职者
 
 1. cult, col = to till 耕作
 

@@ -299,27 +299,51 @@ Root = 词根
 
 1. cub, cumb = to lie down 卧
 
-1. **incumbent** [in- = upon 在...之上; cumb = to lie down 躺 -> -ent *a.* = -ing ...的 -> lying upon (sb) 躺在或赋予(某人)身上的 ->] *a.* 作为责任的; 义不容辞的 *n.* 负有责任者; 任公职者
+    1. **incumbent** [in- = upon 在...之上; cumb = to lie down 躺 -> -ent *a.* = -ing ...的 -> lying upon (sb) 躺在或赋予(某人)身上的 ->] *a.* 作为责任的; 义不容辞的 *n.* 负有责任者; 任公职者
 
 1. cult, col = to till 耕作
 
+   1. **colony** [col = to inhabit 定居; -on = land 土地; -y *n.* = 在某个地块定居或定居的结果 ->] *n.* 殖民地
+
 1. cur(r), curs, cours = to run 跑
+
+   1. **occur** [oc-(ob-) = towards 向; cur = to run 跑; 向...跑来 ->] *v.* (1) 出现 (2) 发生 (3) 被想到
 
 1. cur = care 关心
 
+   1. **cure** [cur = care 关心; -e -> 对病人的关心 ->] *n.* 治疗; 治法 *v.* 治疗; 治愈
+
 1. cycl = circle 圆环
+
+   1. **bicycle** [bi- = two 二; cycl = circle 圆环; -e -> 两个圆轮 ->] *n.* 自行车 *v.* 骑自行车
 
 1. dem(o) = the people 人民
 
+   1. **democracy** [demo = the people 人民; -cracy *n.* = 权力, 统治 -> 人民的统治或政权 ->] *n.* 民主政权; 民主社会
+
 1. dic, dict(at) = to say 说
+
+   1. **indicate** [in- = towards 对; dic = to say 说; -ate *v.* -> 针对某事说清楚 ->] *v.* (1) 指出; 表明 (2) 表示; 暗示
 
 1. doc, doct = to teach 教
 
+   1. **doctor** [doct = to teach 教; -or *n.* = person 人-> 为师者, 博学之士 ->] *n.* (1) 博士 (2) 医生
+
 1. duc, duct = to lead 引导
+
+   1. **conduct** [con-(com-) = completely 表加强词义; duct = to lead 引导 ->] *v.* (1) 引导; 带领 (2) 为人; 表现 (3) 传导(热、电) *n.* 行为; 品行
+
+1. equ = even, equal 相等的
+
+   1. **equal** [equ = even 相等的; -al *a.* = being 有...性质的-> 性质相等的 ->] *a.* 相等的; 等值的, 等量的
 
 1. fac, fact, fect = to do or make 做
 
+   1. **facile** [fac = to do 做; -ile *a.* = able or easy 能...的, 易...的-> 能做的, 易办的 ->] *a.* (1) 驾轻就熟的; 熟练的; 流畅的 (2) 易做的
+
 1. fer = to carry, to bring, to bear 拿; 带; 负
+
+   1. **confer** [con-(com-) = together 一起; fer = to bring 带来-> 把各人观点带到一起来 ->] *v.* 交换意见; 协商
 
 1. fid = to trust 信任
 

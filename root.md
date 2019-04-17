@@ -446,3 +446,15 @@ Root = 词根
 1. un(i) = one 一
 
 1. val(u), vail = to be strong or effective or worh 有力; 有效; 有价值
+
+1. ven, vent = to come 来
+
+1. vert, vers = to turn 转
+
+1. vid, vis = to see 看见
+
+1. viv, vit = to live 活; life 生命
+
+1. voc, vok = to call 叫喊; voice 声音
+
+1. volv, volut = to roll or turn 滚动; 转动

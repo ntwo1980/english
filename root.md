@@ -240,3 +240,145 @@ Root = 词根
    1. **author** [auth (auct) = to cause to grow 使增加; -or *n.* = person 人 -> 使事物产生者 ->] *n.* (1) 发起人, 创始者 (2) 著作者, 作家 (3) 造物主, 上帝
        * **authoress** *n.* 女著作者, 女作家
        * **authorial** *a.* 作者的
+
+1. bi(o) = life 生命, 生物
+
+1. cad, cas, cid = to fall or befall 降; 降临
+
+1. cap, capt, cept, ceive = to to take 取
+
+1. centr = the middle point 中心
+
+1. cern, cret = to separate 分离
+
+1. cid, cis = to cut 切
+
+1. claim, clam(at) = to call out 喊
+
+1. clin, clim = to learn or slope 倾斜
+
+1. clud, clus = to shut or close 关闭
+
+1. cord = heart 心
+
+1. corp(or) = body 体
+
+1. cred(it) = to believe or trust 相信; 信任
+
+1. cresc, cret, cre = to grow 生长
+
+1. cub, cumb = to lie down 卧
+
+1. cult, col = to till 耕作
+
+1. cur(r), curs, cours = to run 跑
+
+1. cur = care 关心
+
+1. cycl = circle 圆环
+
+1. dem(o) = the people 人民
+
+1. dic, dict(at) = to say 说
+
+1. doc, doct = to teach 教
+
+1. duc, duct = to lead 引导
+
+1. fac, fact, fect = to do or make 做
+
+1. fer = to carry, to bring, to bear 拿; 带; 负
+
+1. fid = to trust 信任
+
+1. fig(ur), fict = to shape 塑造
+
+1. fin = end, limit 末尾
+
+1. flu, flux = to flow 流动
+
+1. form, form(at) = shape 形状; to form 形成
+
+1. fort, forc = strong 强; strength 力量
+
+1. frag, fract = to break 破
+
+1. fund, found, fus = to melt, to pour 熔化; 浇注
+
+1. gen(er) = birth, race 出生; 种类
+
+1. ger, gest = to bear or carry 承担; 运送
+
+1. gnos, gnit, gniz = to know 知
+
+1. grad, gress = to step 迈步; step 步
+
+1. gram(m), graph = written character, writing 书写符号; 书写物
+
+1. grat, grac = pleasing, thankful 使人高兴的; 感激的
+
+1. hab(it), hibit = to hold or have 拥有, 占有
+
+1. it = to go 走
+
+1. jac, ject = to throw 投掷
+
+1. junct, join = to connect 连接
+
+1. jur, just = law, right 法律; 公正
+
+1. lat = to carry, to bring, to bear 拿; 带; 负
+
+1. leg, lig, lect = to gather 收集; to pick 挑选
+
+1. leg, legis = law 法律
+
+1. loc = place 地方
+
+1. log, logue = speech, reason 说话; 推理
+
+1. loqu, locut = to speak 讲
+
+1. lud, lus = to play or mock 玩; 弄
+
+1. man(u) = hand 手
+
+1. mand, mend = to entrust 委托
+
+1. medi = middle 中间
+
+1. min = smaller, less 较小; 较少
+
+1. mit, miss = to send 发, 送
+
+1. mod = measure 度量; manner 方式
+
+1. mont, mount = hill 山; to climb 攀登
+
+1. mort = death 死
+
+1. mov, mot, mob = to move 运动
+
+1. nasc, nat = to be born 出生
+
+1. not = to get to know 知晓
+
+1. nounc, nunci = to tell 讲述
+
+1. ord(in) = order 顺序
+
+1. par, per = to get ready 准备
+
+1. part, part = 部分; to part 分开
+
+1. pati, pass = to suffer or endure 承受, 忍受; feeling 感受
+
+1. pati, patern = father, fatherland 父亲, 祖先; 祖国
+
+1. ped, pod = foot 脚, 足
+
+1. pel, puls = to drive or poush 促使; 推动
+
+1. pend, pens = to hang 悬挂; to weigh 称量; to pay 支付
+
+1. pet(it) = to seek or strive 寻求; 追求

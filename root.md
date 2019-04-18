@@ -347,23 +347,43 @@ Root = 词根
 
 1. fid = to trust 信任
 
+   1. **fidelity** [fid = to trust 信任; -el-; -ity = *n.* the quality 表性质 -> 可信任之品质 ->] *n.* (1) 忠诚; 忠贞 (2) (收音、录音的)精确度, 保真度
+
 1. fig(ur), fict = to shape 塑造
+
+   1. **figure** [figur = to shape 塑造; -e- 实际上或在心中塑造某物 ->] *v.* (1) 塑造(形象) (2) 想象 (3) 揣测; 估计 *n.* (人的)塑像, 肖像 (2) 人物, 名人 (3) 数字
 
 1. fin = end, limit 末尾
 
+   1. **final** [fin = end 末尾; -al *a.* = of ...的 -> 末尾的 ->] *a.* (1) 最后的 (2) 决定性的; 最终的
+
 1. flu, flux = to flow 流动
+
+   1. **fluid** [flu = to flow 流; -id *a.* = having the quality 有...性质的 -> 有流动性质的 ->] *a.* 流动的; 流体的 *n.* 流体; 气体; 液体
 
 1. form, form(at) = shape 形状; to form 形成
 
+   1. **form** [form = to give a shape to 形成 ->] *v.* (1) 使成形, 制作 (2) 组成 (3) 成型, 生成
+
 1. fort, forc = strong 强; strength 力量
+
+   1. **effort** [ef-(ex-) = out 出; fort = strong 强 -> strength 力量 -> 使出力气 ->] *n.* 艰难的尝试; 努力
 
 1. frag, fract = to break 破
 
+   1. **fragile** [frag = to break 破; -ile *a.* = easy to be 易被...的 -> 易打破的 ->] *a.* 易破的; 易碎的
+
 1. fund, found, fus = to melt, to pour 熔化; 浇注
+
+   1. **confuse** [con-(com-) = together 一起; fus = to melt 熔化; -e -> 熔化在一起无法分清 ->] *v.* (1) 搞乱; 混淆 (2) 分不清; 弄糊涂
 
 1. gen(er) = birth, race 出生; 种类
 
+   1. **genius** [gen = birth 出生; -i-; -us *n.* = the quality 表性质; -> 一个人与生俱有的品性 ->] *n.* (1) 天性 (2) 天资; 天赋 (3) 天才人物
+
 1. ger, gest = to bear or carry 承担; 运送
+
+   1. **belligerent** [bell = war 战争; -i-; ger = to bear 承担, 从事; -ent *a.* = -ing ...的 -> 从事战争的 ->] *a.* (1) 交战中的 (2) 好战的 *n.* 交战方
 
 1. gnos, gnit, gniz = to know 知
 

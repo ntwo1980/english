@@ -387,9 +387,15 @@ Root = 词根
 
 1. gnos, gnit, gniz = to know 知
 
+   1. **diagnose** [dia- = through 通过; gnos = to know 知道; -e -> 通过查询得知->] *v.* 诊断
+
 1. grad, gress = to step 迈步; step 步
 
+   1. **grade** [grad = step 步; -e -> 通过查询得知->] *n.* 步; 级; 阶段 *v.* (1) 按等级分级 (2) 评级; 评分
+
 1. gram(m), graph = written character, writing 书写符号; 书写物
+
+   1. **grammar** [gramm = letter 字母, 文字; -ar *n.* = thing 物-> 与文字有关的事物-> 文字技巧 ->] *n.* 文法; 语法
 
 1. grat, grac = pleasing, thankful 使人高兴的; 感激的
 

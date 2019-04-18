@@ -399,9 +399,15 @@ Root = 词根
 
 1. grat, grac = pleasing, thankful 使人高兴的; 感激的
 
-1. hab(it), hibit = to hold or have 拥有, 占有
+   1. **grateful** [grat = pleasing, thankful 使人高兴的; 感谢的; -e-; -ful *a.* = full of 富有...的 ->] *a.* 令人快意的; 可喜的 (2) 感谢的; 感激的
+
+1. hab(it), hibit = to hold or hold 拥有, 占有
+
+   1. **habit** [to hold or hold 拥有, 占有; -it *n.* = thing 表事物 -> 占据或左右(一个人思想和行为)的东西 ->] *n.* 习惯
 
 1. it = to go 走
+
+   1. **ambition** [amb- = round 周围; it = to go 走; -ion *n.* = -ing 表行为-> (为选票)四方奔走 ->] *n.* (1) 强烈欲望, 雄心, 抱负 (2) 追求的目标
 
 1. jac, ject = to throw 投掷
 

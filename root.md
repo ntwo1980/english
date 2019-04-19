@@ -491,11 +491,19 @@ Root = 词根
 
 1. not = to get to know 知晓
 
+   1. **note** [not = to know 知道; -e = sth written for one to know 让人知道的书面材料 ->] *n.*  (1) 便条 (2) 笔记 (3) 注意 *v.* 做笔记 (2) 注意
+
 1. nounc, nunci = to tell 讲述
+
+   1. **pronouce** [pro- = force, in public 向前, 公开地; nounc = to tell 讲述; -e -> 向公众讲述 ->] *v.*  (1) (正式)宣布 (2) 发(单词或字母)音
 
 1. ord(in) = order 顺序
 
+   1. **order** [ord = regular series 顺序; -er(-re) *n.* = the way 表方式 -> 按顺序排列的方式 ->] *n.*  (1) 次序, 顺序 (2) 整齐, 有条理 (3) 命令; 指示 *v.* (1) 下命令 (2) 订货, 预定
+
 1. par, per = to get ready 准备
+
+   1. **prepare** [pre- = beforehand 事先; -par = to get ready 准备; -e -> 使某事或自己事先做好准备 ->] *v.*  (1) 做好准备(应对未来) (2) 策划; 筹备 (3) 准备; 预备
 
 1. part, part = 部分; to part 分开
 

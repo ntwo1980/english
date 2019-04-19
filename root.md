@@ -411,43 +411,83 @@ Root = 词根
 
 1. jac, ject = to throw 投掷
 
+   1. **adjacent** [ad- = to, next to 向，靠近; jac = to throw 投; -ent *a.* = -ing ...的-> 被投向某物的, 靠近某物放置的 ->] *a.* 邻近的; 毗连的
+
 1. junct, join = to connect 连接
+
+   1. **conjunction** [con-(com-) = together 一起; junct = to connect 连接; -ion *n.* = the state 表行为状态-> 连在一起的状态 ->] *n.* (1) 连接; 结合 (2) 连词
 
 1. jur, just = law, right 法律; 公正
 
+   1. **jury** [jur = to swear by law 发誓; -y *n.* = the act 表行为-> 一组人在法庭发誓的行为 ->] *n.* 陪审团
+
 1. lat = to carry, to bring, to bear 拿; 带; 负
+
+   1. **translate** [trans- = from...to... 自...到...; lat = to carry 拿, 送 -> -e -> 把意思从一种语言传送到另一种语言 ->] *v.* 翻译
 
 1. leg, lig, lect = to gather 收集; to pick 挑选
 
+   1. **collect** [col-(com-) = completely 表加强词义; lect = to gather 收集 ->] *v.* (1) 收集 (2) 集合
+
 1. leg, legis = law 法律
+
+   1. **legal** [leg = law 法律; -al *a.* = of ...的 -> 法律的 ->] *a.* (1) 依照法律的 (2) 合法的 (3) 法律的; 律师的
 
 1. loc = place 地方
 
+   1. **local** [loc = place 地方; -al *a.* = of ...的 ->] *a.* 地方的; 当地的
+
 1. log, logue = speech, reason 说话; 推理
+
+   1. **logic** [log = reason 推理; -ic *n.* = the science or art of ...学 ->] *n.* 逻辑学
 
 1. loqu, locut = to speak 讲
 
+   1. **eloquent** [e-(ex-) = out 出; loqu = to speak 说; -ent *a.* = having the quality 有...性质的 -> 能自如地发言的 ->] *a.* 有口才的; 雄辩的
+
 1. lud, lus = to play or mock 玩; 弄
+
+   1. **delude** [de- = down 下; lud = to play 戏弄; -e -> 在下面戏弄, 贬低 ->] *v.* 哄骗; 欺骗
 
 1. man(u) = hand 手
 
+   1. **manual** [manu = hand 手; -al *a.* = pertaining to ...的 ->] *a.* (1) 手的 (2) 手工做的; 用手操作的 *n.* 手册
+
 1. mand, mend = to entrust 委托
+
+   1. **mandate** [mand = to entrust 委托; -ate *v.* = to entrust sth to sb 将某事委托某人 ->] *v.* (1) 授权 (2) 命令; 规定 *n.* (1`) 授权 (2) 命令; 指令
 
 1. medi = middle 中间
 
+   1. **medium** [medi = middle 中间; -um *n.* = thing 物 -> 中间物 ->] *n.* (1) 媒介物(在中间起传播作用的物质) (2) 媒介, 媒体
+
 1. min = smaller, less 较小; 较少
+
+   1. **minor** [minor = smaller or less 较小或较少的 ->] *a.* 次要的 *n.* 未成年人
 
 1. mit, miss = to send 发, 送
 
+   1. **admit** [ad- = to, into 去, 进 -> mit = 发送, 放行 -> 送进去, 放进去 ->] *v.* (1) 让...进入 (2) 接纳
+
 1. mod = measure 度量; manner 方式
+
+   1. **model** [mod = measure 度量; -el *n.* = thing 事物 -> 建筑师度量的结果 -> 建筑师的图样 ->] *n.* (1) 模型, 模式 (2) 典型; 模范 (3) 模特儿
 
 1. mont, mount = hill 山; to climb 攀登
 
+   1. **moutain** [mount = hill 山; -ain *n.* = thing 物 -> 像山一样的物体 ->] *n.* (1) 山, 山岳 (2) 大推, 大量
+
 1. mort = death 死
+
+   1. **mortal** [mort = death 死; -al *a.* = having the nature 表特性 -> 有死亡特征的 ->] *a.* (1) 终有一死的 (2) 致死的, 致命的
 
 1. mov, mot, mob = to move 运动
 
+   1. **move** [mov = to move 移动; -e ->] *v.* (1) 移动 (2) 感动
+
 1. nasc, nat = to be born 出生
+
+   1. **nation** [to be born 出生; -ion *n.* = the state 表行为状态 -> 人们出生的环境 -> 人们的出身种族 ->] *n.*  国民; 民族
 
 1. not = to get to know 知晓
 

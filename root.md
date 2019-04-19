@@ -547,70 +547,144 @@ Root = 词根
 
 1. pon, pos(it) = to place, to put 放, 置
 
+   1. **compose** [com- = together 一起; pos = to place 放置 ; -e -> 放置在一起 ->] *v.* (1) 组成 (2) 创作
+
 1. port(at) = to carry 拿, 运
+
+   1. **portable** [port = to carry 拿, 带; -able *a.* = capable of 可...的 ->] *a.* 可携带的; 轻便的
 
 1. prehend, prehens, pris = to seize 抓住
 
+   1. **comprehend** [com- = wholly 完全地; prehend = to seize 抓住 -> 抓住所有的要点 ->] *v.* 理解, 领会
+
 1. press = to press 压
+
+   1. **press** [press = to press 压 ->] *v.* (1) 压 (2) 挤取, 榨取 (3) 强调, 坚持 *n.* (1) 印刷机 (2) 出版业, 新闻机构
+
+1. prob, prov = to test 试验, 验证
+
+   1. **probe** [prob = to test 试验; -e -> 试验, 检验 ->] *v.* 探索; 探究 *n.* 探查, 调查
 
 1. quer, ques(i)t, quir, quisit = to seek or ask for 寻求; 要求
 
+   1. **conquer** [con- = completely 彻底地(表强调); quer = to seek 寻求 -> 彻底地找出某物 -> 即使用武力也要获得某物->] *v.* (1) 征服, 占有 (2) 克服; 占用
+
 1. reg, rect = to rule 划直线; to guide 引导; to govern 治理
+
+   1. **region** [reg = to rule or govern 治理; -ion *n.* = the state 表行为状态 -> 治理的状态 -> 治下的地区->] *n.* (1) 行政区 (2) 地带; 地区
 
 1. rog(at) = to ask 询问
 
+   1. **interrogate** [inter- = between 在...之间; rogat = to ask 询问; -e -> 在许多问题之间不断询问->] *v.* (1) 审问; 盘问 (2) 查询
+
 1. rupt = to break 破
+
+   1. **corrupt** [cor-(com-) = thoroughly 彻底地; rupt = to break 破 -> 彻底破坏->] *v.* 使堕落; 腐蚀 *a.* 贪污的; 腐败的
 
 1. sci = to know 知, 晓
 
+   1. **science** [sci = to know 知; -ence *n.* = to result 表行为结果 -> 知的结果, 知识->] *n.* 系统知识; 科学
+
 1. scrib, script = to write 写
+
+   1. **describe** [de- = down 下; scrib = to write 写; -e -> 写下 ->] *v.* 描写; 叙述
 
 1. sect = to cut 切
 
+   1. **section** [sect = to cut 切; -ion *n.* = the result 表结果 -> 切割某物的结果 ->] *n.* (1) 切下的部分, 块 (2) (事物的)部分
+
 1. sent, sens = to fell 感觉
+
+   1. **sentence`** [sent = to feel 感觉; -ence *n.* = thing 物 -> 表达感觉或想法的东西 ->] *n.* (意思完整的一组词)句子
 
 1. sequ, secut = to follow 跟随
 
+   1. **consequent** [con-(com-) = completely 完全地; sequ = to follow 跟随; -ent *a.* = -thing ...的 -> 紧紧跟随的 ->] *a.* 随之发生的; 作为结果的
+
 1. serv = (to be) a slave (当)奴仆
+
+   1. **serve** [serv = to be a slave 当奴仆; -e -> = 如仆人般行事 ->] *v.* (1) 为...端上饭菜, 服侍...进餐 (2) 供职于; 服役 (3) 提供, 供应
 
 1. sid, sess = to sit or settle 坐; 停留
 
+   1. **preside** [pre- = before 前; sid = to sit 坐; -e -> 坐在其他人前面 ->] *v.* 主持; 做会议主席
+
 1. sign = mark 记号; to mark 加记号
+
+   1. **sign** [sign = mark, or to mark (加) 记号 ->] *n.* 符号; 记号 (2) 标志, 标记 *v.* 签(名), 署(名) (2) 以动作示意
 
 1. sist = to stand 站立
 
+   1. **assist** [as-(ad-) = to, at 在; sist = to stand 站 -> 站在某人身边 ->] *v.* 帮助
+
 1. solv, solut = to loosen 松开
+
+   1. **resolve** [re- = back 回; solv = to loosen 松开; -e -> 松开(结节)恢复原状 ->] *v.* (1) 解决(问题、困难等) (2) 决定; 下决心 *n.* 决心, 决意
 
 1. spec, spect, spic = to look 看
 
+   1. **expect** [ex- = out 外; (s)pect = to look 看 -> 向外张望某物 ->] *v.* (1) 盼望; 期待 (2) 要求; 期望
+
 1. spir = to breathe 呼吸
+
+   1. **spirit** [spir = to breathe 呼吸; -it *n.* = the act 表行为 -> 呼吸, 气息 -> 生存的要素 -> 灵魂 ->] *n.* 灵魂; 心灵; 精神
 
 1. st(at) = to stand 站立
 
+   1. **state** [st = to stand 站立; -ate *n.* = thing 物 -> 立着的物体, 建立的东西 ->] *n.* (1) 总的模样, 状态 (2) 政府; 国家或州 *v.* 陈述, 说明
+
 1. string, strict, strain, stress = to draw tight or bind 拉紧; 捆绑
+
+   1. **stringent** [string = to draw tight 拉紧; -ent *a.* = -ing ...的 -> 拉紧绳子的, 即绑紧某物的 ->] *a.* (规定或条件)严厉的
 
 1. stru, struct = to pile up or build 堆砌; 建造
 
+   1. **structure** [struct = to build 建造; -ure *n.* = the way or result 表方式或结果 -> 建造的方式或结果 ->] *n.* (1) 结构; 构造 (2) 机构; 系统 *v.* 计划; 组识
+
 1. tang, tact = to touch 接触
+
+   1. **contact** [con-(com-) = wholly 完全地(表强调); tact = to touch 接触 ->] *n.* 接触; 联系 *v.* 与...联系 *a.* 联系用的
 
 1. ten, tin, tent, tain = to hold 握, 持
 
+   1. **contain** [con-(com-) = together 一起; tain = to hold 保持 -> 保持在一起 ->] *v.* (1) 容纳; 装得下 (2) 包含 (3) 控制; 抑制
+
 1. tend, tens, tent = to stretch 伸
+
+   1. **tend** [tend = to stretch 伸 ->] *v.* (1) 伸向; 趋向 (2) 倾向
 
 1. tract = to draw 拉, 抽
 
+   1. **contract** [con-(com-) = together 一起; tract = to draw 拉 ->] *v.* (1) 收缩 (2) 缔结(条约); 订立(合同) *n.* 契约; 合同
+
 1. un(i) = one 一
+
+   1. **unify** [un = one 单一; -i-; -fy *v.* = to make 使... ->] *v.* 联合; 使统一
 
 1. val(u), vail = to be strong or effective or worh 有力; 有效; 有价值
 
+   1. **value** [valu = to be worth 有价值; -e; ->] *v.* (1) 估价 (2) 重视 *n.* (1) 价值 (2) 重要性
+
 1. ven, vent = to come 来
+
+   1. **convene** [con-(com-) = together 一起; ven = to come 来; -e ->] *v.* 集合; 召集
 
 1. vert, vers = to turn 转
 
+   1. **convert** [con-(com-) = wholly 完全(表强调); vert = to turn 转变 ->] *v.* (1) 改变; 改成 (2) 转变; 变换
+
 1. vid, vis = to see 看见
+
+   1. **evident** [e-(ex-) = out 出; vid = to see 看; -ent *a.* = -ing ...的 -> 看得出的 ->] *a.* 显而易见的; 明白的
 
 1. viv, vit = to live 活; life 生命
 
+   1. **vivid** [viv = to live 活; -id *a.* = 有...特点的 -> 特别活的 ->] *a.* (1) 有生气的; 活泼的 (2) 生动的
+
 1. voc, vok = to call 叫喊; voice 声音
 
+   1. **vocal** [voc = voice 声音; -al *a.* = pertaining to ...的 ->] *a.* (1) 声音的; 发音的 (2) 畅所欲言的
+
 1. volv, volut = to roll or turn 滚动; 转动
+
+   1. **invole** [in- = into 进入; volv = to roll 滚, 卷; -e -> 滚进去, 卷入 ->] *v.* (1) 使卷入; 使陷入 (2) 包含; 必须包括

@@ -507,9 +507,15 @@ Root = 词根
 
 1. part, part = 部分; to part 分开
 
+   1. **part** [part = part 部分 ->] *n.* 部分, 局部 *v.* (使)分开
+
 1. pati, pass = to suffer or endure 承受, 忍受; feeling 感受
 
-1. pati, patern = father, fatherland 父亲, 祖先; 祖国
+   1. **patient** [pati = to endure 忍受; -ent *a.* = -ing 表性质 ->] *a.* 忍耐的, 容忍的 *n.* 病人
+
+1. patri, patern = father, fatherland 父亲, 祖先; 祖国
+
+   1. **patriarch** [patri = father 父; arch = ruler 统治者 -> 父权统治者 ->] *n.* (1) 家长; 族长 (2) 年高德劭者
 
 1. ped, pod = foot 脚, 足
 

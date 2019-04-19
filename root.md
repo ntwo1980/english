@@ -688,3 +688,127 @@ Root = 词根
 1. volv, volut = to roll or turn 滚动; 转动
 
    1. **invole** [in- = into 进入; volv = to roll 滚, 卷; -e -> 滚进去, 卷入 ->] *v.* (1) 使卷入; 使陷入 (2) 包含; 必须包括
+
+1. acu = needle 针
+
+1. aer = air 空气
+
+1. agog, agogue = leading, leader 引导; 引导者
+
+1. agon = contest 竞争
+
+1. arg = field 田; agriculture 农业
+
+1. alg = pain 痛
+
+1. ali = another, otherwise 另一, 另外
+
+1. alt = high 高
+
+1. alter = the other 其他, 另一
+
+1. ambul, ambl = to walk 行走
+
+1. ampl = large, spacious 大的, 宽的
+
+1. andr = man, male 人, 男人
+
+1. angul, angl = angle 角
+
+1. auth = flower 花
+
+1. apt = to fit 适合
+
+1. aqu = water 水
+
+1. arbor = tree 树木
+
+1. arc, erc = to keep or maintain 保持; 维持
+
+1. arc, arch = bow 弓
+
+1. arm = to arm 武装
+
+1. aster, astr = star 星
+
+1. aur = ear 耳
+
+1. auto = self 自己
+
+1. avi = bird 鸟
+
+1. ax, axi = axle 轴
+
+1. ball = to dance 跳舞
+
+1. ball, bol = to throw 投掷
+
+1. bar = weight 重量
+
+1. bar (r) = bar or rod 横木; 棒条
+
+1. bas (s) = low 低的
+
+1. bat (t) = to beat 打击
+
+1. bell = war 战争
+
+1. bell, beau = handsome, beauty 漂亮, 美丽
+
+1. bibli = book 书
+
+1. blanc, blank = white 白
+
+1. bon = good 好的
+
+1. brev = short 短
+
+1. burs, purs = purse 钱包; 资金
+
+1. camp, champ = open field 田野
+
+1. cand = to blow, to be white 发光; 变白
+
+1. cap(it) = head 头
+
+1. car(r), char = wagon 车
+
+1. cardi = heart 心
+
+1. carn = flesh 肉
+
+1. cart, chart = a leaf of writing 页; 书写纸张
+
+1. cast, chast = pure race 纯洁的种姓
+
+1. cav = hollow 凹陷
+
+1. cent = hundred 百
+
+1. cert = settled 确定的
+
+1. chef, chief = head 头领
+
+1. chrism, Christ = consecrated oil 圣膏, 圣油
+
+1. chron = time 时间
+
+1. cing, cinct = to grid or hind 束, 阻
+
+1. circ = ring 圆, 环
+
+1. cit = to call or arouse 唤起
+
+1. civ, cit = citizen 居民
+
+1. corn, horn = horn 动物的角
+
+1. coron = crown 王冠
+
+1. cosm = world, universe 世界, 宇宙
+
+1. crim(in) = accusation or judgment 罪名; 裁决
+
+1. crit = to judge 判断
+
+1. cruc = cross 十字, 叉

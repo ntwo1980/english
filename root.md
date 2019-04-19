@@ -519,17 +519,31 @@ Root = 词根
 
 1. ped, pod = foot 脚, 足
 
+   1. **pedal** [ped = 脚, 足; -al *a.* = belonging to 属于...的 -> 属于脚或足的 ->] *a.* of the foot 脚的, 足的 *n.* 脚踏板
+
 1. pel, puls = to drive or poush 促使; 推动
+
+   1. **compel** [com- = completely 完全(表加强词义); pel = to drive 促使 -> 驱使(某人干某人) ->] *v.* 迫使; 强求
 
 1. pend, pens = to hang 悬挂; to weigh 称量; to pay 支付
 
+   1. **depend** [de- = down 下; pend = to hang 悬挂 -> 挂在某物下 -> 靠某物支持 ->] *v.* (1) 依靠; 依赖 (2) 取决于
+
 1. pet(it) = to seek or strive 寻求; 追求
+
+   1. **compete** [com- = together 一起; pet = to strive 追求 -> -e -> 与他人一起追求 ->] *v.* 比赛; 竞争
 
 1. ple(t), plen = to fill 装满; full 充满的
 
+   1. **complement** [com- = wholly 完全(表强调); ple = to fill 装填 -> -ment *n.* the means 表手段 -> 完全填满的手段 ->] *n.* 补充, 补充物 *v.* 补足, 补充
+
 1. plic, pli, ply = to bend or fold 弯, 折
 
+   1. **apply** [ap-(ad-) = to 向; ply = to fold 折 -> 折向某物以便与之相连 ->] *v.* (1) 运用, 应用 (2) 适用 (3) 申请(参与)
+
 1. polic, polis, polit = city 城市; citizen 市民
+
+   1. **police** [polic = city 城市; -e -> 治理城市或国家 -> 维持城市或国家内部秩序的团体 ->] *n.* 警察, 警方 *v.* 有警力来控制
 
 1. pon, pos(it) = to place, to put 放, 置
 

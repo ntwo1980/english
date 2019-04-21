@@ -695,33 +695,63 @@ Root = 词根
 
 1. aer = air 空气
 
+   1. **aerial** [aer; -ial *a.*] *a.* 空气的; 航空的
+
 1. agog, agogue = leading, leader 引导; 引导者
+
+   1. **demagogue** [dem; agogue] *n.* 蛊惑民心的政客; [史] 民众领袖
 
 1. agon = contest 竞争
 
+   1. **agony** [agon; -y *n.*] *n.* 痛苦; 创痛
+
 1. arg = field 田; agriculture 农业
+
+   1. **agrarian** [agr; -arian *a.*] *a.* 耕地的, 土地的; 农民的
 
 1. alg = pain 痛
 
+   1. **analgesic** [an-; alg; -esic *a.*] *a.* 止痛的 *n.* 止痛药
+
 1. ali = another, otherwise 另一, 另外
+
+   1. **alien** [ali; -en *a./n.*] *a.* 外国的; 异己的 *n.* 外国的; 外星人
 
 1. alt = high 高
 
+   1. **altar** [alt; -ar *n.*] *n.* 祭坛; 圣坛
+
 1. alter = the other 其他, 另一
+
+   1. **alter** [alter] *v.* 改变, 变动; 使变样
 
 1. ambul, ambl = to walk 行走
 
+   1. **ambulance** [ambul; -ance *n.*] *n.* 流动医院; 救护车
+
 1. ampl = large, spacious 大的, 宽的
+
+   1. **ample** [ampl; -e] *a.* 宽大的; 充分的, 足够的
 
 1. andr = man, male 人, 男人
 
+   1. **android** [andr; -oid *n.*] *n.* (科幻小说中的)机器人, 似人自动机
+
 1. angul, angl = angle 角
+
+   1. **angular** [angul; -ar *a.*] *a.* 有角的; 尖的
 
 1. auth = flower 花
 
+   1. **anthology** [anth; -o-; -logy *n.*] *n.* 选集
+
 1. apt = to fit 适合
 
+   1. **apt** [apt] *a.* 恰当的, 贴切的
+
 1. aqu = water 水
+
+   1. **aquarium** [aqu; -arium *n.*] *n.* 水族馆
 
 1. arbor = tree 树木
 

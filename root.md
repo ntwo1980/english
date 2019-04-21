@@ -812,3 +812,287 @@ Root = 词根
 1. crit = to judge 判断
 
 1. cruc = cross 十字, 叉
+
+1. crypt = to hide 藏
+
+1. culp = fault 错
+
+1. cuss = to shake 摇动
+
+1. damn, demn = to penalize 处罚
+
+1. de = god 神
+
+1. dec(or) = to seem good or fitting 像样, 得体
+
+1. decem, decim, dec = ten 十; tenth, 第十
+
+1. dent = tooth 齿
+
+1. derm(at) = skin 皮肤
+
+1. di = day 日子
+
+1. dign, dain = worthy or merited 值得的
+
+1. dogm, dox = belief 相信
+
+1. dol = to feel pain 痛苦
+
+1. dom = house 屋
+
+1. domin = owner, lord 主人
+
+1. don = to give 给
+
+1. dorm(it) = to sleep 睡
+
+1. drom = run 跑
+
+1. du, dupl = two 二; twofold or double 两倍
+
+1. dur = to harder or last 使坚固; 持久
+
+1. dyn, dynam = power, force 力
+
+1. ego = I 我
+
+1. em, empt = to buy 买
+
+1. erg = work 工作, 功
+
+1. err = to wander 徘徊
+
+1. ess, est = to be 是; 存在
+
+1. estim = to value 估价
+
+1. ev = age, life 年代
+
+1. fabric = workshop 作坊
+
+1. fabu, fabl = speaking 说
+
+1. fall, fals, fail = to deceive 骗
+
+1. fam = report, fame 名声
+
+1. fanc, fant, phant = imagination 幻想
+
+1. far, fat, fess = to speak 说
+
+1. feder = treaty, leagure 信约
+
+1. fend, fens = to hit 打击
+
+1. ferv = to boil 沸
+
+1. fest = feast 宗教节日; 盛宴
+
+1. fibr = thread 线
+
+1. fid, fiss = to cleave or split 劈, 分裂
+
+1. fil = thread, line, outline 线; 轮廓
+
+1. firm = fixed, strong 固定的; 牢固的
+
+1. fix = to fasten or fix 固定
+
+1. flagr, fulg = to flame or burn 燃烧
+
+1. flat = to blow 吹
+
+1. flect, flex = to blend 弯曲
+
+1. flig, flict = to strike 打击
+
+1. flor = flower 花
+
+1. foli = leaf 叶; 页
+
+1. franc, frank, franch = free 自由的; a Frank 法国人
+
+1. frater, fratr = brother 兄弟
+
+1. friger, frigid = to be cold 变冷; cold 冷的
+
+1. front = forehead, foremost port 前额; 前部
+
+1. fug = to flee 逃
+
+1. fum, fumig = to smoke 冒烟
+
+1. fung, funct = to perform a task 执责
+
+1. gam = marriage 婚姻
+
+1. gastr = stomach 胃
+
+1. ge = the earth 地球
+
+1. gloss, glott = tongue 舌; word 言辞
+
+1. glut, glutin = to glue 黏合; glue 胶水
+
+1. gon = angle 角
+
+1. grog, gurg(it) = throat 咽喉
+
+1. gran, grain = grain 谷物
+
+1. grav = heavy 重的
+
+1. grep = flock, herd 群
+
+1. gyn, gynaec = woman 女人
+
+1. hal(it) = to breath 呼吸
+
+1. hap(p) = good luck 好运气
+
+1. harmon = a fitting 合适
+
+1. heli = the sun 太阳
+
+1. her(it) = heir 继承人
+
+1. her, hes(it) = to stick 粘
+
+1. hom, homin = man 人
+
+1. horr = to bristle or shudder 使毛发悚然
+
+1. hosp(it), host = gust (接待)客人
+
+1. hum(il) = ground or earth 地面; 土地
+
+1. human = man 人
+
+1. hydr = water 水
+
+1. ide, id(o) = look, form 外观; 形式
+
+1. idi = own 自己的
+
+1. insul = island 岛
+
+1. journ = day 日子
+
+1. juven, jun = young 年轻的
+
+1. labor = toil, work 劳动
+
+1. laps = to slip or fall 滑, 落
+
+1. later = side 边``
+
+1. lav, lut = to wash 洗
+
+1. lax, leas = loose 松弛的
+
+1. lev(it) = to raise or relieve 举起; 减轻
+
+1. liber, liver = free 自由的
+
+1. lig = to bind 束
+
+1. lim(it) = boundary or border 界限
+
+1. lingu = tongue 舌; language 语言
+
+1. liter = letter 字母
+
+1. lith, lite = stone 石
+
+1. long = long 长的
+
+1. luc, lucid  = to shine 照
+
+1. lumin = light 光
+
+1. lun = the moon 月亮
+
+1. lustr = to make bright 使发亮
+
+1. magn, maj, max = great, greater, greatest 大的; 更大的; 最大的
+
+1. mar = sea 海
+
+1. mat(e)r, matern = mother 母
+
+1. med, medic = to heal 治愈
+
+1. memor, member = mindful 记住的
+
+1. mend = fault 错
+
+1. mens(ur) = to measure 测量
+
+1. ment = mind 精神
+
+1. merc, merch = goods or wares 商品, 货物
+
+1. merg, mers = to dive or dip 潜入; 浸入
+
+1. migr(at) = to wander or move (迁徙)
+
+1. min(at) = to project or threaten 突出; 威胁
+
+1. mir = to wonder 惊异
+
+1. misc, mix(t) = to mix 混杂
+
+1. mol = a mass 堆; a breakwater 防波堤
+
+1. mon(it) = to remind or warn 提醒
+
+1. monstr = to show 显示
+
+1. mor = manner, custom 风俗
+
+1. mord, mors = to bite 咬
+
+1. morph = form or shape 形状
+
+1. mun = service or official duty 服务, 职责
+
+1. mur, mun = wall 墙
+
+1. mut = to change 变化
+
+1. nas, nos = nose 鼻
+
+1. nav, naut = ship 船
+
+1. nect, nex = to bind 束, 绑
+
+1. neg = to deny 否定
+
+1. nerv, neur = nerve 神经
+
+1. nihil = nother 零
+
+1. noct = night 夜
+
+1. nom(en), nomin = name 名字
+
+1. norm = rule 规则
+
+1. nov = new 新
+
+1. nox, noc, nec = injury to cause injury to 伤害
+
+1. numer = number 数
+
+1. nutr(it) = to breast or nourish 抚育
+
+1. ocul = eye 眼
+
+1. od = song 歌曲
+
+1. onym = name 名字
+
+1. op, oper = work, effort 劳动, 出力
+
+1. op, opt = eye 眼睛; sight 视力

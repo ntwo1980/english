@@ -1096,3 +1096,263 @@ Root = 词根
 1. op, oper = work, effort 劳动, 出力
 
 1. op, opt = eye 眼睛; sight 视力
+
+1. opt, opin = to choose 选择
+
+1. or(at) = to speak or pray 说话; 祷告
+
+1. oram = view 景象
+
+1. orb(it) = circle 圆圈
+
+1. ori, ort = to rise 上升
+
+1. orn = to equip or adorn 装配
+
+1. oss, ost = bone 骨
+
+1. ov = egg 卵
+
+1. pac, peac = peace 和平
+
+1. pag, pact = to bind a peace agreement 装订和议
+
+1. palm, palp = palm tree 棕榈树; palm of hand 手掌
+
+1. pan = bread 面包
+
+1. par = equal 相等的
+
+1. par = to appear 出现
+
+1. parl = to speak 说
+
+1. path = suffering or feeling 感情
+
+1. pen, pun = punishment, to punish 罚; 处罚
+
+1. peri, pert = to try 尝试
+
+1. phon = voice, sound 声音
+
+1. phor = bearing, bringing 携带的, 运送的
+
+1. phos, phot = light 光
+
+1. phras = to speak 说
+
+1. phys = nature 自然
+
+1. pi, pit = dutiful to one's god 虔诚的
+
+1. pig, pict = to paint 上颜料, 着色
+
+1. plac, pleas = to please 取悦, 使高兴
+
+1. plan, plain, plat = flat 平面
+
+1. plang, plait(t) = to strike the breast in grief 捶胸痛哭
+
+1. plaud, plaus, plod, plos = to clap 鼓掌
+
+1. popul, public = (of) the people 人民(的)
+
+1. pragm, pract = something done 实践
+
+1. prect, pray = request, prayer 祈求, 祈望
+
+1. preci = price, value 价格, 价值
+
+1. prim = first 初, 始
+
+1. priv = owned by oneself 私人的, 自己的
+
+1. propri, proper = private to oneself 私人的
+
+1. psych = soul or spirit 灵魂, 精神
+
+1. pter = wing 翼
+
+1. pugn = to fight 战斗
+
+1. pung, punct = to prick 刺
+
+1. pur, purg = (to) clean 净化
+
+1. put = to think 考虑; to reckon 计算
+
+1. quiesc, quiet, quit = rest 休止
+
+1. rad, ras = to scrape 擦刮
+
+1. radi = spoke of a wheel 轮辐
+
+1. radic = root 根
+
+1. rang, rank, ring = circle 圆环
+
+1. rap, rapt, rept = to seize by force, to snatch 攫取
+
+1. rat = to think or judge 想; 判断
+
+1. rhin = nose 鼻
+
+1. rid, ris = to laugh 笑
+
+1. riv = stream 河流
+
+1. rod, ros = to gnaw or bite 蚀, 咬
+
+1. rot = wheel 轮
+
+1. sacr, secr = holy 上帝; 神圣
+
+1. sal, salt = salt 盐
+
+1. sal, sult = to leap 跳跃
+
+1. salv, salut, saf = to save 救助
+
+1. san(at), sanit = to heal 治愈
+
+1. sanct = holy 神圣的
+
+1. sat(ur), satis = enough 充分的, 满足的
+
+1. scand, scans, scend, scens = to climb 攀
+
+1. semin = seed 种子
+
+1. sen = old or aged 老的
+
+1. seri, sert = to knit or join 联结
+
+1. serv = to keep or protect 保存; 保护
+
+1. server = grave, morally hard 严肃的; 严厉的
+
+1. simil, simul, sembl = the same 相同; alike 相像的
+
+1. sin(u) = curve 弧线
+
+1. soci = companion 同伴
+
+1. sol = alone 单独的
+
+1. sol(id) = whole 完全的; firm 坚固的
+
+1. sol = the sun 太阳
+
+1. somn = sleep 睡眠
+
+1. son = sound 声音
+
+1. soph = wise 聪明的
+
+1. sorb, sorpt = to suck in 吸收
+
+1. sort = lot, fate 签, 阄; 运气
+
+1. spat, spac = space 空间
+
+1. sper = to expect or hope 期望
+
+1. stingu, stinct = to separate 分离
+
+1. strat = layer 层阶
+
+1. stud = to be zealous 热心于
+
+1. suad, suas = to advise 劝告
+
+1. sum, sumpt = to take 取
+
+1. summ = highest 最高的
+
+1. surg, surrect = to rise up 上升
+
+1. tail = to cut 切
+
+1. techn = art, skill 技艺
+
+1. teg, tect = to cover 掩盖
+
+1. temper = to mingle or moderate 调和; 调节
+
+1. tempor = section of time 时间
+
+1. term(in) = limit or end 界限; 末尾
+
+1. terr = land 地
+
+1. terr = to frighten 惊吓
+
+1. test = witness 证人; 作证
+
+1. text = to weave 织
+
+1. the = god 神
+
+1. therm = heat 热
+
+1. thes, thet = to place or put 放置
+
+1. tom = (to) cut 切
+
+1. ton = sound, tone 声音
+
+1. torqu, tort, tors = to twist 扭
+
+1. tour = to turn 转动
+
+1. tox, toxic = arrow poison 箭毒
+
+1. tribut = to assign 分派
+
+1. trop = turn 转变
+
+1. trud, trus = to thrust 刺
+
+1. tuber, tum = to swell 肿
+
+1. turb = turmoil 喧嚷
+
+1. tut, tuit = to look after or protect 照管; 保护
+
+1. ultim = the last 最后的
+
+1. umbr = shade or shadow 阴影
+
+1. urb = city 城市
+
+1. ut, us = to use 利用
+
+1. vac, van = to be empty 空
+
+1. vad, vas = to go 走
+
+1. vag = to wander 徘徊
+
+1. vari = manifold 多样的
+
+1. ver = ture 真实的
+
+1. verb = word 言辞
+
+1. vest = to clothe 穿衣
+
+1. vi = way 路
+
+1. vibr(at) = to shake 摇动
+
+1. vig(or), veill = to be lively 健壮
+
+1. vinc, vict = to conquer 征服
+
+1. vir = man, male 人; 男人
+
+1. vor = to devour 吞食
+
+1. vot, vow = to vow 起誓
+
+1. zo = animal 动物

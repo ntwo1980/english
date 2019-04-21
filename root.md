@@ -691,6 +691,8 @@ Root = 词根
 
 1. acu = needle 针
 
+   1. **acuity** [acu; -ity *n.*] *n.* 尖锐; 敏锐
+
 1. aer = air 空气
 
 1. agog, agogue = leading, leader 引导; 引导者

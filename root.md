@@ -1355,47 +1355,91 @@ Root = 词根
 
 1. med, medic = to heal 治愈
 
+   1. **remedy** [re-; med; -y *n.*] *n.* 治疗; 疗法; 纠正(法)
+
 1. memor, member = mindful 记住的
+
+   1. **memory** [memor; -y *n.*] *n.* 记忆力; 记忆
 
 1. mend = fault 错
 
+   1. **mend** [mend] *v.* 修理; 弥合; 康复
+
 1. mens(ur) = to measure 测量
+
+   1. **mensurable** [mensur; -able *a.*] *a.* 可测量的; 有固定范围的
 
 1. ment = mind 精神
 
+   1. **mental** [ment; -al *a.*] *a.* 精神的; 思想的; 脑力的
+
 1. merc, merch = goods or wares 商品, 货物
+
+   1. **mercantile** [merc; -ant; -ile *a.*] *a.* 商人的; 商业的; 重商主义的
 
 1. merg, mers = to dive or dip 潜入; 浸入
 
+   1. **merge** [merg; -e] *v.* 使合并; 使融合
+
 1. migr(at) = to wander or move (迁徙)
+
+   1. **migrant** [migr; -ant *a.*] *a.* 迁移的, 移居的 *n.* 移民; 候鸟
 
 1. min(at) = to project or threaten 突出; 威胁
 
+   1. **eminent** [e-; min; -ent *a.*] *a.* 出众的; 显著的; 突出的
+
 1. mir = to wonder 惊异
+
+   1. **miracle** [mir; -acle *n.*] *n.* 奇迹; 令人惊奇的人(或物)
 
 1. misc, mix(t) = to mix 混杂
 
+   1. **miscellany** [misc; -ell; -any *n.*] *n.* 混合物; 大杂烩
+
 1. mol = a mass 堆; a breakwater 防波堤
+
+   1. **mole** [mol; -e] *n.* 防波堤
 
 1. mon(it) = to remind or warn 提醒
 
+   1. **monition** [monit; -ion *n.*] *n.* 告诫; 警告; (法院)传票
+
 1. monstr = to show 显示
+
+   1. **monster** [monst(e)r] *n.* 怪物; 奇胎; 巨兽
 
 1. mor = manner, custom 风俗
 
+   1. **mores** [mor; -es *n.*] *n.* 风俗; 传统
+
 1. mord, mors = to bite 咬
+
+   1. **mordant** [mord; -ant *a.*] *a.* 讽刺的; 尖锐的
 
 1. morph = form or shape 形状
 
+   1. **morpheme** [morph; -eme *n.*] *n.* 词素; 语素
+
 1. mun = service or official duty 服务, 职责
+
+   1. **municipal** [mun; -i-; cip; -al *a.*] *a.* 自治市; 市政的
 
 1. mur, mun = wall 墙
 
+   1. **mural** [mur; -al *a./n.*] *a.* 墙壁的 *n.* 壁画; 壁
+
 1. mut = to change 变化
+
+   1. **mutate** [mut; -ate *v.*] *v.* 改变; (动植物因基因改变而)突变
 
 1. nas, nos = nose 鼻
 
+   1. **nasal** [nas; -al *a.*] *a.* 鼻的, 鼻音的 *n.* 鼻音
+
 1. nav, naut = ship 船
+
+   1. **navy** [nav; -y *n.*] *n.* 海军; 船队, 舰队
 
 1. nect, nex = to bind 束, 绑
 

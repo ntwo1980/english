@@ -755,303 +755,603 @@ Root = 词根
 
 1. arbor = tree 树木
 
+   1. **arbor** [arbor] *n.* 乔木; 树; (花园中的)凉亭; 棚架
+
 1. arc, erc = to keep or maintain 保持; 维持
+
+   1. **arcane** [arc; -ane *a.*] *a.* 神秘的; 晦涩难懂的
 
 1. arc, arch = bow 弓
 
+   1. **arc** [arc] *n.* 弓形物; 弧
+
 1. arm = to arm 武装
+
+   1. **arm** [arm] *v.* 武装
 
 1. aster, astr = star 星
 
+   1. **asterisk** [aster; -isk *n.*] *n.* 星号(即*); 星状物
+
 1. aur = ear 耳
+
+   1. **aural** [aur; -al *a.*] *a.* 耳的, 听觉的
 
 1. auto = self 自己
 
+   1. **autocrat** [auto; crat] *n.* 独裁者
+
 1. avi = bird 鸟
+
+   1. **avian** [avi; -an] *a.* 鸟; 鸟纲的
 
 1. ax, axi = axle 轴
 
+   1. **axis** [axis] *n.* 轴; 轴线
+
 1. ball = to dance 跳舞
+
+   1. **ball** [ball] *n.* 舞会
 
 1. ball, bol = to throw 投掷
 
+   1. **ball** [ball] *n.* 球
+
 1. bar = weight 重量
+
+   1. **baric** [bar; -ic *a.*] *a.* 气压的
 
 1. bar (r) = bar or rod 横木; 棒条
 
+   1. **bar** [bar] *n.* 棒条; 栏木; 障碍; 法庭; 律师界
+
 1. bas (s) = low 低的
+
+   1. **base** [bas; -e] *n.* 基础; 底部
 
 1. bat (t) = to beat 打击
 
+   1. **abate** [a-; bat; -e] *v.* 减少; 减轻
+
 1. bell = war 战争
+
+   1. **belligerent** [bell; -i-; ger; -ent *a.*] *a.* 好战的; 交战中的
 
 1. bell, beau = handsome, beauty 漂亮, 美丽
 
+   1. **belle** [bell; -e] *n.* 美女
+
 1. bibli = book 书
+
+   1. **Biblical** [bibl; -ic; -al *a.*] *a.* 《圣经》的; 出自《圣经》的
 
 1. blanc, blank = white 白
 
+   1. **blanch** [blanch (blanc)] *v.* 使变白; 漂白
+
 1. bon = good 好的
+
+   1. **bonus** [bon; -us *n.*] *n.* 奖金; 红利; 额外给予的东西
 
 1. brev = short 短
 
+   1. **breve** [brev; -e] *n.* 短音符号; [音乐] 二全音符
+
 1. burs, purs = purse 钱包; 资金
+
+   1. **bursar** [burs; -ar *n.*] *n.* (学校的)财务总管
 
 1. camp, champ = open field 田野
 
+   1. **camp** [camp] *n.* 露营地; 野营 *v.* 露营
+
 1. cand = to blow, to be white 发光; 变白
+
+   1. **candle** [cand; -le *n.*] *n.* 蜡烛
 
 1. cap(it) = head 头
 
+   1. **cap** [cap] *n.* 帽子, 盖 *v.* 盖在...顶上
+
 1. car(r), char = wagon 车
+
+   1. **car** [car] *n.* 车辆; 汽车; 车厢; 电梯
 
 1. cardi = heart 心
 
+   1. **cardiac** [cardi; -ac *a.*] *a.* 心脏 *n.* 强心剂
+
 1. carn = flesh 肉
+
+   1. **carnage** [carn; -age *n.*] *n.* 大屠杀
 
 1. cart, chart = a leaf of writing 页; 书写纸张
 
+   1. **card** [card (cart)] *n.* 硬纸片; 卡片
+
 1. cast, chast = pure race 纯洁的种姓
+
+   1. **caste** [cast; -e *n.*] *n.* 同一等级的人; 等级社会
 
 1. cav = hollow 凹陷
 
+   1. **cave** [cav; -e] *n.* 山洞 *v.* 使陷下, 投降
+
 1. cent = hundred 百
+
+   1. **cent** [cent] *n.* 分币, 分
 
 1. cert = settled 确定的
 
+   1. **certain** [cert; -ain *a.*] *a.* 确定的; 确实的
+
 1. chef, chief = head 头领
+
+   1. **chef** [chef] *n.* 厨师; 男厨师长
 
 1. chrism, Christ = consecrated oil 圣膏, 圣油
 
+   1. **chrism** [chrism] *n.* 圣膏, 圣油
+
 1. chron = time 时间
+
+   1. **chronology** [chron; -o-; -logy *n.*] *n.* 年代学; 年表
 
 1. cing, cinct = to grid or hind 束, 阻
 
+   1. **cingulum** [cing; -ul-; -um *n.*] *n.* [解] 带; 扣带
+
 1. circ = ring 圆, 环
+
+   1. **circle** [circ; -le *n.*] *n.* 圆圈; 环状物 *v.* 作环形运动
 
 1. cit = to call or arouse 唤起
 
+   1. **cite** [cit; -e] *v.* 引用; 传讯
+
 1. civ, cit = citizen 居民
+
+   1. **civic** [civ; -ic *a.*] *a.* 城市的; 市民的, 公民的
 
 1. corn, horn = horn 动物的角
 
+   1. **corner** [corn; -er *n.*] *n.* 角, 角落, 困境
+
 1. coron = crown 王冠
+
+   1. **corona** [coron; -a *n.*] *n.* 日冕; 日华, 月华
 
 1. cosm = world, universe 世界, 宇宙
 
+   1. **cosmic** [cosm; -ic *a.*] *a.* 宇宙的
+
 1. crim(in) = accusation or judgment 罪名; 裁决
+
+   1. **crime** [crim; -e] *n.* 罪行, 犯罪
 
 1. crit = to judge 判断
 
+   1. **criterion** [crit; -er; -ion *n.*] *n.* 标准; 准则; 尺度
+
 1. cruc = cross 十字, 叉
+
+   1. **crucial** [cruc; -i-; -al *a.*] *a.* 十字形的; 严酷的; 决定性的
 
 1. crypt = to hide 藏
 
+   1. **crypt** [crypt] *n.* 地下室; (教堂底下的)墓穴
+
 1. culp = fault 错
+
+   1. **culpable** [culp; -able *a.*] *a.* 应受谴责的, 有罪的
 
 1. cuss = to shake 摇动
 
+   1. **concuss** [con-; cuss] *v.* 激烈地摇动, 震动; 恐吓
+
 1. damn, demn = to penalize 处罚
+
+   1. **damn** [damn] *a.* [无礼地] 该死的
 
 1. de = god 神
 
+   1. **deism** [de; -ism *n.*] *n.* 自然神论, 理神论
+
 1. dec(or) = to seem good or fitting 像样, 得体
+
+   1. **decency** [dec; -ency *n.*] *n.* 得体; 体面; 通情理
 
 1. decem, decim, dec = ten 十; tenth, 第十
 
+   1. **December** [decem; ber] *n.* 十二月 [注: 古罗马年历的十月]
+
 1. dent = tooth 齿
+
+   1. **dental** [dent; -al *a.*] *a.* 牙齿的; 牙科的
 
 1. derm(at) = skin 皮肤
 
+   1. **dermal** [derm; -al *a.*] *a.* 真皮的; 表皮的
+
 1. di = day 日子
+
+   1. **diary** [di; -ary *n.*] *n.* 日记, 日记本
 
 1. dign, dain = worthy or merited 值得的
 
+   1. **dignify** [dign; -i-; -fy *v.*] *v.* 使有尊严, 使高贵
+
 1. dogm, dox = belief 相信
+
+   1. **dogma** [dogm; -a *n.*] *n.* 信条; 教义
 
 1. dol = to feel pain 痛苦
 
+   1. **dole** [dol; -e] *n.* 忧愁, 悲哀
+
 1. dom = house 屋
+
+   1. **dome** [dom; -e] *n.* 圆屋顶, 圆盖
 
 1. domin = owner, lord 主人
 
+   1. **dominate** [domin; -ate *v.*] *v.* 支配, 统治; 俯视
+
 1. don = to give 给
+
+   1. **donor** [don; -or *n.*] *n.* 捐赠者; 献血者; 器官捐献者
 
 1. dorm(it) = to sleep 睡
 
+   1. **dormancy** [dorm; -ancy *n.*] *n.* 休眠状态; 不活动性
+
 1. drom = run 跑
+
+   1. **dromond** [drom; -ond *n.*] *n.* 大型快速帆船
 
 1. du, dupl = two 二; twofold or double 两倍
 
+   1. **dual** [du; -al *a.*] *a.* 双的; 二元的 *n.* 双数
+
 1. dur = to harder or last 使坚固; 持久
+
+   1. **durable** [dur; -able *a.*] *a.* 耐用的 *n.* 耐用的物品
 
 1. dyn, dynam = power, force 力
 
+   1. **dynasty** [dyn; -ast; -y *n.*] *n.* 朝代; 王朝
+
 1. ego = I 我
+
+   1. **egoism** [ego; -ism; *n.*] *n.* 自我主义, 利己主义
 
 1. em, empt = to buy 买
 
+   1. **exempt** [ex-; empt] *v.* 免除 *a.* 免除的
+
 1. erg = work 工作, 功
+
+   1. **ergo** [erg; -o *ad.*] *ad.* 因此; 所以
 
 1. err = to wander 徘徊
 
+   1. **err** [err] *v.* 犯错误; 出差错
+
 1. ess, est = to be 是; 存在
+
+   1. **essence** [ess; -ence *n.*] *n.* 要素; 本体, 实体; 精髓
 
 1. estim = to value 估价
 
+   1. **estimable** [estim; -able *a.*] *a.* 可估计的, 有价值的
+
 1. ev = age, life 年代
+
+   1. **ever** [ev; -er *ad.*] *ad.* 永远; 在任何时候
 
 1. fabric = workshop 作坊
 
+   1. **fabric** [fabric] *n.* 织品, 布; 组织; 构筑
+
 1. fabu, fabl = speaking 说
+
+   1. **fabulous** [fabul; -ous *a.*] *a.* 寓言般的; 惊人的; 传说的
 
 1. fall, fals, fail = to deceive 骗
 
+   1. **fallacy** [fall; -acy *n.*] *n.* 谬论; 谬误
+
 1. fam = report, fame 名声
+
+   1. **fame** [fam; -e] *n.* 名望 *v.* 使闻名
 
 1. fanc, fant, phant = imagination 幻想
 
+   1. **fancy** [fanc; -y] *n.* 想象, 想象力; 希望, 喜欢
+
 1. far, fat, fess = to speak 说
+
+   1. **fairy** [fair (far); -y *n.*] *n.* 小精灵; 小仙女
 
 1. feder = treaty, leagure 信约
 
+   1. **federal** [feder; -al *a.*] *a.* 联盟的, 联邦的
+
 1. fend, fens = to hit 打击
+
+   1. **fender** [fend; -er *n.*] *n.* 防御物; 挡泥板
 
 1. ferv = to boil 沸
 
+   1. **fervent** [ferv; -ent *a.*] *a.* 炽热的; 热情的
+
 1. fest = feast 宗教节日; 盛宴
+
+   1. **feast** [feast (fest)] *n.* 宗教节日; 盛宴
 
 1. fibr = thread 线
 
+   1. **fibre** [fibr; -e] *n.* 纤维; 结构
+
 1. fid, fiss = to cleave or split 劈, 分裂
+
+   1. **bifid** [bi-; fid *a.*] *a.* 裂成两半的; 叉形的
 
 1. fil = thread, line, outline 线; 轮廓
 
+   1. **file** [fil; -e] *n.* 文件, 档案 *v.* 把...归档
+
 1. firm = fixed, strong 固定的; 牢固的
+
+   1. **firm** [firm] *a.* 结实的, 牢固 *ad.* 稳固地
 
 1. fix = to fasten or fix 固定
 
+   1. **fixture** [fix; -ture *n.*] *n.* 固定, 固定物
+
 1. flagr, fulg = to flame or burn 燃烧
+
+   1. **flagrant** [flagr; -ant *a.*] *a.* 明目张胆的; 罪恶昭彰的
 
 1. flat = to blow 吹
 
+   1. **flatulent** [flat; -ul-; -ent *a.*] *a.* 肠胃气胀的; 自负的; 空虚的
+
 1. flect, flex = to blend 弯曲
+
+   1. **deflect** [de-; flect] *v.* 使偏离; 使转向
 
 1. flig, flict = to strike 打击
 
+   1. **profligate** [pro-; flig; -ate *a.*] *a.* 放荡的 *n.* 放荡的人
+
 1. flor = flower 花
+
+   1. **florist** [flor; -ist *n.*] *n.* 花匠
 
 1. foli = leaf 叶; 页
 
+   1. **foliage** [foli; -age *n.*] *n.* (总称)叶, 叶子
+
 1. franc, frank, franch = free 自由的; a Frank 法国人
+
+   1. **franc** [franc] *n.* 法郎
 
 1. frater, fratr = brother 兄弟
 
+   1. **fratricide** [fratr; -i-; -cide *n.*] *n.* 杀兄弟的人
+
 1. friger, frigid = to be cold 变冷; cold 冷的
+
+   1. **refrigerant** [re-; friger; -ant *n.*] *n.* 致冷剂, 冷冻剂
 
 1. front = forehead, foremost port 前额; 前部
 
+   1. **front** [front] *n.* 前部; 正面
+
 1. fug = to flee 逃
+
+   1. **fugacious** [fug; -ac-; -ious *a.*] *a.* 易逃逸的; 短暂的
 
 1. fum, fumig = to smoke 冒烟
 
+   1. **fume** [fum; -e] *n.* (复数)难闻的烟, 气 *v.* 冒烟; 发怒
+
 1. fung, funct = to perform a task 执责
+
+   1. **fungible** [fung; -ible *a.*] *a.* 可替代的; 可互换的
 
 1. gam = marriage 婚姻
 
+   1. **bigamy** [bi-; gam; -y *n.*] *n.* 重婚(罪)
+
 1. gastr = stomach 胃
+
+   1. **gastric** [gastr; -ic *a.*] *a.* 胃的
 
 1. ge = the earth 地球
 
+   1. **geography** [ge; -o-; -graphy *n.*] *n.* 地理学; 地形; 布局
+
 1. gloss, glott = tongue 舌; word 言辞
+
+   1. **globss** [gloss] *n.* 注解, 注释
 
 1. glut, glutin = to glue 黏合; glue 胶水
 
+   1. **glue** [glu (glut); -e] *n.* 胶水; 凝聚力
+
 1. gon = angle 角
+
+   1. **goniometer** [gon; -io-; -meter *n.*] *n.* 测角计; 测向计
 
 1. grog, gurg(it) = throat 咽喉
 
+   1. **gorge** [gorg; -e] *v.* 拼命吃喝; 塞饱 *n.* 峡谷
+
 1. gran, grain = grain 谷物
+
+   1. **granary** [gran; -ary *n.*] *n.* 谷仓; 粮仓
 
 1. grav = heavy 重的
 
-1. grep = flock, herd 群
+   1. **grave** [grav; -e] *a.* 严重的; 重大的
+
+1. greg = flock, herd 群
+
+   1. **gregarious** [greg; -ar-; -ious *a.*] *a.* 群集的, 群居的; 爱交际的
 
 1. gyn, gynaec = woman 女人
 
+   1. **gynandrous** [gyn; andr; -ous *a.*] *a.* 雌雄蕊全体的
+
 1. hal(it) = to breath 呼吸
+
+   1. **exhale** [ex-; hal; -e] *v.* 呼出; 蒸发
 
 1. hap(p) = good luck 好运气
 
+   1. **hap** [hap] *n.* 机缘; 运气
+
 1. harmon = a fitting 合适
+
+   1. **harmonic** [harmon; -ic *a.*] *a.* 和声的
 
 1. heli = the sun 太阳
 
+   1. **helium** [heli; -um *n.*] *n.* 氦(该元素首先在太阳光谱中测得)
+
 1. her(it) = heir 继承人
+
+   1. **heir** [heir (her)] *n.* 继承人
 
 1. her, hes(it) = to stick 粘
 
+   1. **hesitate** [hesit; -ate *v.*] *v.* 犹豫不决; 踌躇
+
 1. hom, homin = man 人
+
+   1. **homage** [hom; -age *n.*] *n.* 尊敬; 臣服; 主仆关系
 
 1. horr = to bristle or shudder 使毛发悚然
 
+   1. **horror** [horr; -or *n.*] *n.* 恐怖; 恐惧
+
 1. hosp(it), host = gust (接待)客人
+
+   1. **hospice** [hosp; -ice *n.*] *n.* 旅客招待所; 济贫院
 
 1. hum(il) = ground or earth 地面; 土地
 
+   1. **huble** [hum; -ble *a.*] *a.* 谦恭的; 地位低下的 *v.* 使谦恭
+
 1. human = man 人
+
+   1. **human** [human] *a.* 人的, 人类的 *n.* 人
 
 1. hydr = water 水
 
+   1. **hydrant** [hydr; -ant; *n.*] *n.* 消防龙头, 消防栓
+
 1. ide, id(o) = look, form 外观; 形式
+
+   1. **idea** [ide; -a *n.*] *n.* 思想, 意见; 主意, 打算
 
 1. idi = own 自己的
 
+   1. **idiom** [idi; -om *n.*] *n.* 习语; 成语; 惯用语
+
 1. insul = island 岛
+
+   1. **insulant** [insul; -ant *n.*] *n.* 绝缘材料
 
 1. journ = day 日子
 
+   1. **journal** [journ; -al *n.*] *n.* 日志; 日记; 日报; 杂志
+
 1. juven, jun = young 年轻的
+
+   1. **juvenile** [juven; -ile *a.*] *a.* 青少年的, 幼稚的 *n.* 青少年
 
 1. labor = toil, work 劳动
 
+   1. **labor** [labor] *n.* 努力; 工作 *v.* 劳动; 努力
+
 1. laps = to slip or fall 滑, 落
+
+   1. **lapse** [laps; -e] *n.* 失误; 偏离 *v.* 失检; 流逝
 
 1. later = side 边``
 
+   1. **lateral** [later; -al *a.*] *a.* 侧面的; 旁边的
+
 1. lav, lut = to wash 洗
+
+   1. **lave** [lav; -e] *v.* 洗; 沿...流; 沐浴
 
 1. lax, leas = loose 松弛的
 
+   1. **lax** [lax] *a.* 宽松的; 松弛的; 不严格的
+
 1. lev(it) = to raise or relieve 举起; 减轻
+
+   1. **lever** [lev; -er *n.*] *n.* 杠杆 *v.* 用杠杆移动
 
 1. liber, liver = free 自由的
 
+   1. **liberty** [liber; -ty *n.*] *n.* 自由; 许可; [复] 特权
+
 1. lig = to bind 束
+
+   1. **ligate** [lig; -ate *v.*] *v.* 绑; 捆; 扎
 
 1. lim(it) = boundary or border 界限
 
+   1. **limes** [lim; -es *n.*] *n.* (古罗马)筑有堡垒的边界线; 边境
+
 1. lingu = tongue 舌; language 语言
+
+   1. **lingual** [lingu; -al *a.*] *a.* 舌的, 舌旁的 *n.* 舌音
 
 1. liter = letter 字母
 
+   1. **literacy** [liter; -acy *n.*] *n.* 读写能力; 有文化
+
 1. lith, lite = stone 石
+
+   1. **lithograph** [lith; -o-; -graph *n.*] *n.* 平版画 *v.* 用平版印刷
 
 1. long = long 长的
 
+   1. **longitude** [long; -i-; -tude *n.*] *n.* 经度; 经线
+
 1. luc, lucid  = to shine 照
+
+   1. **lucency** [luc; -ency *n.*] *n.* 发亮; 透明
 
 1. lumin = light 光
 
+   1. **luminary** [lumin; -ary *n.*] *n.* 发光体; 灯光; 名人
+
 1. lun = the moon 月亮
+
+   1. **lunar** [lun; -ar *a.*] *a.* 月的; 月形的
 
 1. lustr = to make bright 使发亮
 
+   1. **lustre** [lustr; -e] *n.* 光辉; 光泽; 显赫 *v.* 使有光泽
+
 1. magn, maj, max = great, greater, greatest 大的; 更大的; 最大的
+
+   1. **magnate** [magn; -ate *n.*] *n.* 要人; 权贵; 大企业家; 巨头
 
 1. mar = sea 海
 
+   1. **marine** [mar; -ine *a.*] *a.* 海的; 船舶的 *n.* 海运业; 船舶
+
 1. mat(e)r, matern = mother 母
+
+   1. **matriarchy** [matr; -i-; -archy *n.*] *n.* 母权制; 母系氏族制
 
 1. med, medic = to heal 治愈
 

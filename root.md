@@ -1443,292 +1443,584 @@ Root = 词根
 
 1. nect, nex = to bind 束, 绑
 
+   1. **connect** [con-; nect] *v.* 连接; 把...联系起来; 联想
+
 1. neg = to deny 否定
+
+   1. **negate** [neg; -ate *v.*] *v.* 否定; 否认; 取消
 
 1. nerv, neur = nerve 神经
 
+   1. **nerve** [nerv; -e] *n.* 神经; 精神力量; 胆量
+
 1. nihil = nother 零
+
+   1. **nil** [nil (nihil)] *n.* 无, 零
 
 1. noct = night 夜
 
+   1. **equinox** [equi-; nox] *n.* 昼夜平分点; 春(秋)分
+
 1. nom(en), nomin = name 名字
+
+   1. **nomenclature** [nomen; clat (=call); -ure *n.*] *n.* 术语; 命名法
 
 1. norm = rule 规则
 
+   1. **norm** [norm] *n.* 标准; 规范; 准则
+
 1. nov = new 新
+
+   1. **nova** [nov; -a *n.*] *n.* (亮度突然增大的)新星
 
 1. nox, noc, nec = injury to cause injury to 伤害
 
+   1. **noxious** [nox; -i-; -ous *a.*] *a.* 有害的; 有毒的
+
 1. numer = number 数
+
+   1. **number** [number (numer)] *n.* 数字; 数目
 
 1. nutr(it) = to breast or nourish 抚育
 
+   1. **nutrient** [nutr; -i-; -ent *a.*] *a.* 营养的, 滋养
+
 1. ocul = eye 眼
+
+   1. **ocular** [ocul; -ar *a.*] *a.* 眼睛的; 用眼的; 目击的
 
 1. od = song 歌曲
 
+   1. **ode** [od; -e] *n.* 颂诗; 颂歌
+
 1. onym = name 名字
+
+   1. **onymous** [onym; -ous *a.*] *a.* 有名字的; 署名的
 
 1. op, oper = work, effort 劳动, 出力
 
+   1. **opus** [op; -us *n.*] *n.* 作品, 著作; 大作, 杰作
+
 1. op, opt = eye 眼睛; sight 视力
+
+   1. **hyperopia** [hyper-; op; -ia *n.*] *n.* 远视
 
 1. opt, opin = to choose 选择
 
+   1. **opt** [opt] *v.* 抉择, 选择
+
 1. or(at) = to speak or pray 说话; 祷告
+
+   1. **oracle** [or; -acle *n.*] *n.* 神谕; (古希腊)传神谕者, 神使
 
 1. oram = view 景象
 
+   1. **diorama** [di-; oram; -a *n.*] *n.* 西洋景, 洋片
+
 1. orb(it) = circle 圆圈
+
+   1. **orb** [orb] *n.* 球; 星球; 轨道 *v.* 使形成球体
 
 1. ori, ort = to rise 上升
 
+   1. **orient** [ori; -ent *n.*] *n.* 东方 *a.* 东方的 *v.* 使...朝东
+
 1. orn = to equip or adorn 装配
+
+   1. **ornate** [orn; -ate *a.*] *a.* 装饰华丽的, 华美的, 绚丽的
 
 1. oss, ost = bone 骨
 
+   1. **ossify** [oss; -i-; -fy *v.*] *v.* (使)骨化; (使)僵化
+
 1. ov = egg 卵
+
+   1. **oval** [ov; -al *a.*] *a.* 卵形的, 椭圆形的
 
 1. pac, peac = peace 和平
 
+   1. **pacify** [pac; -i-; -fy *v.*] *v.* 抚慰, 使镇静; 平定, 平息
+
 1. pag, pact = to bind a peace agreement 装订和议
+
+   1. **page** [pag; -e] *n.* (快报的)页 [注: 愿意是把"卷"分页装订]
 
 1. palm, palp = palm tree 棕榈树; palm of hand 手掌
 
+   1. **palm** [palm] *n.* 棕榈树; 手掌
+
 1. pan = bread 面包
+
+   1. **pannier** [pann (pan); -ier *n.*] *n.* (动物背的)驼篮; (自行车等)挂篮
 
 1. par = equal 相等的
 
+   1. **par** [par] *n.* 同地位; 同程度
+
 1. par = to appear 出现
+
+   1. **appear** [ap-; pear (par)] *v.* 出现; 呈现
 
 1. parl = to speak 说
 
+   1. **parle** [parl; -e] *n.* 会谈; 讨论
+
 1. path = suffering or feeling 感情
+
+   1. **pathos** [path; -os *n.*] *n.* 怜悯; 同情; 哀婉, 凄楚
 
 1. pen, pun = punishment, to punish 罚; 处罚
 
+   1. **penal** [pen; -al *a.*] *a.* 有关刑罚的; 处罚的
+
 1. peri, pert = to try 尝试
+
+   1. **peril** [per(i); -il] *n.* 危险; 险境 *v.* 使有危险; 危及
 
 1. phon = voice, sound 声音
 
+   1. **phoneme** [phon; -eme *n.*] *n.* 音素; 音位
+
 1. phor = bearing, bringing 携带的, 运送的
+
+   1. **biophor** [bio-; phor] *n.* 生原体(一种假设的微粒)
 
 1. phos, phot = light 光
 
+   1. **phosgene** [phos; gen; -e] *n.* 光气, 碳酰氯
+
 1. phras = to speak 说
+
+   1. **phrase** [phras; -e] *n.* 短句, 词组, 警句 *v.* 用话表示
 
 1. phys = nature 自然
 
+   1. **physique** [phys; -ique *n.*] *n.* (尤指男子的) 体形, 体格
+
 1. pi, pit = dutiful to one's god 虔诚的
+
+   1. **piety** [py; -ety *n.*] *n.* 虔诚; 虔敬; 孝顺, 孝敬
 
 1. pig, pict = to paint 上颜料, 着色
 
+   1. **pigment** [pig; -ment *n.*] *n.* 颜色; 涂料 *v.* 给...着色
+
 1. plac, pleas = to please 取悦, 使高兴
+
+   1. **placid** [plac; -id *a.*] *a.* 平静的; 宁静的; 温和的
 
 1. plan, plain, plat = flat 平面
 
+   1. **plane** [plan; -e] *n.* 平面; 飞机 (= aeroplane)
+
 1. plang, plait(t) = to strike the breast in grief 捶胸痛哭
+
+   1. **plangent** [plang; -ent *a.*] *a.* (声音)低沉哀怨的, 凄切的
 
 1. plaud, plaus, plod, plos = to clap 鼓掌
 
+   1. **plaudit** [plaud; -it *n.*] *n.* 拍手, 喝彩; 称赞, 赞美
+
 1. popul, public = (of) the people 人民(的)
+
+   1. **populace** [popul; -ace *n.*] *n.* 平民, 大众; 人口
 
 1. pragm, pract = something done 实践
 
+   1. **pragmatic** [pragm; -at-; -ic *a.*] *a.* 讲究实际的; 务实的
+
 1. prect, pray = request, prayer 祈求, 祈望
+
+   1. **precarious** [prec; -ar-; -ious *a.*] *a.* (古)取决天意的; 靠不住的
 
 1. preci = price, value 价格, 价值
 
+   1. **precious** [preci; -ous *a.*] *a.* 贵重的; 心爱的; 可贵的
+
 1. prim = first 初, 始
+
+   1. **prime** [prim; -e] *a.* 最初的; 首要的 *n.* 最初; 青春; 精华
 
 1. priv = owned by oneself 私人的, 自己的
 
+   1. **privacy** [priv; -acy *n.*] *n.* 独自; 个人自由; 隐私
+
 1. propri, proper = private to oneself 私人的
+
+   1. **proprietor** [propri; -etor *n.*] *n.* 所有人, 业主; 地主
 
 1. psych = soul or spirit 灵魂, 精神
 
+   1. **psyche** [psych; -e] *n.* 心灵; 精神; 灵魂
+
 1. pter = wing 翼
+
+   1. **pterodactyl** [pter; -o-; dactyl] *n.* 翼手龙, 翼指龙
 
 1. pugn = to fight 战斗
 
+   1. **pugnacious** [pugn; -ac-; -ious *a.*] *a.* 好战的, 好斗的
+
 1. pung, punct = to prick 刺
+
+   1. **pungent** [pung; -ent *a.*] *a.* 刺激性的, 辛辣的; 尖锐的
 
 1. pur, purg = (to) clean 净化
 
+   1. **pure** [pur; -e] *a.* 纯粹的; 纯净的; 纯洁的; 纯种的
+
 1. put = to think 考虑; to reckon 计算
+
+   1. **compute** [com-; put; -e] *v.* 计算
 
 1. quiesc, quiet, quit = rest 休止
 
+   1. **quiescent** [quiesc; -ent; *a.*] *a.* 静止的; 平静的; (疾病)未恶化的
+
 1. rad, ras = to scrape 擦刮
+
+   1. **abrade** [ab-; rad; -e] *v.* 磨, 磨掉; 擦伤
 
 1. radi = spoke of a wheel 轮辐
 
+   1. **radiance** [radi; -ance *n.*] *n.* 发光; 光辉; 容光焕发; 辐射性能
+
 1. radic = root 根
+
+   1. **radical** [radic; -al *a.*] *a.* 根本的, 基本的; 激进的 *n.* 词根
 
 1. rang, rank, ring = circle 圆环
 
+   1. **range** [rang; -e] *n.* 范围 *v.* 处在...范围内
+
 1. rap, rapt, rept = to seize by force, to snatch 攫取
+
+   1. **rapacious** [rap; -ac-; -ious *a.*] *a.* 掠夺的; 贪婪的
 
 1. rat = to think or judge 想; 判断
 
+   1. **rate** [rat; -e] *n.* 比率, 速度, 等级 *v.* 对...估价
+
 1. rhin = nose 鼻
+
+   1. **rhinitis** [rhin; -itis *n.*] *n.* 鼻炎
 
 1. rid, ris = to laugh 笑
 
+   1. **ridicule** [rid; -ic; -ule *n.*] *n.* 嘲笑; 嘲弄 *v.* 嘲笑, 嘲弄
+
 1. riv = stream 河流
+
+   1. **river** [riv; -er *n.*] *n.* 江河; 水道
 
 1. rod, ros = to gnaw or bite 蚀, 咬
 
+   1. **rodent** [rod; -ent *a.*] *a.* 咬的; 啮齿的 *n.* 啮齿动物
+
 1. rot = wheel 轮
+
+   1. **rotary** [rot; -ary *a.*] *a.* 旋转的, 循环的 *n.* 旋转运行的机器
 
 1. sacr, secr = holy 上帝; 神圣
 
+   1. **sacred** [sacr; -ed *a.*] *a.* 上帝的; 神圣的; 祭祀的
+
 1. sal, salt = salt 盐
+
+   1. **salary** [sal; -ary *n.*] *n.* 薪水 *v.* 给...薪水
 
 1. sal, sult = to leap 跳跃
 
+   1. **salient** [sal; -i-; -ent *a.*] *a.* 突出的, 显著的
+
 1. salv, salut, saf = to save 救助
+
+   1. **salvable** [salv; -able *a.*] *a.* 可抢救的; 可拯救的
 
 1. san(at), sanit = to heal 治愈
 
+   1. **sane** [sane; -e] *a.* 健全的; 神志正常的; 稳健的
+
 1. sanct = holy 神圣的
+
+   1. **sanctify** [sanct; -i; -fy *v.*] *v.* 使神圣
 
 1. sat(ur), satis = enough 充分的, 满足的
 
+   1. **sate** [sat; -e] *v.* 使充分满足; 使饱享
+
 1. scand, scans, scend, scens = to climb 攀
+
+   1. **scansion** [scans; -ion *n.*] *n.* 按节奏念; 节奏分析
 
 1. semin = seed 种子
 
+   1. **semen** [semen] *n.* 精子, 精液
+
 1. sen = old or aged 老的
+
+   1. **senate** [sen; -ate *n.*] *n.* 参议院; 评议会; 立法机构
 
 1. seri, sert = to knit or join 联结
 
+   1. **series** [seri; -es *n.*] *n.* 连续; 套, 系列
+
 1. serv = to keep or protect 保存; 保护
+
+   1. **conserve** [con-; serv; -e] *v.* 保存; 使守恒
 
 1. server = grave, morally hard 严肃的; 严厉的
 
+   1. **severe** [sever; -e] *a.* 严肃的; 严厉的; 严重的
+
 1. simil, simul, sembl = the same 相同; alike 相像的
+
+   1. **simile** [simil; -e] *n.* 直喻, 明喻
 
 1. sin(u) = curve 弧线
 
+   1. **sine** [sin; -e] *n.* 正弦
+
 1. soci = companion 同伴
+
+   1. **sociable** [soci; -able *a.*] *a.* 交际的; 社会的
 
 1. sol = alone 单独的
 
+   1. **sole** [sol; -e] *a.* 单独的; 独身的
+
 1. sol(id) = whole 完全的; firm 坚固的
+
+   1. **solemn** [sol; emn (enn)] *a.* 严肃的, 庄严的; 隆重的
 
 1. sol = the sun 太阳
 
+   1. **solar** [sol; -ar *a.*] *a.* 日光的; 利用太阳光的
+
 1. somn = sleep 睡眠
+
+   1. **somnambulist** [somn; ambul; ist *n.*] *n.* 梦行者, 梦游者
 
 1. son = sound 声音
 
+   1. **sonar** [son; -ar *n.*] *n.* 声纳
+
 1. soph = wise 聪明的
+
+   1. **sophism** [soph; -ism *n.*] *n.* 诡辩; 诡辩术
 
 1. sorb, sorpt = to suck in 吸收
 
+   1. **sorbent** [sorb; -ent *n.*] *n.* [化学] 吸着剂
+
 1. sort = lot, fate 签, 阄; 运气
+
+   1. **sort** [sort] *n.* 种类; 样子; 品质 *v.* 把...分类; 整理
 
 1. spat, spac = space 空间
 
+   1. **spatial** [spat; -i-; -al *a.*] *a.* 空间的; 太空的; 占地位的
+
 1. sper = to expect or hope 期望
+
+   1. **desperate** [de-; sper; -ate *a.*] *a.* 令人绝望的; 拼死的; 极端的
 
 1. stingu, stinct = to separate 分离
 
+   1. **distinguish** [di-; stingu; -ish *v.*] *v.* 区别; 辨别; 把...分类
+
 1. strat = layer 层阶
+
+   1. **stratum** [strat; -um *n.*] *n.* 社会阶层; [地质]地层
 
 1. stud = to be zealous 热心于
 
+   1. **study** [stud; -y *n.*] *n.* 学习; 研究; 书房 *v.* 学习; 研究; 考虑
+
 1. suad, suas = to advise 劝告
+
+   1. **dissuade** [dis-; suad; -e] *v.* 劝阻, 劝止
 
 1. sum, sumpt = to take 取
 
+   1. **assume** [as-; sum; -e] *v.* 执掌; 承担; 假装; 假定; 采用
+
 1. summ = highest 最高的
+
+   1. **sum** [sum(summ)] *n.* 总数 *v.* 计算...的总数; 总结
 
 1. surg, surrect = to rise up 上升
 
+   1. **surge** [surg; -e] *n.* 汹涌; 激增 *v.* 汹涌前进; 剧增
+
 1. tail = to cut 切
+
+   1. **tail** [tail] *n.* [法律] 限制继承(权), 限嗣继承(权)
 
 1. techn = art, skill 技艺
 
+   1. **technique** [techn; -ique *n.*] *n.* 技术, 技能; 方法
+
 1. teg, tect = to cover 掩盖
+
+   1. **tegument** [get; -u-; -ment *n.*] *n.* [生物] 皮; 外皮; 壳
 
 1. temper = to mingle or moderate 调和; 调节
 
+   1. **temper** [temper] *v.* 调和; 调节; 使缓和 *n.* 性情; 情绪; 沉着; 勇气; 坏脾气
+
 1. tempor = section of time 时间
+
+   1. **temporal** [tempor; -al *a.*] *a.* 时间的; 世俗的
 
 1. term(in) = limit or end 界限; 末尾
 
+   1. **term** [term] *n.* 期限; 学期; 任期
+
 1. terr = land 地
+
+   1. **terrance** [terr; -ace *n.*] *n.* 梯田; (外表相似的)一排房屋
 
 1. terr = to frighten 惊吓
 
+   1. **terrible** [terr; -ible *a.*] *a.* 可怕的; 极度的, 厉害的
+
 1. test = witness 证人; 作证
+
+   1. **testament** [test; -a-; -ment *n.*] *n.* 证据; 证明; 遗嘱; 自白
 
 1. text = to weave 织
 
+   1. **text** [text] *n.* 文本; 正文; 课文
+
 1. the = god 神
+
+   1. **theism** [the; -ism *n.*] *n.* 有神论; 一神论
 
 1. therm = heat 热
 
+   1. **thermal** [therm; -al *a.*] *a.* 热的, 热量的; 保暖的 *n.* 热气流
+
 1. thes, thet = to place or put 放置
+
+   1. **thesis** [thes; -is *n.*] *n.* 论点, 论题; 命题; 作文; 毕业论文
 
 1. tom = (to) cut 切
 
+   1. **tome** [tom; -e] *n.* 册, 卷; 大册书
+
 1. ton = sound, tone 声音
+
+   1. **tone** [ton; -e] *n.* 音; 音调; 口气
 
 1. torqu, tort, tors = to twist 扭
 
+   1. **torque** [torqu; -e] *n.* [物] 转矩, 力矩; 扭转力
+
 1. tour = to turn 转动
+
+   1. **tour** [tour] *n.* 浏览; 旅行; 参观 *v.* 浏览; 旅行; 参观
 
 1. tox, toxic = arrow poison 箭毒
 
+   1. **toxin** [tox; -in *n.*] *n.* 毒素, 毒质
+
 1. tribut = to assign 分派
+
+   1. **tribute** [tribut; -e] *n.* (表敬意的)行为, 礼物, 颂辞
 
 1. trop = turn 转变
 
+   1. **trope** [trop; -e] *n.* 转义; 比喻
+
 1. trud, trus = to thrust 刺
+
+   1. **detrude** [de-; trud; -e] *v.* 推出; 逐出
 
 1. tuber, tum = to swell 肿
 
+   1. **tuber** [tuber] *n.* [解剖] 结节; [植物] 块茎
+
 1. turb = turmoil 喧嚷
+
+   1. **turbid** [turb; -id *a.*] *a.* 混浊的; 混乱的
 
 1. tut, tuit = to look after or protect 照管; 保护
 
+   1. **tutor** [tut; -or *n.*] *n.* 家庭教师; 导师 *v.* 当...的教师; 指导
+
 1. ultim = the last 最后的
+
+   1. **ultim** [ultim; -acy *n.*] *n.* 终极的, 根本性; 根本原则
 
 1. umbr = shade or shadow 阴影
 
+   1. **umbra** [umbr; -a *n.*] *n.* 阴影; 暗影
+
 1. urb = city 城市
+
+   1. **urban** [urb; -an *a.*] *a.* 城市的; 都市的
 
 1. ut, us = to use 利用
 
+   1. **utensil** [ut; ensil] *n.* 器皿, 用具; 家庭厨房用具
+
 1. vac, van = to be empty 空
+
+   1. **vacancy** [vac; -ancy *n.*] *n.* 空白; 空间; 空虚; 空闲; 空缺
 
 1. vad, vas = to go 走
 
+   1. **evade** [e-; vad; -e] *v.* 逃避; 规避; 回避; 避开; 漏(税)
+
 1. vag = to wander 徘徊
+
+   1. **vagabond** [vag; -a-; bond] *n.* 流浪者; 无业游民
 
 1. vari = manifold 多样的
 
+   1. **vary** [vari] *v.* 改变, 使多样化, 变化, 变异
+
 1. ver = ture 真实的
+
+   1. **very** [ver; -y *a.*] *a.* 同一的; 正是的 *ad.* 很, 非常, 完全
 
 1. verb = word 言辞
 
+   1. **verb** [verb] *n.* 动词
+
 1. vest = to clothe 穿衣
+
+   1. **vest** [vest] *n.* [美] 背心, 马甲; [英] 背心
 
 1. vi = way 路
 
+   1. **viable** [vi; -able *a.*] *a.* 可行的; 能养活的; 能生存的
+
 1. vibr(at) = to shake 摇动
+
+   1. **vibrate** [vibr; -ate *v.*] *v.* 使颤动; 振动; 共鸣
 
 1. vig(or), veill = to be lively 健壮
 
+   1. **vigilant** [vig; -il(e); -ant *a.*] *a.* 警觉的; 警惕的
+
 1. vinc, vict = to conquer 征服
+
+   1. **convince** [con-; vinc; -e] *v.* 使确信, 说服; 使知错
 
 1. vir = man, male 人; 男人
 
+   1. **virile** [vir; -ile *a.*] *a.* 男性的, 男子的; 雄浑的
+
 1. vor = to devour 吞食
+
+   1. **voracious** [vor; -ac-; -ious *a.*] *a.* 贪吃的, 贪婪的
 
 1. vot, vow = to vow 起誓
 
+   1. **vote** [vot; -e] *n.* 选举; 选举权; 投票 *v.* 投票; 表决
+
 1. zo = animal 动物
+
+   1. **zoo** [zo; -o *n.*] *n.* 动物园

@@ -2537,6 +2537,8 @@ suffix = 后缀
 
 1. -en = (1) v. [1] to cause to be ~; [2] to cause to have ~ (2) *a.* made of ~; having the look of ~
 
+1. -ence (-ency) *n.* = the act or fact of ~ing; the quality or condition of ~ing
+
 1. -ent = (1) a. that ~s; ~ing (2) *n.* one that ~s
 
 1. -er *n.* = (1) a person or thing that ~s (2) a person living in ~; a person who makes or works with ~; a person who has ~

@@ -2592,3 +2592,11 @@ suffix = 后缀
 1. -th *n.* = (1) number ~ in order; (2) the action or process of ~ ing; (3) the quality or condition of being ~
 
 1. -ure *n.* = the act or fact of ~ing; the condition of being ~ed; the result of being ~ed; sth. that ~s or is ~ed
+
+1. -ward(s) *a. & ad.* = tending to ~; in the direction of ~; toward ~
+
+1. -wise *ad.* = in a ~ manner; like a ~; in the direction of ~; in the ~ respect
+
+1. -y (-ey) *a.* = (1) full of ~; containing ~; characterized by ~; resembling ~; (2) somewhat ~ (3) inclined to ~
+
+1. -y *n.* = (1) the act of ~ing; (2) the condition or quality of being ~; a group of ~s; (3) ~ condition or quality

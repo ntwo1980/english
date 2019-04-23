@@ -2602,3 +2602,115 @@ suffix = 后缀
 1. -y (-ey) *a.* = (1) full of ~; containing ~; characterized by ~; resembling ~; (2) somewhat ~ (3) inclined to ~
 
 1. -y *n.* = (1) the act of ~ing; (2) the condition or quality of being ~; a group of ~s; (3) ~ condition or quality
+
+1. -ac *a.* 表示"属于...的; 具有...性质的"
+
+1. -ace *n.* 表示"与...相关的事物"
+
+1. -acle *n.* 表示"与...相关的事物"
+
+1. -ad *n.* 表示"集合"的概念
+
+1. -ad *ad.* 表示"朝...方向"
+
+1. -ade *n.* 表示"与...相关的动作或结果"
+
+1. -ain *n.* 表示"与...相关的人或事物"
+
+1. -aire *n.* 表示"与...相关的人"
+
+1. -algia = pain 痛
+
+1. -an, -ian, -n *n.* 表示"...地方的人; 与...相关的人"
+
+1. -an  *a.* 表示"...的"、"有...性质的"
+
+1. -ane *n.* "有...性质的"
+
+1. -arch *n.* = chief or ruler 首领; 统治者
+
+1. -archy *n.* = rule or government 统治; 治理
+
+1. -ard *n.* 表示"...的人(带有贬义)"
+
+1. -ast *n.* 表示"与...相关的人"
+
+1. -aster *n.* 表示"低劣的...(人)"
+
+1. -be *n.* = life 生物
+
+1. -blast *n.* = cell 细胞
+
+1. -cide *n.* = killer 杀...剂; 杀...者
+
+1. -cle, -cute *n.* 表示"小的...(物或人)"
+
+1. -cracy *n.* = power or rule 权力; 统治
+
+1. -crat *n.* = person who believes or supports 信仰者; 支持者
+
+1. -cyte *n.* = cell 细胞
+
+1. -eer *n.* 表示"从事...的人; 与...有关的人"
+
+1. -el, -ella *n.* 表示"小的...(物)"
+
+1. -ern *a.* 表示"...方向的"
+
+1. -esce *v.* 表示"开始...; 产生..."
+
+1. -ese *n.* 表示"...地方的人或语言; ...派的文体或用语"
+
+1. -esque *a.* 表示"如...的;...式的;...派的"
+
+1. -ess *n.* 表示"阴性的...(人或动物)"
+
+1. -et, -ette *n.* 表示"小的...(物)"
+
+1. -eteria, -teria *n.* an inexpensive shop 小店
+
+1. -fashioned *a.* = in ... fashion or style ...式的
+
+1. -ferous *a.* = bearing or producing 产生...的
+
+1. -fold *a.* = ...倍; 部分的
+
+1. -form = having the from of ... 形的
+
+1. -free *a.* = free from 无...的, 免...的
+
+1. -fuge *n.* = sth. that causes... to flee 使...逃逸之物
+
+1. -gamy *n.* = marriage 婚姻
+
+1. -gen *n.* = sth. produced or producing 生成物; 生...之物
+
+1. -gon *n.* = a plane figure having... angles ...角形
+
+1. -gram *n.* = sth. written or recorded 书写物; 记录物
+
+1. -graph *n.* = sth. that writes or records 书写器; 记录器
+
+1. -hedron *n.* = a solid figure having... sides ...面体
+
+1. -holic *n.* = one addicted to 沉湎于...的人
+
+1. -iasis *n.* 表示"...病"
+
+1. -ice *n.* 表示"与...相关的性质、状况或行为"
+
+1. -ics *n.* 表示"...学"
+
+1. -id *a.* 表示"有...性质的"
+
+1. -ide *n.* [化] 表示"...化物"
+
+1. -ie *n.* 表示"小的... (物或人)"(爱称)
+
+1. -ier *n.* 表示"从事...的人; 与...有关的人"
+
+1. -ile *a.* 表示"可...的; 易...的"
+
+1. -in *n.* 表示"有组织的抗议或示威"、"公开的集体活动"
+
+1. -in, -ine *n.* [化、医] 表示"...素"

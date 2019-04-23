@@ -2369,3 +2369,180 @@ Prefix = 前缀
 1. oo- = egg 卵
 
 1. ophthalm(o)- = eye 眼
+
+1. oro- = mountain 山
+
+1. ortho- = straight 直的; correct 正确的
+
+1. osteo- = bone 骨
+
+1. oto- = ear 耳
+
+1. ovi- = egg 卵
+
+1. oxy- = sharp 尖锐的; [化] of oxygen 氧化的, 含氧
+
+1. pale(o)- = ancient 古
+
+1. pan- = all 全, 总, 泛
+
+1. panto- = all 全部
+
+1. patho- = suffering 痛苦; disease 疾病
+
+1. patri- = father 父亲
+
+1. ped(i)- = foot 脚
+
+1. ped(o)- = child 儿童
+
+1. pen(e)- = almost 几乎, 近似
+
+1. pent(a)- = five 五
+
+1. petr(o)- = rock 岩石; 石油
+
+1. pharmac(o)- = drag 药
+
+1. phil(o)- = loving 爱好
+
+1. phon(o)- = sound 声音
+
+1. photo(o)- = light 光; photograph(y) 照相(术)
+
+1. physio- = physical 自然的; 物理的; 肉体的
+
+1. phyto- = plant 植物
+
+1. piezo- = pressure 压力
+
+1. plan(i)- = flat 平的
+
+1. pneumat(o)- = breath 呼吸; wind 气
+
+1. pneum(o)- = lung 肺
+
+1. poly- = much, many 多
+
+1. preter- = beyond 超过
+
+1. prot(o)- = first 第一; primary 原始的
+
+1. pseud(o)- = false 伪的, 假的
+
+1. psych(o)- = mind 精神
+
+1. pur- = forth 向前
+
+1. pyr(o)- = fire 火; heat 热
+
+1. quadr(i)-, quadru- = four 四
+
+1. quasi- = as if 类似; part 部分
+
+1. quinqu(e)- = five 五
+
+1. radio- = ray 射线; radial 放射的; 无线电
+
+1. retro- = backward 向后; behind 在后
+
+1. rhino- = nose 鼻
+
+1. rota-, roto- = wheel 转轮
+
+1. sapr(o)- = rotton 腐败
+
+1. seismo- = earthquake 地震
+
+1. seleno- = the moon 月
+
+1. sept(i)-, septem- = seven 七
+
+1. sex(i)- = six 六
+
+1. socio- = socia 社会的
+
+1. somn(i)- = sleep 睡
+
+1. steno-- = narrow 狭窄; small 小
+
+1. step- = not by blood 非血亲的, 继, 异
+
+1. stero- = three-dimensional 立体的
+
+1. subter- = beneath 在下, less than 少于
+
+1. supra- = over 在上; beyond 超
+
+1. tauto- = the same 相同
+
+1. techno- = art and skill 技术
+
+1. tetr(a)- = four 四
+
+1. the(o)- = god 神
+
+1. therm(o)- = heat 热
+
+1. top(o)- = place 地方
+
+1. twi- = two 二
+
+1. uni- = one 一; single 单
+
+1. urbano-, urbi- = city 城市
+
+1. vari(o)- = various 各种的, 不同的, 变异的
+
+1. vas(o)- = vessel 管道; blood vesel 血管
+
+1. vermi- = worm 蠕虫
+
+1. vice- = deputy 副, 代理
+
+1. xanth(o)- = yellow 黄
+
+1. xeno- = strange or foreigh 异, 陌生, 外国
+
+1. xero- = dry 干燥
+
+1. xylo- = wood 木
+
+1. zo(o)- = animal 动物
+
+suffix = 后缀
+=============
+
+1. -able (-ible) *a.* = that can be ~ed; able to be ~ed
+
+1. -age *n.* = (1) the act or result of ~ing (2) a group of or a place for ~s; the condition of ~
+
+1. -al (-ial, -ical, -ual) = (1) *a.* of ~; like ~; having the nature of ~ (2) *n.* the act of ~ing
+
+1. -ance (-ancy) *n.* = the act or result of ~ing; the state or quality of being ~ed; a thing that ~s; what is ~ed
+
+1. -ant = (1) *a.* that ~s; ~ing (2) *n.* a person or thing that ~s
+
+1. -ar (-ular, -icular) = (1) *a.* of ~; like ~; having the nature of ~ (2) *n.* one that is connected with ~
+
+1. -ary = (1) *n.* a place for ~; a collection of ~s; a person or thing connected with ~ (2) *a.* of ~; being ~; characterized by ~
+
+1. -ate = (1) *a.* of ~; having ~; like ~ (2) *v.* to become ~ or cause to be ~; to produce ~; to supply or treat with ~; to combine with ~ (3) *n.* salt made from ~, etc.
+
+1. -dom *n.* = (1) the rank or realm of ~; all who are ~s; (2) the condition or fact of being ~
+
+1. -ed *a.* = having ~; having the characteristics of ~
+
+1. -ee *n.* = having ~; having the characteristics of ~
+
+1. -en = (1) v. [1] to cause to be ~; [2] to cause to have ~ (2) *a.* made of ~; having the look of ~
+
+1. -ent = (1) a. that ~s; ~ing (2) *n.* one that ~s
+
+1. -er *n.* = (1) a person or thing that ~s (2) a person living in ~; a person who makes or works with ~; a person who has ~
+
+1. -ery *n.* = (1) a place for ~ing (2) a place for ~s; the art or occupation of a ~; the condition, quality or action of a ~; a group of ~s
+
+1. -ful = (1) *a.* a full of ~; showing ~; having the qualities of ~; that can be of ~ (2) *n.* as much as a ~ can fill
+
+1. -fy (-ify, -efy) *v.* = to make ~, to cause to be ~; to become~

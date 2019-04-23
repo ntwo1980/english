@@ -2545,4 +2545,50 @@ suffix = 后缀
 
 1. -ful = (1) *a.* a full of ~; showing ~; having the qualities of ~; that can be of ~ (2) *n.* as much as a ~ can fill
 
-1. -fy (-ify, -efy) *v.* = to make ~, to cause to be ~; to become~
+1. -fy (-ify, -efy) *v.* = to make ~, to cause to be ~; to become ~
+
+1. -hood *n.* = the state or quality of ~; the character of ~; a group or body or ~s; a concrete instance of ~
+
+1. -ic = (1) a. of ~; having the nature of ~; being ~; made up of ~; made or caused by ~; like ~ (2) *n.* an art or system of thought; a person connected with ~
+
+1. -ion *n.* = the act or process of ~ing; the result of ~ing; the condition of being ~ed; a thing or process that ~s
+
+1. -ish *a.* = (1) like ~; of ~; tending to ~; about or slightly past ~ (2) somewhat ~
+
+1. -ism *n.* = (1) the doctrine, theory or system of ~; a disease caused by ~ (2) the quality or condition of being ~; instance of being ~
+
+1. -ite *n.* = (1) an inhabitant of ~; a descendant of ~; a supported or follower of ~; a person associated with ~ (2) a mineral species; a fossil; an explosive; a chemical product
+
+1. -ity (-ty, -ety) *n.* = the condition, quality or fact of being ~
+
+1. -ive *a.* = ~ing; having the quality of ~ing; tending to ~
+
+1. -ize (-ise) *v.* = to make ~; to become ~; to engage in or use ~; to treat in the way of ~; to act like ~
+
+1. -less = (1) without ~; lacking ~; free from ~ (2) that never ~s; that cannot be ~ed
+
+1. -logy *n.* = the doctrine, study or science of ~; the speech or discussion of ~
+
+1. -ly *a.* = like a ~; characteristic of ~; suited to ~; occuring once a ~; of or being a ~
+
+1. -ment *n.* = the act or state or fact of ~ing; the condition of being ~ed; the product or result of ~ing; the cause or means of ~ing
+
+1. -ness *n.* = the quality or condition of being ~; ~ action or behaviour; an instance of being ~
+
+1. -or *n.* = a person or thing that ~s
+
+1. -ory = (1) *n.* a place of ~ing; a thing used for ~ing (2) *a.* ~ing; characterized by ~ion; tending or serving to ~
+
+1. -our (-or) *n.* = the act, state, quality or characteristics of ~ing
+
+1. -ous *a.* = having ~, full of ~; characterized by ~, having the nature of ~; having to do with ~; of ~; like ~; practising ~
+
+1. -ry *n.* = (1) the occupation of a ~; the act of a ~; the quality or condition of a ~; a collection of ~s (2) a place for ~
+
+1. -ship *n.* = the position or occupation of ~; the quality or condition of being ~; the act or skill of ~; the relation between ~s; the number of ~s
+
+1. -some *a.* = (1) causing ~; (2) tending to ~; (3) ~ to a considerable degree
+
+1. -th *n.* = (1) number ~ in order; (2) the action or process of ~ ing; (3) the quality or condition of being ~
+
+1. -ure *n.* = the act or fact of ~ing; the condition of being ~ed; the result of being ~ed; sth. that ~s or is ~ed

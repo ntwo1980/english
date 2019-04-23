@@ -2024,3 +2024,348 @@ Root = 词根
 1. zo = animal 动物
 
    1. **zoo** [zo; -o *n.*] *n.* 动物园
+
+Prefix = 前缀
+=============
+
+1. a- = on, in
+
+1. a- (an-) = not, without
+
+1. ab- (abs-) = away from, off
+
+1. ad- (ac-, af-, etc.) = to, at
+
+1. ante- = before, in front of
+
+1. anti- (ant-) = against, opposing
+
+1. be- = (1) about; completely (2) to make; to provide with
+
+1. bi-(bin-) = two; twice; doubly
+
+1. by- = secondary; near by
+
+1. circum- = around, about
+
+1. com- (co-, col-, con-, cor-) = with, together
+
+1. contra- = against, opposite
+
+1. counter- = against, opposite, in return
+
+1. de- = (1) down; away (2) to undo; to make down or away
+
+1. di- = twice, two
+
+1. dia- (di-) = through, across
+
+1. dis- (dif-, di-) = apart; to undo; lack of, to remove; not
+
+1. en- (em-) = to put into; to make
+
+1. ex- (e-, ef-) = to (1) out, out of (2) former
+
+1. extra- = outside; beyond
+
+1. for- = forth; away
+
+1. fore- = front; before; beforehand
+
+1. in- (il-, im-, ir-) = not; lack of
+
+1. in- (il-, im-, ir-) = in, into; on, upon; towards
+
+1. inter- (intel-) = between; mutual, mutually
+
+1. kilo- = one thousand
+
+1. mal- (male-) = bad, badly; evil, evilly
+
+1. micro- = small, very small; one millionth
+
+1. mis- = bad, badly; wrong, wrongly
+
+1. multi- = many; having many; many times
+
+1. non- = not; absence of; without
+
+1. ob- (oc-, of-, op-) = toward; against
+
+1. out- = out, outside; more than, to surpass, to be more than
+
+1. over- = above, across; too; too much
+
+1. para- (par-) = beside, near; related to, subordinate to
+
+1. per- = through; throughout; thoroughly; to destruction
+
+1. peri- = around; near
+
+1. post- = after; behind
+
+1. pre- = before, beforehand; in front
+
+1. pro- = forward, forth, out; in favour of, in place of
+
+1. re- (red-) = back; again; against
+
+1. se- (sed-) = apart, aside, away
+
+1. self- = oneself; by oneself; automatic, automatically
+
+1. semi- = half; partly; half a time or twice
+
+1. sub- (suc-, suf-, etc.) = under; subordinate; incompletely; further
+
+1. super- = above; beyond; more than; excessively
+
+1. sur- = above, beyond
+
+1. syn- (syl-, sym-, sy-) = with, together
+
+1. tele- = after; operatingover a distance; having to do with television, etc.
+
+1. trans- (tran-, tra-) = across; beyond; over
+
+1. tri- = tree; having three
+
+1. ultra- = beyond; on the other side; excessively
+
+1. un- = (1) not; lack of; to undo (2) to remove
+
+1. under- = under, beneath; lower; not enough
+
+1. up- = up; upward; upper; to make ... upward
+
+1. with- = against; away; back; with
+
+1. acr(o)- = top 顶点; 最高点
+
+1. aeri-, aero- = air 空气; aircraft 飞机
+
+1. afore- = before, beforehand 以前, 先前
+
+1. agro- = field 农田; agriculture 农业
+
+1. alti-, alto- = high 高
+
+1. amb(i)- = both 二者; around 周围
+
+1. amphi- = on both sides 两边; around 周围
+
+1. ana- = back 回; again 再; up 向上
+
+1. anthrop(o)- = human being 人类
+
+1. apo- = away off 远离
+
+1. arch(i)- = chief, principal 为首的, 主要的
+
+1. astro- = star 星; space 宇宙
+
+1. asmo- = vapour 气
+
+1. auto- = self 自身; automatic 自动
+
+1. bene- = well 好
+
+1. biblio- = book 书籍; Bibile 《圣经》
+
+1. bio- = life 生命, 生物
+
+1. caco- = bad 恶, 丑
+
+1. calor(i)- = heat 热
+
+1. carb(o)- = carbon 碳
+
+1. cardio- = the heart 心脏
+
+1. cat(a)- = down 向下; against 相反; wrongly 错误; completely 完全
+
+1. cent(i)- = hundred 百; a hundredth 百分之一
+
+1. centri-, centro- = centre 中心
+
+1. chem(o)- = chemical 化学的
+
+1. chromo-, chromato- = colour 色; chromatin 染色质
+
+1. chron(o)- = time 时间
+
+1. cis- = on this side 在这一边
+
+1. cosmo- = world 世界; universe 宇宙
+
+1. cruci- = cross 十字形
+
+1. cryo- = cold or low temperature 低温的
+
+1. crypto- = hidden 隐秘的
+
+1. cyber- = computer 计算机; Internet 因特网
+
+1. cyclo- = circle 圆环
+
+1. dec(a)- = ten 十
+
+1. deci- = tenth 十分之一
+
+1. denti-, dento- = tooth 齿
+
+1. dermat(o)- = skin 皮肤
+
+1. deuter(o)- = second 第二, 再
+
+1. dipl(o)- = double 双, 复
+
+1. duo- = two 二
+
+1. dys- = bad 坏的; abnormal 反常的
+
+1. ec- = from, out of 出, 出自
+
+1. eco- = house 家; living condition 生态
+
+1. ecto- = outside of 外面, 外部
+
+1. electro- = electricity 电; electric 电的
+
+1. endo- = inner 内; inside 内部
+
+1. epi- = upon 在...之上; among 在...之中; in addition 除...之外
+
+1. eu- = good 好; true 真
+
+1. ex(o)- = outside 外面
+
+1. ferro- = iron 铁
+
+1. flori- = flower 花
+
+1. fructi- = fruit 果实
+
+1. fungi- = fungus 真菌
+
+1. gastro- = stomach 胃
+
+1. geo- = the earth 地球
+
+1. gyn-, gynaeco- = woman 女性; female 雌性
+
+1. gyro- = circle 环; spiral 螺旋, 旋转
+
+1. hect(o)- = hundred 百; many 多
+
+1. heli(o)- = the sun 太阳
+
+1. hem(a)-, hemo-, hemat(o)- = blood 血
+
+1. hemi- = half 半
+
+1. hepat(o)- = liver 肝
+
+1. hept(a)- = seven 七
+
+1. hetero- = different 异
+
+1. hex(a)- = six 六
+
+1. hier(o)- = sacred 神圣的
+
+1. holo- = whole 完全
+
+1. homo- = the same 同
+
+1. hydr(o)- = water 水; containing hydrogen 氢(化)的
+
+1. hyp(o)- = under 在...下; to a less degree 低, 亚
+
+1. hyper- = beyond 超; more than 过于
+
+1. ideo- = idea 思想, 概念
+
+1. infra- = below, under 在...下; beyond 在...外
+
+1. intra- = within 在内; inside 在内部
+
+1. intro- = within 在内; inward 进内
+
+1. iso- = equal 等; alike 同
+
+1. karyo- = cell nucleus 核
+
+1. kines(io)-, kineto- = motion 运动
+
+1. leuco- = white 白的
+
+1. ligni- = wood 木
+
+1. lith(o)- = stone 石
+
+1. logo- = word 词, 话
+
+1. macro- = large 大的; long 长的; abnormally large 宏大
+
+1. magneto- = magnet 磁
+
+1. magni- = large 大的
+
+1. mani- = hand 手
+
+1. matri- = mother 母亲
+
+1. maxi- = very long 特别长的; very large 特别大的
+
+1. medi- = middle 中间的
+
+1. medico- = medical 医学的, 医疗的
+
+1. mega- = large 大的; one million 百万, 兆
+
+1. megalo- = great 特大的
+
+1. melan(o)- = black 黑的
+
+1. meso- = middle 中间的; intermediate 中介
+
+1. meta- = change of place or state 变化, 变位, 变形; beyond 超
+
+1. milli- = one thousandth of 千分之一, 毫
+
+1. mini- = miniature 小型的
+
+1. mon(o)- = single 单; one 一
+
+1. myo- = muscle 肌肉
+
+1. myria- = ten thousand 万
+
+1. ne-, neg- = not 不
+
+1. necr(o)- = dead body 死尸; death 死
+
+1. neo- = new 新
+
+1. neur(o)- = nerve 神经
+
+1. noct(i)-, nocto- = night 夜
+
+1. noso- = disease 疾病
+
+1. nucleo- = kernel 核
+
+1. nyct(o)- = night 夜
+
+1. octa-, octo- = eight 八
+
+1. ole(o)- = oil 油
+
+1. olig(o)- = few 少, 缺
+
+1. omni- = all 全, 总
+
+1. oo- = egg 卵
+
+1. ophthalm(o)- = eye 眼

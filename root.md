@@ -514,6 +514,8 @@ Root = 词根
 1. nasc, nat = to be born 出生
 
    1. **nation** [to be born 出生; -ion *n.* = the state 表行为状态 -> 人们出生的环境 -> 人们的出身种族 ->] *n.*  国民; 民族
+   1. **pregnant** [pre- = before 在...之前; gnant (nat) = to be born 出生 -> 在出生之前的 ->] *a.*  (1) 怀孕; 怀胎 (2) 意义深远的; 含蓄的 (3) 充满的; 富有的
+       * **pregnancy** [pregan(t); -cy; *n.*] *n.* 怀孕; 富有意义; 充满
 
 1. not = to get to know 知晓
 

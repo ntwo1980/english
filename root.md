@@ -2714,3 +2714,139 @@ suffix = 后缀
 1. -in *n.* 表示"有组织的抗议或示威"、"公开的集体活动"
 
 1. -in, -ine *n.* [化、医] 表示"...素"
+
+1. -ine *a.* 表示"具有...的性质的; 像...的"
+
+1. -ing *n.* 表示"属于...类的一个; 具有...性质的一个"
+
+1. -itis *n.* 表示"...炎; ...癖"
+
+1. -kin *n.* 表示"小的...(人或动物)"
+
+1. -latry *n.* = the worship of 对...的崇拜
+
+1. -le *n.* 表示"小的...(物)"
+
+1. -le *v.* 表示"反复或连续地...(动作或行为)"
+
+1. -let *n.* 表示"小的...(物)"
+
+1. -like *a.* 表示"有...性质的; 如...的"
+
+1. -ling *n.* 表示"小的...(人或动物)"
+
+1. -lith, -lite *n.* = stone 石
+
+1. -logue *n.* = speech 说话
+
+1. -long *a. & ad.* = 表示"...长时间的(地); 朝向...的(地)"
+
+1. -made *a.* 表示"...制造的"
+
+1. -man *n.* 表示"从事...职业的人"
+
+1. -mania = unusual or unreasonable fondness of ...狂; ...迷
+
+1. -mer *n.* = part 部分
+
+1. -meter *n.* = a device for measuring ...仪表
+
+1. -metry *n.* = the process or art of measuring ...测定(法)
+
+1. -mony *n.* 表示"...的状态、性质、结果等"
+
+1. -morph *n.* = form 形
+
+1. -most *a.* 表示"最...的"
+
+1. -nomy *n.* = the law or science of ...法; ...学
+
+1. -ock *n.* 表示"小...(物)"
+
+1. -ode *n.* = way of electricity, electrode 电极
+
+1. -oid *a. & n.* 表示"如...物(的)"
+
+1. -oma *n.* 表示"...的肿瘤"
+
+1. -on *n.* = nuclear particle ...核子
+
+1. -one *n.* 表示"大的...(物)"
+
+1. -oon *n.* 表示"与...有关的人或物"
+
+1. -ose *n.* [化] 表示"...糖"
+
+1. -ose *a.* (=-ous) 表示"...多的; 具有...特征的"
+
+1. -osis *n.* 表示"疾病; 其他生理状态"
+
+1. -ot *n.* 表示"具有...特征的人"
+
+1. -parous *a.* = giving birth, producing 生...的; 产...的
+
+1. -pathy *n.* = feeling 情感; disease 疾病; treatment 疗法
+
+1. -ped, -pede *n.* = ...footed animal ...足动物
+
+1. -person *n.* 表示"...的人"(用以避免使用阳性的-man)
+
+1. -phagous *a.* = eating 吃...的; 以...为食的
+
+1. -phil, -phile *n.* = lover or loving of 爱好...(者)
+
+1. -phobia *n.* = fear or dread of 对...恐惧或憎恶
+
+1. -phone *n.* = an instrument for better sound 助声器械
+
+1. -phore *n.* = bearer 带...者; 产生...的装置
+
+1. -phyll *n.* = leaf 叶
+
+1. -phyte *n.* = plant 植物
+
+1. -plasm *n.* = sth. formed 形成物; 原生质
+
+1. -ple *a. & n.* 表示"...倍(的)"
+
+1. -pod *a. & n.* = ...footed animal ...足类动物(的)
+
+1. -proof *a.* = against 防...的
+
+1. -rel *n.* 表示"小的或低劣的...(人或动物)"
+
+1. -scape *n.* = a view or expanse of ...的景色或景象
+
+1. -scope *n.* = an instrument for viewing 观察...的仪器; ...镜
+
+1. -sphere *n.* = a globular mass or shell 球状的...圈或...层
+
+1. -stat *n.* = an instrument for making ... stable ...稳定器
+
+1. -ster *n.* 表示"从事...的人; 有...习惯或特点的人"
+
+1. -therapy *n.* = the treatment of ... 疗法
+
+1. -tight *a.* = not allowing the passage of 不透...的
+
+1. -tomy *n.* = cutting ...切开术
+
+1. -trix *n.* 表示"女性...者" [与-(t) or 相对]
+
+1. -trophy *n.* = nourishment 营养
+
+1. -tude *n.* 表示"...的性质、状态等"
+
+1. -type *n.* = model ...型
+
+1. -ule *n.* 表示"小的...(物)"
+
+1. -um *n.* 表示"...场所; ...元素"
+
+1. -urgy *n.* = the technology of ...工艺
+
+1. -valent *a.* = having ... value 有...价的
+
+1. -vorous *a.* = eating or devouring 吃...的; 以...为食的
+
+1. -yer *n.* 表示"与...有关的人"

@@ -468,6 +468,32 @@ Root = 词根
 1. mit, miss = to send 发, 送
 
    1. **admit** [ad- = to, into 去, 进 -> mit = 发送, 放行 -> 送进去, 放进去 ->] *v.* (1) 让...进入 (2) 接纳
+       * **admittance** [admit(t); -ance *n.*] *n.* 进入; 允许进入
+       * **admission** [ad-; miss; -ion *n.*] *n.* 允许进入; 入场费
+   1. **commit** [com- = completely 表加强词义; mit = to send 送 ->] *v.* (1) 把...送押 (2) 把...提交给 (3) 使负责; 使承担; 使承担(义务)
+       * **commitment** [commit; -ment *n.*] *n.* 关押; 提交; 承担义务
+       * **committee** [commit(t); -ee *n.*] *n.* 负责审议提案的团体; 委员会
+       * **commission** [com-; miss; ion *n.*] *n.* 委托; 委任; 委员会
+   1. **dimiss** [dis- = away 离开; miss = to send 送, 发 ->] *v.* 打发走; 解雇; 撤职等
+       * **dismissal** [dismiss; -al *n.*] *n.* 打发; 解雇; 免职
+   1. **missile** [miss = to send 发送; -ile *a.* = capable of 可...的 ->] (1) *a.* 可发送的; 可投掷的 (2) *n.* 导弹
+       * **missilery** [missil(e); -ery *n.*] *n.* 导弹技术; [总称] 导弹
+   1. **emit** [e- (ex-) = out 出; mit = to send 送, 发 ->] *v.* 散发; 发射出(声、光、热等)
+       * **emission** [e-; miss; -ion *n.*] *n.* 散发; 发射
+       * **emissive** [e-; miss; -ive *a.*] *a.* 发出的; 发射的
+   1. **omit** [o- (ob-) = in front of 在...前面; mit = to send 送 -> 把某物送到他人面前 -> 让某物离开自己 ->] *v.* 删去; 省略
+       * **omission** [o-; miss; -ion *n.*] *n.* 删节; 省略
+       * **omissive** [o-; miss; -ive *a.*] *a.* 删节的; 省略的
+   1. **permit** [per- = through 通过; mit = to send 送 -> 送其过去, 让其通过 ->] *v.* 许可; 允许
+       * **permission** [per-; miss; -ion *n.*] *n.* 允许; 同意
+       * **permissive** [per-; miss; -ive *a.*] *a.* 容许的; 随意的
+   1. **submit** [sub- = under 在...之下; mit = to send 送 -> 送到某人管辖之下 ->] *v.* (1) 送交; 呈交 (2) 使服从; 屈从
+       * **submission** [sub-; miss; -ion *n.*] *n.* 提交; 服从
+       * **submissive** [sub-; miss; -ive *a.*] *a.* 服从的; 顺从的; 谦恭的
+   1. **transmit** [trans- = across 越, mit = to send 送 ->] *v.* 传送; 传达
+       * **transmitter** [transmit(t); -er *n.*] *n.* 传送者; 传达者
+       * **transmission** [trans-; miss; -ion *n.*] *n.* 传送; 传达
+       * **transmissive** [trans-; miss; -ive *a.*] *a.* 传送的; 能传送的
 
 1. mod = measure 度量; manner 方式
 
@@ -2036,6 +2062,57 @@ Prefix = 前缀
 
 1. ad- (ac-, af-, etc.) = to, at
 
+   1. **adapt** [ad- = to 到; apt = to join 连 -> to join to a new place 连到新环境去 ->] *v.* 使适应; 使适合
+       * **adaptation** *n.* 适应; 适合
+       * **adaptive** *a.* 适应的; 适合的
+   1. **adequate** [ad- = to 到; equ = equal 相等; -ate = to make 使 -> to make equal to 使与...相等 ->] *a.* 适当的; 足够的
+   1. **adit** [ad- = to 到; it = going 走 -> a going to a place 走到某地 ->] *n.* 途径; 入口
+   1. **adorn** [ad- = to 到; orn = to equip 装配 -> to equip to 装配于... ->] *v.* 使生色; 装饰
+       * **adornment** *n.* 装饰; 装饰品
+   1. **adult** [ad- = to 到; ult = grown up 成长 -> grown up to full size 长大成型的 ->] *a.* 已成熟的; 已成年的
+       * **adulthood** *n.* 成年
+   1. **addict** [ad- = to 到; dict = to say 说 -> to say yes to 对...表示赞成 -> 纵情于...] *v.* 沉溺于, 醉心于
+       * **addiction** *n.* 沉溺; 吸毒成瘾
+       * **addictive** *a.* 使成瘾的; 上瘾的
+   1. **adhere** [ad- = to 到; here = to stock 粘; -e -> 粘到某物上] *v.* (1) 粘附 (2) 依附, 坚持
+       * **adherence** *n.* 依附; 信奉; 坚持; 固执
+       * **adherent** *a.* 粘着的 *n.* 信徒, 追随者
+   1. **adjacent** [ad- = at 到; jac = to lie 位于; -ent *a.* = -ing -> 位于附近的 -> ] *a.* 邻近的
+   1. **admire** [ad- = at 到; mir = to wonder 惊奇; -e -> 对...感到惊奇 -> ] *v.* 钦佩, 赞美
+       * **admiration** *n.* 钦佩, 赞美
+       * **admirable** *a.* 令人钦佩的; 极妙的
+   1. **advocate** [ad- = to 向; voc = to call 喊; -ate *n.* = person 人 -> 向...呼喊的人 -> ] *n.* 拥护者, 提倡者
+   1. **abbreviate** [ab- (ad-) = to 到; brevi = short 短; -ate *v.* = to make 使 -> 使变短到某种程度 -> ] *v.* 缩写; 简略
+       * **abbreviation** *n.* 缩写; 缩写词
+   1. **affect** [af- (ad-) = to 对; fect = to do 做 -> 对...做了某事 -> ] *v.* 影响
+   1. **aggress** [ag- (ad-) = to 向; gress = to step 跨步 -> 向某人逼近一步 -> ] *v.* 攻击, 挑衅; 侵略
+       * **aggression** *n.* 侵略
+       * **aggressive** *a.* 侵略的; 爱寻衅的
+   1. **alleviate** [al- (ad-) = to 对; levi = light 轻; -ate *v.* = to make 使 -> 使某事对某人的压力变轻 -> ] *v.* 减轻, 缓和
+       * **alleviation** *n.* 减轻; 缓和物
+       * **alleviative** *a.* 减轻痛苦的; 起缓和作用的
+   1. **annex** [an- (ad-) = to 到; nex = to bind 绑; -> 将一物绑到另一物上 -> ] *v.* 附加
+       * **annexation** *n.* 附加; 并吞
+       * **annexment** *n.* 附加物; 并吞物
+   1. **appear** [ap- (ad-) = to 向; pear (par) = to come 来; -> 向...走来 -> ] *v.* 出现
+       * **appearance** *n.* 出现, 显露; 来到
+       * **apparent** *a.* 明显的; 显而易见的
+   1. **arrive** [ar- (ad-) = to 到; riv (rip) = short 岸; -e -> 到岸 -> ] *v.* 到达
+       * **arrival** *n.* 到达, 到来; 到达者
+   1. **assist** [as- (ad-) = at 在; sist = to stand 站 -> 站在某人身边 -> ] *v.* 帮助
+       * **assistant** *n.* 助手
+   1. **attend** [at- (ad-) = to 向; tend = to stretch 伸 -> 把手或心思伸向 -> ] *v.* 注意
+       * **attention** *n.* 注意; 注意力
+       * **attentive** *a.* 注意的; 当心的
+   1. **acclaim** [ac- (ad-) = to 对; claim = to cry 呼喊 -> 向某人呼喊 -> ] *v.* 为...喝彩
+       * **acclaimation** *n.* 欢呼, 喝彩; 鼓掌通过
+   1. **acknowledge** [ac- (ad-) = to 在; knowledge = to know 知道 -> 在某件事情上知道真情 -> ] *v.* 承认
+       * **ackowledgement** *n.* 承认; 感谢
+   1. **acquire** [ac- (ad-) = to 到; quire = to seek 寻找 -> 寻找到某物 -> ] *v.* 取得, 获取
+       * **acquirement** *n.* 获得; 学到
+       * **acquisition** *n.* 获得; (有价值的)获得物
+       * **acquisitive** *a.* 渴望得到的
+
 1. ante- = before, in front of
 
 1. anti- (ant-) = against, opposing
@@ -2612,6 +2689,8 @@ suffix = 后缀
 1. -ad *n.* 表示"集合"的概念
 
 1. -ad *ad.* 表示"朝...方向"
+
+   1. **dextrad** *ad.* 向右方 [dextr = right hand]
 
 1. -ade *n.* 表示"与...相关的动作或结果"
 

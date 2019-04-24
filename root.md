@@ -2116,10 +2116,15 @@ Prefix = 前缀
        * **acquisitive** *a.* 渴望得到的
 
 1. ante- = before, in front of
+   1. **antecedent** [ante- = before 前; ced = to go 走; -ent *a.* = -ing -> 走在前面的 -> ] *a.* 先前的; 先行的
 
 1. anti- (ant-) = against, opposing
 
+   1. **antibiotic** [anti- = opposing 反; bi = life 生命; -otic *a.* = having the quality of 有...性能的 -> 能与某种生物作对的 -> ] *a.* 抑制病菌的; 抗生的
+
 1. be- = (1) about; completely (2) to make; to provide with
+
+   1. **become** [be- = about 周围; come *v.* 来 = -> 发生 -> ] *vi.* 成为, 变得
 
 1. bi-(bin-) = two; twice; doubly
 

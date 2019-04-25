@@ -2124,55 +2124,103 @@ Prefix = 前缀
 
 1. be- = (1) about; completely (2) to make; to provide with
 
-   1. **become** [be- = about 周围; come *v.* 来 = -> 发生 -> ] *vi.* 成为, 变得
+   1. **become** [be- = about 周围; come *v.* 来 -> 发生 -> ] *vi.* 成为, 变得
 
 1. bi-(bin-) = two; twice; doubly
 
+   1. **bicycle** [bi- = two 二; cycle = wheel 轮 -> 有两个轮子的交通用具 -> ] *n.* 脚踏车
+
 1. by- = secondary; near by
+
+   1. **bypass** [by- = secondary 次要的; pass *n.* 道路 -> 次要的道路 -> ] *n.* 旁道, 旁路
 
 1. circum- = around, about
 
+   1. **circumambulate** [circum- = around 绕; ambulate = to walk or go 行 -> ] *v.* 绕行
+
 1. com- (co-, col-, con-, cor-) = with, together
+
+   1. **combat** [com- = with 与; bat = to beat 行 -> 与...打仗 ->] *vt.* 跟...战斗, 反对
 
 1. contra- = against, opposite
 
+   1. **contraband** [contra- = against 对抗; band = ban 禁令 -> 违抗禁令的 ->] (1) *a.* 非法的, 违禁的 (2) *n.* 走私货
+
 1. counter- = against, opposite, in return
+
+   1. **contradict** [contra- = against 反对; dict = to speak 说 -> 以言相对抗 ->] *vt.* (1) 反驳 (2) 否认 (3) 与...矛盾
 
 1. de- = (1) down; away (2) to undo; to make down or away
 
+   1. **decline** [de- = down 下; clin = to bend 弯; -e -> 弯下去 ->] *v.* (1) 下倾 (2) 拒绝
+
 1. di- = twice, two
+
+   1. **diarchy** [di- = two 二; arch = ruler 统治者; -y *n.* = the state 状态 -> 有两个统治者的状态 ->] *n.*  (执政权授予两个统治者的)两头政治
 
 1. dia- (di-) = through, across
 
+   1. **diameter** [dia- = through 穿; meter = measure 测量 -> 穿过中心的测量长度 ->] *n.* 直径
+
 1. dis- (dif-, di-) = apart; to undo; lack of, to remove; not
+
+   1. **discern** [dis- = apart 开; cern = to separate 分 -> 将一物与它物分开 ->] *vt.* 辨别; 认出
 
 1. en- (em-) = to put into; to make
 
+   1. **enact** [en- = to put into 使置于; act *n.* 法令 -> 付诸于法令 ->] *v.* 制定(法律), 颁布、通过(法案)
+
 1. ex- (e-, ef-) = to (1) out, out of (2) former
+
+   1. **exaggerate** [ex- = out of 外; aggerate = heap 堆 -> 堆到...以外去 ->] *v.* (1) 使夸大 (2) 夸张; 夸大
 
 1. extra- = outside; beyond
 
+   1. **extramural** [extra- = outside 在...之外; mur = wall 墙; -al *a.* of ...的 -> 墙外的 ->] *a.* (1) 市外的, 城镇以外的 (2) 校外的
+
 1. for- = forth; away
+
+   1. **forbear** [for- = away 离; bear *v.* 忍受 -> 忍受与某物相离 ->] *v.* 避免; 克制
 
 1. fore- = front; before; beforehand
 
+   1. **forefoot** [fore- = front 前; foot *n.* 脚 -> 前脚 ->] *n.* (兽的)前脚
+
 1. in- (il-, im-, ir-) = not; lack of
+
+   1. **inactive** [in- = not 不; active *a.* 活跃的 ->] *a.* 不活跃的; 懒散的
 
 1. in- (il-, im-, ir-) = in, into; on, upon; towards
 
+   1. **include** [in- = in 入; clude = to shut 关; -e -> 关入 ->] *vt.* 包含; 包括
+
 1. inter- (intel-) = between; mutual, mutually
+
+   1. **intercede** [inter- = between 在...之间; ced = to go 走; -e -> 在双方之间奔走 ->] *v.* 代为请求, 说情
 
 1. kilo- = one thousand
 
+   1. **kilogram** [kilo- = one thousand 千; gram *n.* 克 ->] *n.* 千克, 公斤
+
 1. mal- (male-) = bad, badly; evil, evilly
+
+   1. **maladminister** [mal- = badly 不良; administer *v.* 管理 ->] *v.* 对...管理不善
 
 1. micro- = small, very small; one millionth
 
+   1. **microbe** [micro- = very small 微小的; be (<-bi) = life 生物 -> 微小的生物 ->] *n.* 微生物; 细菌
+
 1. mis- = bad, badly; wrong, wrongly
+
+   1. **misfortune** [mis- = bad 坏的; fortune *n.* 运气 ->] *n.* 不幸; 灾祸
 
 1. multi- = many; having many; many times
 
+   1. **multiflorous** [multi- = many 许多的; flor = flower 花; -ous *a.* = having 有...的 -> 有许多花的 ->] *a.* 多花的
+
 1. non- = not; absence of; without
+
+   1. **nonaggression** [non- = absence of 不; aggression *n.* 侵略 ->] *n.* 不侵略; 不侵犯
 
 1. ob- (oc-, of-, op-) = toward; against
 

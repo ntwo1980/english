@@ -2224,9 +2224,15 @@ Prefix = 前缀
 
 1. ob- (oc-, of-, op-) = toward; against
 
+   1. **obey** [ob- = toward 向; ey(aud) = to listen 听 -> 听从 ->] *v.* 听从, 服从
+
 1. out- = out, outside; more than, to surpass, to be more than
 
+   1. **outburst** [out- = out 外; burst *n.* 突发 ->] *n.* 突然爆发
+
 1. over- = above, across; too; too much
+
+   1. **overactive** [over- = too 太; active *a.* 活跃的 ->] *a.* 过于活跃的
 
 1. para- (par-) = beside, near; related to, subordinate to
 

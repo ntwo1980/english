@@ -2236,31 +2236,59 @@ Prefix = 前缀
 
 1. para- (par-) = beside, near; related to, subordinate to
 
+   1. **paragraph** [para- = beside 旁; graph = to write 写 -> 一段文章开头时, 在旁边做的记号 ->] *n.* 段落
+
 1. per- = through; throughout; thoroughly; to destruction
+
+   1. **perambulate** [per- = through 通过; ambulate = to walk 步行 ->] *v.* 步行穿过; 巡行
 
 1. peri- = around; near
 
+   1. **period** [peri- = around 周围; od = a going 走 -> 走了一圈 ->] *n.* (1) 周期 (2) 时间
+
 1. post- = after; behind
+
+   1. **postbellum** [post- = after 后; bellum = war 战争 ->] *a.* 战后的; 美国南北战争后
 
 1. pre- = before, beforehand; in front
 
+   1. **prehistory** [pre- = before 前; history *n.* 历史 ->] *n.* (历史记载前的)史前史
+
 1. pro- = forward, forth, out; in favour of, in place of
+
+   1. **proceed** [pro- = foreward 向前; ceed = to go or move 运动 ->] *v.* 进行; 继续进行
 
 1. re- (red-) = back; again; against
 
+   1. **rebel** [re- = against 反对; bel = 开战 -> 与...作战 ->] *v.* 造反; 反抗
+
 1. se- (sed-) = apart, aside, away
+
+   1. **secede** [se- = apart 离; ced = to go 走; -e -> 离开 ->] *v.* 退出; 脱离
 
 1. self- = oneself; by oneself; automatic, automatically
 
+   1. **self-deceiving** [self- = oneself 自己; deceiving *a.* 欺骗的 ->] *a.* 欺骗自己的, 自欺欺人的
+
 1. semi- = half; partly; half a time or twice
+
+   1. **semicircle** [semi- = half 半; circle *n.* 圆 ->] *n.* 半圆, 半圆形
 
 1. sub- (suc-, suf-, etc.) = under; subordinate; incompletely; further
 
+   1. **subaltern** [sub- = under 下; altern = other 其他 -> 在他人之下 ->] *a.* 下级的, 副的
+
 1. super- = above; beyond; more than; excessively
+
+   1. **superficial** [super- = above 在...之上; fici = face 面; -al = being -> 在面上 ->] *a.* (1) 表面的 (2) 肤浅的; 浅薄的
 
 1. sur- = above, beyond
 
+   1. **surface** [sur- = above 在...之上; face = face 面 -> 在...的面上 ->] *n.* (1) 面, 表面 (2) 外表
+
 1. syn- (syl-, sym-, sy-) = with, together
+
+   1. **synchronize** [syn- = together 共同; chron = time 时间; -ize = cause to be 使 -> 使同时 ->] *v.* 同时发生; 同步
 
 1. tele- = after; operatingover a distance; having to do with television, etc.
 

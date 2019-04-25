@@ -2290,91 +2290,177 @@ Prefix = 前缀
 
    1. **synchronize** [syn- = together 共同; chron = time 时间; -ize = cause to be 使 -> 使同时 ->] *v.* 同时发生; 同步
 
-1. tele- = after; operatingover a distance; having to do with television, etc.
+1. tele- = after; operating over a distance; having to do with television, etc.
+
+   1. **telegraph** [tele- = operating over a distance 远距离操作的; graph = writer 书写器 -> 远距离操作的书写器 ->] *n.* (1) 电报机 (2) 用电报机发送
 
 1. trans- (tran-, tra-) = across; beyond; over
 
+   1. **transact** [trans- = across 穿过; act = to drive 驱使 -> 使通过 ->] *v.* 执行; 办理
+
 1. tri- = tree; having three
+
+   1. **triangle** [tri- = three 三; angle *n.* 角 ->] *n.* 三角(形)
 
 1. ultra- = beyond; on the other side; excessively
 
+   1. **ultraviolet** [ultra- = beyond 在...以外的; violet *n.* 紫色-> 在紫色之外的 ->] *a.* 紫外的
+
 1. un- = (1) not; lack of; to undo (2) to remove
+
+   1. **unable** [un- = not 不; able *a.* 会的 ->] *a.* 不会的; 无能力的
 
 1. under- = under, beneath; lower; not enough
 
+   1. **underground** [under- = under or beneath 在...之下; ground *n.* 地面 ->] (1) *ad.* 在地下 (2) *a.* 地下的
+
 1. up- = up; upward; upper; to make ... upward
+
+   1. **uphold** [up- = upward 向上; hold *v.* 举 ->] *v.* (1) 举起; 支撑 (2) 支持; 确认
 
 1. with- = against; away; back; with
 
+   1. **withstand** [with- = against 相对; stand *v.* 站立 ->] *v.* 抵挡, 顶住; 反抗; 忍受
+
 1. acr(o)- = top 顶点; 最高点
+
+   1. **acrobat** *n.* 走钢丝者, 杂技演员 [bat = going]
 
 1. aeri-, aero- = air 空气; aircraft 飞机
 
+   1. **aeriform** *a.* 空气状的 [-form *n.* = having the form of]
+
 1. afore- = before, beforehand 以前, 先前
+
+   1. **aforementioned** *a.* 前面提到的
 
 1. agro- = field 农田; agriculture 农业
 
+   1. **agrochemical** *n.* 农业化肥
+
 1. alti-, alto- = high 高
+
+   1. **altimeter** *n.* 高度表 [-meter *n.* = a measuring device]
 
 1. amb(i)- = both 二者; around 周围
 
+   1. **ambidexter** *n.* 左右手都善用的人 [dexter = right-handed]
+
 1. amphi- = on both sides 两边; around 周围
+
+   1. **amphibian** *n.* 两栖动物或植物 [bi = living thing]
 
 1. ana- = back 回; again 再; up 向上
 
+   1. **anachronism** *n.* 弄错年代 [chron = time]
+
 1. anthrop(o)- = human being 人类
+
+   1. **anthropology** *n.* 人类学 [-logy *n.* = the science of]
 
 1. apo- = away off 远离
 
+   1. **apogee** *n.* 远地点 [ge = the earth]
+
 1. arch(i)- = chief, principal 为首的, 主要的
+
+   1. **archbishop** *n.* 大主教
 
 1. astro- = star 星; space 宇宙
 
+   1. **astrocompass** *n.* 星象罗盘
+
 1. asmo- = vapour 气
+
+   1. **asmometer** *n.* [化] 汽化计 [-meter *n.* = a measuring device]
 
 1. auto- = self 自身; automatic 自动
 
+   1. **autobiography** *n.* 自传; 自传文学 (biography *n.* 传记)
+
 1. bene- = well 好
+
+   1. **benediction** *n.* 祝福 [dict = to speak]
 
 1. biblio- = book 书籍; Bibile 《圣经》
 
+   1. **bibliography** *n.* 目录学; 文献学 [-graphy *n.* = the science of]
+
 1. bio- = life 生命, 生物
+
+   1. **biochemistry** *n.* 生物化学
 
 1. caco- = bad 恶, 丑
 
+   1. **cacodemon** *n.* 恶鬼, 恶人 [demon = spirit]
+
 1. calor(i)- = heat 热
+
+   1. **caloricity** *n.* 食物的热量; 热值 [-icity *n.*]
 
 1. carb(o)- = carbon 碳
 
+   1. **carbide** *n.* 碳化物 [-ide *n.* = ...化物]
+
 1. cardio- = the heart 心脏
+
+   1. **cardiogram** *n.* 心动图 [-gram *n.* = something written]
 
 1. cat(a)- = down 向下; against 相反; wrongly 错误; completely 完全
 
+   1. **catacomb** *n.* 地下墓穴, 陵寝 [comb = to lie]
+
 1. cent(i)- = hundred 百; a hundredth 百分之一
+
+   1. **centigrade** *n.* 百分度的 [grad = degree]
 
 1. centri-, centro- = centre 中心
 
+   1. **centrifugal** *a.* 离心的 [fug = to flee from]
+
 1. chem(o)- = chemical 化学的
+
+   1. **chemist** *n.* 化学家; 药剂师 [-ist *n.*]
 
 1. chromo-, chromato- = colour 色; chromatin 染色质
 
+   1. **chromosome** *n.* 染色体 [-some *n.* = body]
+
 1. chron(o)- = time 时间
+
+   1. **chronicle** *n.* 年代记, 编年史 [-icle *n.*]
 
 1. cis- = on this side 在这一边
 
+   1. **cisalpine** *a.* 在阿尔卑斯山这一边的 (<- Alpine)
+
 1. cosmo- = world 世界; universe 宇宙
+
+   1. **cosmopolis** *n.* 国际都市 [polis = city]
 
 1. cruci- = cross 十字形
 
+   1. **cruciferous** *a.* 饰有十字架的 [-ferous *a.* = bearing]
+
 1. cryo- = cold or low temperature 低温的
+
+   1. **cryobiology** *n.* 低温生物学
 
 1. crypto- = hidden 隐秘的
 
+   1. **cryptogram** *n.* 密码, 暗号 [-gram *n.* = sth. written]
+
 1. cyber- = computer 计算机; Internet 因特网
+
+   1. **cybercafe** *n.* 网吧
 
 1. cyclo- = circle 圆环
 
+   1. **cyclograph** *n.* 圆弧规 [-graph *n.* = sth. that writes]
+
 1. dec(a)- = ten 十
+
+   1. **decathlon** *n.* [体育] 十项运动 [athlon = contest]
 
 1. deci- = tenth 十分之一
 

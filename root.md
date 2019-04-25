@@ -2464,13 +2464,23 @@ Prefix = 前缀
 
 1. deci- = tenth 十分之一
 
+   1. **decigram** *n.* 分克
+
 1. denti-, dento- = tooth 齿
+
+   1. **dentiform** *a.* 齿状的 [-form *a.* = having the form of]
 
 1. dermat(o)- = skin 皮肤
 
+   1. **dermatitis** *n.* [医] 皮炎 [-itis *n.* = inflammation]
+
 1. deuter(o)- = second 第二, 再
 
+   1. **deuteragonist** *n.* 演二流角色的演员 [agonist = actor]
+
 1. dipl(o)- = double 双, 复
+
+   1. **diplopia** *n.* [医] 复视 [op=eye; -ia *n.* = disease]
 
 1. duo- = two 二
 

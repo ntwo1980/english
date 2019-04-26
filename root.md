@@ -2704,183 +2704,363 @@ Prefix = 前缀
 
 1. meta- = change of place or state 变化, 变位, 变形; beyond 超
 
+   1. **metabolism** *n.* 新陈代谢 [bol = to throw]
+
 1. milli- = one thousandth of 千分之一, 毫
+
+   1. **milliampere** *n.* [电] 毫安(培), (ampere *n.* 安培)
 
 1. mini- = miniature 小型的
 
+   1. **minibus** *n.* 小型公共汽车
+
 1. mon(o)- = single 单; one 一
+
+   1. **monarch** *n.* 君主, 最高统治者 [-arch *n.* = chief or ruler]
 
 1. myo- = muscle 肌肉
 
+   1. **myology** *n.* [解] 肌学 [-logy *n.* = the science of]
+
 1. myria- = ten thousand 万
+
+   1. **myriadyne** *n.* [物] 万达因 (dyne *n.* 达因)
 
 1. ne-, neg- = not 不
 
+   1. **nescient** *a.* 无知的; 没有知识的 [sci = to know]
+
 1. necr(o)- = dead body 死尸; death 死
+
+   1. **necropsy** *n.* 尸体剖检, 验尸 [opsy = a viewing]
 
 1. neo- = new 新
 
+   1. **neolithic** *a.* 新石器时代的 [lith = stone]
+
 1. neur(o)- = nerve 神经
+
+   1. **neuralgia** *n.* 神经痛 [-algia *n.* = pain]
 
 1. noct(i)-, nocto- = night 夜
 
+   1. **noctambulation** *n.* 梦行(症) [ambul = to walk]
+
 1. noso- = disease 疾病
+
+   1. **nosography** *n.* 病情学 [-graphy *n.* = to science of]
 
 1. nucleo- = kernel 核
 
+   1. **nucleometer** *n.* [原] 核子计 [-meter = a measuring device]
+
 1. nyct(o)- = night 夜
+
+   1. **nyctalopia** *n.* 夜盲症 [al = blind; ops = eye; -ia *n.* = disease]
 
 1. octa-, octo- = eight 八
 
+   1. **octagon** *n.* 八角形 [-gon *n.* = a plane figure with ... angles]
+
 1. ole(o)- = oil 油
+
+   1. **oleiferous** *a.* 产油的 [-ferous *n.* = bearing]
 
 1. olig(o)- = few 少, 缺
 
+   1. **oligarch** *n.* 寡头政治的执政者 [-arch *n.* = chief or ruler]
+
 1. omni- = all 全, 总
+
+   1. **omnificent** *a.* 有无限创造力的 [-fic = to make]
 
 1. oo- = egg 卵
 
+   1. **oogonium** *n.* [生] 卵原细胞 [gon = producing]
+
 1. ophthalm(o)- = eye 眼
+
+   1. **ophthalmology** *n.* 眼科学 [-logy *n.* = the science of]
 
 1. oro- = mountain 山
 
+   1. **orogeny** *n.* [地] 造山运动 [-geny *n.* = the act of producing]
+
 1. ortho- = straight 直的; correct 正确的
+
+   1. **orthogonal** *a.* 互相垂直的, 直角的 [-gon = angle]
 
 1. osteo- = bone 骨
 
+   1. **osteology** *n.* [解] 骨学 [-logy *n.* = the science of]
+
 1. oto- = ear 耳
+
+   1. **otology** *n.* 耳科学 [-logy *n.* = the science of]
 
 1. ovi- = egg 卵
 
+   1. **oviduct** *n.* [解] 输卵管 [duct = to lead]
+
 1. oxy- = sharp 尖锐的; [化] of oxygen 氧化的, 含氧
+
+   1. **oxygen** *n.* 氧; 氧气 [gen = sth. produced]
 
 1. pale(o)- = ancient 古
 
+   1. **paleethnology** *n.* 古人种学 [ethnology = *n.* 人种学]
+
 1. pan- = all 全, 总, 泛
+
+   1. **panacea** *n.* 万应灵药 [ac = cure]
 
 1. panto- = all 全部
 
+   1. **pantograph** *n.* 缩放仪 [-graph *n.* = a device for writing]
+
 1. patho- = suffering 痛苦; disease 疾病
+
+   1. **pathogen** *n.* [医] 病原体 [-gen *n.* = sth. that produces]
 
 1. patri- = father 父亲
 
+   1. **patriarch** *n.* 家长; 族长 [-arch *n.* = chief or ruler]
+
 1. ped(i)- = foot 脚
+
+   1. **pedicure** *n.* 足医; 脚病治疗 [cur = care]
 
 1. ped(o)- = child 儿童
 
+   1. **pedagogue** *n.* 教师, 教员 [agog = leader]
+
 1. pen(e)- = almost 几乎, 近似
+
+   1. **peninsula** *n.* 半岛 [insula = island]
 
 1. pent(a)- = five 五
 
+   1. **pentagon** *n.* 五角形 [-gon *n.* = a plane figure with ... angles]
+
 1. petr(o)- = rock 岩石; 石油
+
+   1. **petroleum** *n.* 石油 [ole = oil]
 
 1. pharmac(o)- = drag 药
 
+   1. **pharmacodynamics** *n.* 药效学 [dynam = work]
+
 1. phil(o)- = loving 爱好
+
+   1. **philanthropist** *n.* 慈善学 [anthrop = man]
 
 1. phon(o)- = sound 声音
 
+   1. **phonautograph** *n.* [物] 声波振动记录 [auto- = self; -graph = sth. recorded]
+
 1. photo(o)- = light 光; photograph(y) 照相(术)
+
+   1. **photograph** *n.* 照片 [-graph *n.* = sth. recorded]
 
 1. physio- = physical 自然的; 物理的; 肉体的
 
+   1. **physiography** *n.* 自然地理学 [-graphy *n.* = the science of]
+
 1. phyto- = plant 植物
+
+   1. **phytocide** *n.* [农] 除莠剂 [-cide *n.* = killer]
 
 1. piezo- = pressure 压力
 
+   1. **piezometer** *n.* [物] 压力计 [-meter *n.* = a measuring device]
+
 1. plan(i)- = flat 平的
+
+   1. **planform** *n.* (飞机的) 平面形态 [-form *n.* = the form of]
 
 1. pneumat(o)- = breath 呼吸; wind 气
 
+   1. **pneumatology** *n.* [医] 气体治疗学 [-logy *n.* = the science of]
+
 1. pneum(o)- = lung 肺
+
+   1. **pneumectomy** *n.* [医] 肺部分切除 [-ectomy *n.* = cutting off]
 
 1. poly- = much, many 多
 
+   1. **polyarchy** *n.* 多头政治 [-archy *n.* = rule]
+
 1. preter- = beyond 超过
+
+   1. **preterit** *n.* [语] 过去时态; 过去时动词 [it = to go]
 
 1. prot(o)- = first 第一; primary 原始的
 
+   1. **protagonist** *n.* 主角, 主人公 [agonist = actor]
+
 1. pseud(o)- = false 伪的, 假的
+
+   1. **pseudonym** *n.* 假名, 笔名 [onym = name]
 
 1. psych(o)- = mind 精神
 
+   1. **psychiatry** *n.* 精神病学 [iatry = cure]
+
 1. pur- = forth 向前
+
+   1. **purchase** *n.* 购买 [chase = to chase, pursue]
 
 1. pyr(o)- = fire 火; heat 热
 
+   1. **pyrheliometer** *n.* [气] 直接日射强度计 [helio = sun; -meter *n.* a measuring device]
+
 1. quadr(i)-, quadru- = four 四
+
+   1. **quadrennial** *a.* 持续四年的; 每四年一次的 [enn = year]
 
 1. quasi- = as if 类似; part 部分
 
+   1. **quasi-historical** *a.* 带有历史性质的
+
 1. quinqu(e)- = five 五
+
+   1. **quinquangular** *a.* [古] 五角的, 五边形的
 
 1. radio- = ray 射线; radial 放射的; 无线电
 
+   1. **radiograph** *n.* 射线照片(尤指X射线照片) [-graph *n.* = sth. recorded]
+
 1. retro- = backward 向后; behind 在后
+
+   1. **retrocede** *v.* 后退, 退却 [ced = to go]
 
 1. rhino- = nose 鼻
 
+   1. **rhinoceros** *n.* 犀牛 [cer = horn]
+
 1. rota-, roto- = wheel 转轮
+
+   1. **rotameter** *n.* 转子式测速仪 [-meter *n.* = a measuring device]
 
 1. sapr(o)- = rotton 腐败
 
+   1. **sapremia** *n.* [医] 腐血症 [-emia *n.* = the state of blood]
+
 1. seismo- = earthquake 地震
+
+   1. **seismograph** *n.* 地震仪 [-graph *n.* = sth. that records]
 
 1. seleno- = the moon 月
 
+   1. **selenocentric** *n.* [天] 以月为中心的 [centr = center]
+
 1. sept(i)-, septem- = seven 七
+
+   1. **septangle** *n.* 七角形, 七边形
 
 1. sex(i)- = six 六
 
+   1. **sexivalent** *a.* [化] 六价的 [-valent *a.* = having ... value]
+
 1. socio- = socia 社会的
+
+   1. **sociology** *n.* 社会学 [-logy *n.* = the science of]
 
 1. somn(i)- = sleep 睡
 
+   1. **somnambulism** *n.* 梦行症 [ambul = the walk]
+
 1. steno-- = narrow 狭窄; small 小
+
+   1. **stenochromy** *n.* [印] 彩色一次印刷法 [chrom = colour]
 
 1. step- = not by blood 非血亲的, 继, 异
 
+   1. **stepchild** *n.* 与前夫(或前妻)所生的孩子
+
 1. stero- = three-dimensional 立体的
+
+   1. **sterograph** *n.* 立体照片 [-graph *n.* = sth. recorded]
 
 1. subter- = beneath 在下, less than 少于
 
+   1. **subterfuge** *n.* 遁词, 托辞 [fug = to flee]
+
 1. supra- = over 在上; beyond 超
+
+   1. **suprarenal** *a.* [解] 肾上腺的 [ren = kidneys]
 
 1. tauto- = the same 相同
 
+   1. **tautochronism** *n.* [物] 等时性 [chron = time]
+
 1. techno- = art and skill 技术
+
+   1. **technocracy** *n.* 专家政治论; 技术统治论 [-cracy *n.* = rule]
 
 1. tetr(a)- = four 四
 
+   1. **tetrarch** *n.* 四头政治(集团) [-arch *n.* = ruler]
+
 1. the(o)- = god 神
+
+   1. **thearchy** *n.* 神权统治 [-archy *n.* = rule]
 
 1. therm(o)- = heat 热
 
+   1. **thermalloy** *n.* 热合金 [alloy *n.* 合金]
+
 1. top(o)- = place 地方
+
+   1. **topectomy** *n.* [医] 脑皮质的部分切除 [-ec = out; -ectomy *n.* = cutting off]
 
 1. twi- = two 二
 
+   1. **twiblade** *n.* 双叶兰 (blade *n.* 叶)
+
 1. uni- = one 一; single 单
+
+   1. **unicorn** *n.* (传说中的) 独角兽 [corn = horn]
 
 1. urbano-, urbi- = city 城市
 
+   1. **urbanology** *n.* 城市学, 都市学 [-logy *n.* = the science of]
+
 1. vari(o)- = various 各种的, 不同的, 变异的
+
+   1. **variegate** *v.* 使多样化; 使成杂色 [eg (<- ag) = to make]
 
 1. vas(o)- = vessel 管道; blood vesel 血管
 
+   1. **vasectomy** *n.* [医] 输精管切除术 [-ectomy *n.* = cutting off]
+
 1. vermi- = worm 蠕虫
+
+   1. **vermicidal** *a.* 杀蠕虫的 [cid = to kill]
 
 1. vice- = deputy 副, 代理
 
+   1. **vicegerent** *n.* 摄政者; 代理官 [ger = to manage]
+
 1. xanth(o)- = yellow 黄
+
+   1. **xanthoma** *n.* [医] 黄瘤; 黄疣 [-oma *n.* = tumor]
 
 1. xeno- = strange or foreigh 异, 陌生, 外国
 
+   1. **xenogamy** *n.* [植] 异株异花受精 [动] 杂交配合 [-gamy *n.* = marriage]
+
 1. xero- = dry 干燥
+
+   1. **xeroderma** *n.* [医] 干皮病, 皮肤干燥病 [derm = skin]
 
 1. xylo- = wood 木
 
+   1. **xylocarp** *n.* [植] 硬木质果 [carp = fruit]
+
 1. zo(o)- = animal 动物
+
+   1. **zoanthropy** *n.* [医] 变兽幻想 [anthrop = human being]
 
 suffix = 后缀
 =============

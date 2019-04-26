@@ -2484,113 +2484,223 @@ Prefix = 前缀
 
 1. duo- = two 二
 
+   1. **duodecimal** *a.* 十二的 [decim (<- decem) = ten]
+
 1. dys- = bad 坏的; abnormal 反常的
+
+   1. **dysentery** *n.* 痢疾 [enter = intestines 肠]
 
 1. ec- = from, out of 出, 出自
 
+   1. **eccentric** *a.* [机] 偏心的; 偏执的, 古怪的 [centr = centre]
+
 1. eco- = house 家; living condition 生态
+
+   1. **economy** *n.* 节约; 经济; 经济制度 [-nomy *n.* = the study of]
 
 1. ecto- = outside of 外面, 外部
 
+   1. **ectoderm** *n.* [生] 外胚层; 外层 [derm = skin]
+
 1. electro- = electricity 电; electric 电的
+
+   1. **electroanalysis** *n.* 电解分析
 
 1. endo- = inner 内; inside 内部
 
+   1. **endocarditis** *n.* 心内膜炎 [card = the heart; -itis *n.*]
+
 1. epi- = upon 在...之上; among 在...之中; in addition 除...之外
+
+   1. **epicardium** *n.* [解] 心外膜 [cardi = the heart]
 
 1. eu- = good 好; true 真
 
+   1. **eugenic** *a.* 优生学的 [gen = generation, race]
+
 1. ex(o)- = outside 外面
+
+   1. **exobiology** *n.* (研究地球外有否生物存在的)外空生物学
 
 1. ferro- = iron 铁
 
+   1. **ferroalloy** *n.* 铁合金 (alloy *n.* 合金)
+
 1. flori- = flower 花
+
+   1. **floriculture** *n.* 花卉栽培, 花艺 [-culture *n.* = the raising of]
 
 1. fructi- = fruit 果实
 
+   1. **fructiferous** *n.* 结果实的 [-ferous *a.* = bearing]
+
 1. fungi- = fungus 真菌
+
+   1. **fungicide** *n.* 杀真菌剂 [-cide *n.* = killer]
 
 1. gastro- = stomach 胃
 
+   1. **gastroenteritis** *n.* 胃肠炎 [enter = intestines; -itis *n.* = inflammation]
+
 1. geo- = the earth 地球
+
+   1. **geocentric** *a.* 以地球为中心的
 
 1. gyn-, gynaeco- = woman 女性; female 雌性
 
+   1. **gynandrous** *a.* 雌雄合体的 [andr = male]
+
 1. gyro- = circle 环; spiral 螺旋, 旋转
+
+   1. **gyroscope** *n.* 陀螺仪, 回转仪 [-scope *n.* = an instrument]
 
 1. hect(o)- = hundred 百; many 多
 
+   1. **hectare** *n.* 公顷(=100 公亩) (are *n.* 公亩)
+
 1. heli(o)- = the sun 太阳
+
+   1. **helianthus** *n.* [植] 向日葵属 [anth = flower]
 
 1. hem(a)-, hemo-, hemat(o)- = blood 血
 
+   1. **hemagglutination** *n.* [医] 血球凝集 (agglutination *n.* 凝聚)
+
 1. hemi- = half 半
+
+   1. **hemicycle** *n.* 半圆形
 
 1. hepat(o)- = liver 肝
 
+   1. **hepatitis** *n.* 肝炎 [-itis *n.* = inflammation]
+
 1. hept(a)- = seven 七
+
+   1. **heptarchy** *n.* 七头政治 [-archy *n.* = rule]
 
 1. hetero- = different 异
 
+   1. **heterodox** *a.* 异端的; 异教的 [dox = seem]
+
 1. hex(a)- = six 六
+
+   1. **hexangular** *a.* 有六角的
 
 1. hier(o)- = sacred 神圣的
 
+   1. **hierarch** *n.* 祭祀长; 大主教 [arch = chief]
+
 1. holo- = whole 完全
+
+   1. **holocaust** *n.* 燔祭(烧全兽祭神); 大屠杀 [caust = to burn]
 
 1. homo- = the same 同
 
+   1. **homogeneous** *a.* 同类的; 同族的 [gen = kind, race]
+
 1. hydr(o)- = water 水; containing hydrogen 氢(化)的
+
+   1. **hydrargyrum** *n.* [化] 汞, 水银 [argyr = silver]
 
 1. hyp(o)- = under 在...下; to a less degree 低, 亚
 
+   1. **hypaethral** *a.* 无屋顶的, 露天的 [aethr = air]
+
 1. hyper- = beyond 超; more than 过于
+
+   1. **hyperbolism** *n.* 夸张法的运用 [bol = to throw]
 
 1. ideo- = idea 思想, 概念
 
+   1. **ideogram** *n.* 表意文字或符号 [-gram *n.* = sth. written]
+
 1. infra- = below, under 在...下; beyond 在...外
+
+   1. **infrahuman** *a.* 低于人类的; 类人猿的
 
 1. intra- = within 在内; inside 在内部
 
+   1. **intramural** *a.* (国家、团体等)内部的 [mur = wall]
+
 1. intro- = within 在内; inward 进内
+
+   1. **introduce** *v.* 引进; 介绍 [duc = to lead]
 
 1. iso- = equal 等; alike 同
 
+   1. **isobar** *n.* [气] 等压线 [bar = weight]
+
 1. karyo- = cell nucleus 核
+
+   1. **karyogamy** *n.* [生] 核配(合) [-gamy *n.* = joint]
 
 1. kines(io)-, kineto- = motion 运动
 
+   1. **kinescope** *n.* 电视显像管 [-scope *n.* = a device for viewing]
+
 1. leuco- = white 白的
+
+   1. **leucocyte** *n.* 白细胞; 白血球 [-cyte *n.* = cell]
 
 1. ligni- = wood 木
 
+   1. **lignicolous** *a.* 长在树上的 [col = to inhabit]
+
 1. lith(o)- = stone 石
+
+   1. **litharge** *n.* [化] 铅黄, 一氧化铅 [arg = silver]
 
 1. logo- = word 词, 话
 
+   1. **logogram** *n.* 代表单词的字母或符号 [-gram *n.* = sth. written]
+
 1. macro- = large 大的; long 长的; abnormally large 宏大
+
+   1. **macroclimate** *n.* [气] 大气候
 
 1. magneto- = magnet 磁
 
+   1. **magnetoelectric** *a.* 磁电的
+
 1. magni- = large 大的
+
+   1. **magnificent** *a.* 宏观的, 壮丽的 [fic = to make]
 
 1. mani- = hand 手
 
+   1. **manicure** *n.* 修指甲 [cur = care]
+
 1. matri- = mother 母亲
+
+   1. **matriarch** *n.* 女家长; 女族长 [-arch *n.* = chief]
 
 1. maxi- = very long 特别长的; very large 特别大的
 
+   1. **maxicoat** *n.* 长大衣
+
 1. medi- = middle 中间的
+
+   1. **medieval** *a.* 中世纪的 [ev = age]
 
 1. medico- = medical 医学的, 医疗的
 
+   1. **medico-athletics** *n.* 医疗体育
+
 1. mega- = large 大的; one million 百万, 兆
+
+   1. **megalith** *n.* 巨石 [-lith *n.* = stone]
 
 1. megalo- = great 特大的
 
+   1. **megaloblast** *n.* [医] 巨胚红血球 [-blast *n.* = cell]
+
 1. melan(o)- = black 黑的
 
+   1. **melancholia** *n.* [医] 忧郁症 [chol bile *n.* 胆汁; 坏脾气]
+
 1. meso- = middle 中间的; intermediate 中介
+
+   1. **mesocephalic** *a.* [解] 中头型的 [cephal = head]
 
 1. meta- = change of place or state 变化, 变位, 变形; beyond 超
 

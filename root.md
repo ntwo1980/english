@@ -3067,59 +3067,115 @@ suffix = 后缀
 
 1. -able (-ible) *a.* = that can be ~ed; able to be ~ed
 
+   1. **adjustable** [adjust *vt.* 调节; -able ->] *a.* 可调节的
+
 1. -age *n.* = (1) the act or result of ~ing (2) a group of or a place for ~s; the condition of ~
+
+   1. **breakage** [break *v.* 打破; -age ->] *n.* (1) 破损, 损坏 (2) 破损量
 
 1. -al (-ial, -ical, -ual) = (1) *a.* of ~; like ~; having the nature of ~ (2) *n.* the act of ~ing
 
+   1. **national** [nation *n.* 民族, 国家; -al ->] *a.* 民族的, 国家的; 全国性
+
 1. -ance (-ancy) *n.* = the act or result of ~ing; the state or quality of being ~ed; a thing that ~s; what is ~ed
+
+   1. **appearance** [appear *v.* 出现; -ance ->] *n.* 出现; 露面
 
 1. -ant = (1) *a.* that ~s; ~ing (2) *n.* a person or thing that ~s
 
+   1. **accordant** [accord *v.* 一致, 调和; -ant ->] *a.* 一致的; 调和的
+
 1. -ar (-ular, -icular) = (1) *a.* of ~; like ~; having the nature of ~ (2) *n.* one that is connected with ~
+
+   1. **lunar** [lun = the moon 月亮; -ar ->] *a.* (1) 月球的 (2) 似月的
 
 1. -ary = (1) *n.* a place for ~; a collection of ~s; a person or thing connected with ~ (2) *a.* of ~; being ~; characterized by ~
 
+   1. **depositary** [deposit *n.* 存放, 寄存物; -ary -> 存放之地 ->] *n.* 保藏处; 仓库
+
 1. -ate = (1) *a.* of ~; having ~; like ~ (2) *v.* to become ~ or cause to be ~; to produce ~; to supply or treat with ~; to combine with ~ (3) *n.* salt made from ~, etc.
+
+   1. **collegiate** [collegi = college 大学; -ate -> 与大学有关的 ->] *a.* 大学的, 学院的 (2) 大学生的
 
 1. -dom *n.* = (1) the rank or realm of ~; all who are ~s; (2) the condition or fact of being ~
 
+   1. **earldom** [earl *n.* 伯爵; -dom ->] *n.* 伯爵爵位; 伯爵领地
+
 1. -ed *a.* = having ~; having the characteristics of ~
 
-1. -ee *n.* = having ~; having the characteristics of ~
+   1. **coloured** [colour *n.* 颜色, 彩色; -ed ->] *a.* (1) 彩色的; 不是黑白的
+
+1. -ee *n.* = a pserson who is ~ed; a person to whom sth. is ~ed; a person who ~s
+
+   1. **employee** [employ *v.* 雇员; -ee -> 受雇用者 ->] *n.* 雇员, 雇工
 
 1. -en = (1) v. [1] to cause to be ~; [2] to cause to have ~ (2) *a.* made of ~; having the look of ~
 
+   1. **sharpen** [sharp *a.* 尖的, 锋利的; -en ->] *v.* 削尖, 磨快
+
 1. -ence (-ency) *n.* = the act or fact of ~ing; the quality or condition of ~ing
+
+   1. **dependence** [depend *v.* 依靠; -ence ->] *n.* 依靠; 依赖
 
 1. -ent = (1) a. that ~s; ~ing (2) *n.* one that ~s
 
+   1. **absorbent** [absorb *v.* 吸收; -ent -> 吸收的 ->] *a.* 能吸收的
+
 1. -er *n.* = (1) a person or thing that ~s (2) a person living in ~; a person who makes or works with ~; a person who has ~
+
+   1. **admirer** [admir (<- admire) *v.* 钦佩, 赞美; -er ->] *n.* 钦佩者, 赞赏者
 
 1. -ery *n.* = (1) a place for ~ing (2) a place for ~s; the art or occupation of a ~; the condition, quality or action of a ~; a group of ~s
 
+   1. **bakery** [bak (<- bake) *v.* 烤、烘(面包等); -ery -> 烤面包的场所 ->] *n.* 面包烘房; 面包店
+
 1. -ful = (1) *a.* a full of ~; showing ~; having the qualities of ~; that can be of ~ (2) *n.* as much as a ~ can fill
+
+   1. **cheerful** [cheer *n.* 高兴; -ful ->] *n.* 快乐的; 高兴的; 振奋的
 
 1. -fy (-ify, -efy) *v.* = to make ~, to cause to be ~; to become ~
 
+   1. **beautify** [beauti (<- beauty) *n.* 美丽; -fy -> 使美丽 ->] *vt.* 美化; 装饰
+
 1. -hood *n.* = the state or quality of ~; the character of ~; a group or body or ~s; a concrete instance of ~
+
+   1. **boyhood** [boy *n.* 男孩; -hood -> ] *n.* (1) 男孩时代, 少年时代 (2) 男孩们, 少年们
 
 1. -ic = (1) a. of ~; having the nature of ~; being ~; made up of ~; made or caused by ~; like ~ (2) *n.* an art or system of thought; a person connected with ~
 
+   1. **atmospheric** [atmospher (<- atmosphere) *n.* 大气; -ic -> ] *a.* 大气的
+
 1. -ion *n.* = the act or process of ~ing; the result of ~ing; the condition of being ~ed; a thing or process that ~s
+
+   1. **attraction** [attract *v.* 吸引; -ion -> ] *n.* 吸引; 吸引力
 
 1. -ish *a.* = (1) like ~; of ~; tending to ~; about or slightly past ~ (2) somewhat ~
 
+   1. **childish** [child *n.* 小孩; -ish -> ] *n.* 孩子气的; 幼稚的; 傻气的
+
 1. -ism *n.* = (1) the doctrine, theory or system of ~; a disease caused by ~ (2) the quality or condition of being ~; instance of being ~
+
+   1. **Darwinism** [Darwin *n.* 达尔文; -ism -> ] *n.* 达尔文主义; 进化论
 
 1. -ite *n.* = (1) an inhabitant of ~; a descendant of ~; a supported or follower of ~; a person associated with ~ (2) a mineral species; a fossil; an explosive; a chemical product
 
+   1. **laborite** [labor *n.* 劳工大众; -ite -> 与劳工大众有联系的人 ->] *n.* 劳工派成员
+
 1. -ity (-ty, -ety) *n.* = the condition, quality or fact of being ~
+
+   1. **density** [dens (<- dense) *a.* 稠密的; -ity ->] *n.* 稠密; 密集
 
 1. -ive *a.* = ~ing; having the quality of ~ing; tending to ~
 
+   1. **attractive** [attract *v.* 吸引; -ive ->] *a.* 吸引的; 有吸引力的
+
 1. -ize (-ise) *v.* = to make ~; to become ~; to engage in or use ~; to treat in the way of ~; to act like ~
 
+   1. **criticize** [critic *n.* 批评家, 爱非议的人; -ize -> 像批评家或爱非议者那样办事 ->] *v.* 批评; 评论; 非难
+
 1. -less = (1) without ~; lacking ~; free from ~ (2) that never ~s; that cannot be ~ed
+
+   1. **homeless** [home 家; -less ->] *a.* 无家可归的
 
 1. -logy *n.* = the doctrine, study or science of ~; the speech or discussion of ~
 

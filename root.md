@@ -3627,58 +3627,116 @@ suffix = 后缀
 
 1. -phil, -phile *n.* = lover or loving of 爱好...(者)
 
+   1. **bibliophil** *n.* 书籍爱好者; 藏书家 [biblio- = book]
+
 1. -phobia *n.* = fear or dread of 对...恐惧或憎恶
+
+   1. **hydrophobia** *n.* 恐水病; 狂犬病 [hydro- = water]
 
 1. -phone *n.* = an instrument for better sound 助声器械
 
+   1. **auriphone** *n.* 助听器 [auri- = ear]
+
 1. -phore *n.* = bearer 带...者; 产生...的装置
+
+   1. **anthophore** *n.* 花柄 [anth = flower]
 
 1. -phyll *n.* = leaf 叶
 
+   1. **chlorophyll** *n.* 叶绿素 [chlor = green]
+
 1. -phyte *n.* = plant 植物
+
+   1. **epiphyte** *n.* 附生植物 [epi- = in addition to]
 
 1. -plasm *n.* = sth. formed 形成物; 原生质
 
+   1. **bioplasm** *n.* 原生质 [bio- = life]
+
 1. -ple *a. & n.* 表示"...倍(的)"
+
+   1. **centuple** *a. & n.* 百倍(的) [cent = hundred]
 
 1. -pod *a. & n.* = ...footed animal ...足类动物(的)
 
+   1. **anthropod** *n. & a.* 节肢动物(的) [anthr = joint]
+
 1. -proof *a.* = against 防...的
+
+   1. **fireproof** *a.* 防火的, 耐火的
 
 1. -rel *n.* 表示"小的或低劣的...(人或动物)"
 
+   1. **mongrel** *n.* 杂种狗
+
 1. -scape *n.* = a view or expanse of ...的景色或景象
+
+   1. **cityscape** *n.* 城市景象
 
 1. -scope *n.* = an instrument for viewing 观察...的仪器; ...镜
 
+   1. **gastroscope** *n.* 胃镜 [gastro- = stomach]
+
 1. -sphere *n.* = a globular mass or shell 球状的...圈或...层
+
+   1. **atmosphere** *n.* 大气层 [atmo- = vapour]
 
 1. -stat *n.* = an instrument for making ... stable ...稳定器
 
+   1. **gyrostat** *n.* 回转轮, 陀螺仪 [gyro- = spiral]
+
 1. -ster *n.* 表示"从事...的人; 有...习惯或特点的人"
+
+   1. **gamester** *n.* 赌棍
 
 1. -therapy *n.* = the treatment of ... 疗法
 
+   1. **electrotherapy** *n.* 电疗法 [electro- = electricity]
+
 1. -tight *a.* = not allowing the passage of 不透...的
+
+   1. **airtight** *a.* 不透气的, 密封的
 
 1. -tomy *n.* = cutting ...切开术
 
+   1. **appendectomy** *n.* 阑尾切除术 [append = appendix; ec- = out]
+
 1. -trix *n.* 表示"女性...者" [与-(t) or 相对]
+
+   1. **administratrix** *n.* 女管理员 (<- administrator *n.*)
 
 1. -trophy *n.* = nourishment 营养
 
+   1. **dystrophy** *n.* 营养不良 [dys- = bad]
+
 1. -tude *n.* 表示"...的性质、状态等"
+
+   1. **altitude** *n.* 高度 [alt = high]
 
 1. -type *n.* = model ...型
 
+   1. **ferrotype** *n.* 铁板照相(术) [ferro- = iron]
+
 1. -ule *n.* 表示"小的...(物)"
+
+   1. **globule** *n.* 小球; 液滴 (<- globe *n.*)
 
 1. -um *n.* 表示"...场所; ...元素"
 
+   1. **auditorium** *n.* 礼堂 (<- auditory *a.*)
+
 1. -urgy *n.* = the technology of ...工艺
+
+   1. **metallurgy** *n.* 冶金学 (<- metal *a.*)
 
 1. -valent *a.* = having ... value 有...价的
 
+   1. **bivalent** *a.* [化] 二阶的 [bi -= two]
+
 1. -vorous *a.* = eating or devouring 吃...的; 以...为食的
 
+   1. **carnivorous** *a.* 食肉的 [carn = meat]
+
 1. -yer *n.* 表示"与...有关的人"
+
+   1. **bowyer** *n.* 制造弓的人

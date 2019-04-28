@@ -3179,45 +3179,87 @@ suffix = 后缀
 
 1. -logy *n.* = the doctrine, study or science of ~; the speech or discussion of ~
 
+   1. **anthropology** [anthropo- = man 人类; -logy ->] *n.* 人类学
+
 1. -ly *a.* = like a ~; characteristic of ~; suited to ~; occuring once a ~; of or being a ~
+
+   1. **brotherly** [brother *n.* 兄弟; -ly -> 有兄弟特点的 ->] *a.* 兄弟般的; 友爱的
 
 1. -ment *n.* = the act or state or fact of ~ing; the condition of being ~ed; the product or result of ~ing; the cause or means of ~ing
 
+   1. **enjoyment** [enjoy *v.* 享受; -ment ->] *n.* 享受; 欢乐
+
 1. -ness *n.* = the quality or condition of being ~; ~ action or behaviour; an instance of being ~
+
+   1. **blackness** [black *a.* 黑的; -ness ->] *n.* 黑; 黑色; 黑暗
 
 1. -or *n.* = a person or thing that ~s
 
+   1. **actor** [actor *v.* 表演; -or ->] *n.* 演员
+
 1. -ory = (1) *n.* a place of ~ing; a thing used for ~ing (2) *a.* ~ing; characterized by ~ion; tending or serving to ~
+
+   1. **depository** [deposit *v.* 存放; -ory -> 藏放...的场所 ->] *n.* 藏放处, 仓库
 
 1. -our (-or) *n.* = the act, state, quality or characteristics of ~ing
 
+   1. **ardo(u)r** [ard = to burn 燃烧; -o(u)r -> 有燃烧的性质 ->] *n.* 热情; 热烈
+
 1. -ous *a.* = having ~, full of ~; characterized by ~, having the nature of ~; having to do with ~; of ~; like ~; practising ~
+
+   1. **advantageous** [advantage *n.* 优点; -ous ->] *a.* 有利的; 有助的
 
 1. -ry *n.* = (1) the occupation of a ~; the act of a ~; the quality or condition of a ~; a collection of ~s (2) a place for ~
 
+   1. **dentistry** [dentist *n.* 牙医; -ry ->] *n.* 牙科; 牙科学
+
 1. -ship *n.* = the position or occupation of ~; the quality or condition of being ~; the act or skill of ~; the relation between ~s; the number of ~s
+
+   1. **authorship** [dentist *n.* 牙医; -ship ->] *n.* 著述; 写作
 
 1. -some *a.* = (1) causing ~; (2) tending to ~; (3) ~ to a considerable degree
 
+   1. **fearsome** [fear *n.* 害怕; -some ->] *a.* 可怕的; 吓人的
+
 1. -th *n.* = (1) number ~ in order; (2) the action or process of ~ ing; (3) the quality or condition of being ~
+
+   1. **growth** [grow *v.* 生长; -th ->] *n.* 生长; 发育
 
 1. -ure *n.* = the act or fact of ~ing; the condition of being ~ed; the result of being ~ed; sth. that ~s or is ~ed
 
+   1. **failure** [fail *v.* 失败; -ure ->] *n.* 失败; 不履行, 无作为
+
 1. -ward(s) *a. & ad.* = tending to ~; in the direction of ~; toward ~
+
+   1. **afterwards** [after *prep. & a.* 在...以后; -wards-> 倾向于在...时间之后 ->] *ad.* 后来, 以后
 
 1. -wise *ad.* = in a ~ manner; like a ~; in the direction of ~; in the ~ respect
 
+   1. **likewise** [like *a.* 相同的; -wise-> 以相同的方式 ->] *ad.* 同样地, 照样地
+
 1. -y (-ey) *a.* = (1) full of ~; containing ~; characterized by ~; resembling ~; (2) somewhat ~ (3) inclined to ~
+
+   1. **bumpy** [bump *n.* 颠簸; -y->] *a.* 崎岖不平的; 颠簸的
 
 1. -y *n.* = (1) the act of ~ing; (2) the condition or quality of being ~; a group of ~s; (3) ~ condition or quality
 
+   1. **delivery** [deliver *v.* 交付; -y->] *n.* 交付; 分发
+
 1. -ac *a.* 表示"属于...的; 具有...性质的"
+
+   1. **cardiac** *a.* 心脏的 [cardi = heart]
 
 1. -ace *n.* 表示"与...相关的事物"
 
+   1. **menace** *n.* 威胁 [men = threat]
+
 1. -acle *n.* 表示"与...相关的事物"
 
+   1. **manacle** *n.* 手铐 [man = hand]
+
 1. -ad *n.* 表示"集合"的概念
+
+   1. **myriad** *n.* 一万 [myri = then thousand]
 
 1. -ad *ad.* 表示"朝...方向"
 
@@ -3225,43 +3267,83 @@ suffix = 后缀
 
 1. -ade *n.* 表示"与...相关的动作或结果"
 
+   1. **blockade** *n.* 封锁 (block *v.* 封锁)
+
 1. -ain *n.* 表示"与...相关的人或事物"
+
+   1. **captain** *n.* 船长 [capt = head]
 
 1. -aire *n.* 表示"与...相关的人"
 
+   1. **concessionaire** *n.* 特许权所有人
+
 1. -algia = pain 痛
+
+   1. **neuralgia** *n.* 神经痛 [neur = nerve]
 
 1. -an, -ian, -n *n.* 表示"...地方的人; 与...相关的人"
 
+   1. **European** *n.* 欧洲人
+
 1. -an  *a.* 表示"...的"、"有...性质的"
+
+   1. **amphibian** *a.* 水陆两栖 [amphi- = both; bi = life]
 
 1. -ane *n.* "有...性质的"
 
+   1. **hamane** *a.* 人道的, 仁慈的 [hum = man]
+
 1. -arch *n.* = chief or ruler 首领; 统治者
+
+   1. **matriarch** *n.* 女家长; 女族长 [matri- = mother]
 
 1. -archy *n.* = rule or government 统治; 治理
 
+   1. **anarchy** *n.* 无政府状态 [an- = without]
+
 1. -ard *n.* 表示"...的人(带有贬义)"
+
+   1. **dullard** *n.* 愚人, 蠢物
 
 1. -ast *n.* 表示"与...相关的人"
 
+   1. **dynast** *n.* (世袭的)君主 [dyn = power]
+
 1. -aster *n.* 表示"低劣的...(人)"
+
+   1. **criticaster** *n.* 低劣的批评家
 
 1. -be *n.* = life 生物
 
+   1. **aerobe** *n.* 需氧生物 [aero- = air]
+
 1. -blast *n.* = cell 细胞
+
+   1. **chromatoblast** *n.* 色素体 [chromato- = colour]
 
 1. -cide *n.* = killer 杀...剂; 杀...者
 
+   1. **bactericide** *n.* 杀菌剂 [bacteri- = germ]
+
 1. -cle, -cute *n.* 表示"小的...(物或人)"
+
+   1. **corpuscle** *n.* 微粒, 粒子; 血球 [corpus- = body]
 
 1. -cracy *n.* = power or rule 权力; 统治
 
+   1. **democracy** *n.* 民主 [dem = people]
+
 1. -crat *n.* = person who believes or supports 信仰者; 支持者
+
+   1. **democrat** *n.* 民主政体论者 [dem = people]
 
 1. -cyte *n.* = cell 细胞
 
+   1. **erythrocyte** *n.* 红血球 [erythr = red]
+
 1. -eer *n.* 表示"从事...的人; 与...有关的人"
+
+   1. **auctioneer** *n.* 拍卖商 (auction *n.* 拍卖)
 
 1. -el, -ella *n.* 表示"小的...(物)"
 

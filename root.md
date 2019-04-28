@@ -3347,143 +3347,283 @@ suffix = 后缀
 
 1. -el, -ella *n.* 表示"小的...(物)"
 
+   1. **chapel** *n.* 小教堂 (chap = shrine)
+
 1. -ern *a.* 表示"...方向的"
+
+   1. **eastern** *a.* 东方的
 
 1. -esce *v.* 表示"开始...; 产生..."
 
+   1. **effloresce** *v.* 开花 [flor = flower]
+
 1. -ese *n.* 表示"...地方的人或语言; ...派的文体或用语"
+
+   1. **Cantonese** *n.* 广州人; 广州话
 
 1. -esque *a.* 表示"如...的;...式的;...派的"
 
+   1. **grotesque** *a.* 奇形怪状的, 奇异的 (<- grotto *n.* 洞穴)
+
 1. -ess *n.* 表示"阴性的...(人或动物)"
+
+   1. **citizeness** *n.* 女公民
 
 1. -et, -ette *n.* 表示"小的...(物)"
 
+   1. **floweret** *n.* 小花
+
 1. -eteria, -teria *n.* an inexpensive shop 小店
+
+   1. **luncheteria** *n.* 供应便餐的小饭店
 
 1. -fashioned *a.* = in ... fashion or style ...式的
 
+   1. **Chinese-fashioned** *a.* 中国式的
+
 1. -ferous *a.* = bearing or producing 产生...的
+
+   1. **fructiferious** *a.* 结果实的 [fructi- = fruit]
 
 1. -fold *a.* = ...倍; 部分的
 
+   1. **twofold** *a.* 两倍的
+
 1. -form = having the from of ... 形的
+
+   1. **cruciform** *a.* 十字形的 [cruci- = cross]
 
 1. -free *a.* = free from 无...的, 免...的
 
+   1. **disease-free** *a.* 无病的
+
 1. -fuge *n.* = sth. that causes... to flee 使...逃逸之物
+
+   1. **febrifuge** *n.* 退热剂 [febri = fever]
 
 1. -gamy *n.* = marriage 婚姻
 
+   1. **digamy** *n.* 再婚 [di- = twice]
+
 1. -gen *n.* = sth. produced or producing 生成物; 生...之物
+
+   1. **acrogen** *n.* 顶生植物 [acro- = tip]
 
 1. -gon *n.* = a plane figure having... angles ...角形
 
+   1. **pentagon** *n.* 五角形 [penta- = five]
+
 1. -gram *n.* = sth. written or recorded 书写物; 记录物
+
+   1. **cardiogram** *n.* 心动图; 心动描写曲线 [cardio- = heart]
 
 1. -graph *n.* = sth. that writes or records 书写器; 记录器
 
+   1. **chronograph** *n.* 计时器 [chrono- = time]
+
 1. -hedron *n.* = a solid figure having... sides ...面体
+
+   1. **octahedron** *n.* 八面体 [octa- = eight]
 
 1. -holic *n.* = one addicted to 沉湎于...的人
 
+   1. **chocoholic** *n.* 嗜食巧克力的人 (<- chocolate *n.*)
+
 1. -iasis *n.* 表示"...病"
+
+   1. **elephantiasis** *n.* 象皮病
 
 1. -ice *n.* 表示"与...相关的性质、状况或行为"
 
+   1. **notice** *n.* 注意 [not = to know]
+
 1. -ics *n.* 表示"...学"
+
+   1. **aesthetics** *n.* 美学 [aesthet = sense]
 
 1. -id *a.* 表示"有...性质的"
 
+   1. **humid** *a.* 湿的 [hum = to be moist]
+
 1. -ide *n.* [化] 表示"...化物"
+
+   1. **carbide** *n.* 碳化物 [carb "碳"]
 
 1. -ie *n.* 表示"小的... (物或人)"(爱称)
 
+   1. **birdie** *n.* 小鸟
+
 1. -ier *n.* 表示"从事...的人; 与...有关的人"
+
+   1. **cashier** *n.* 出纳员
 
 1. -ile *a.* 表示"可...的; 易...的"
 
+   1. **agile** *a.* 敏捷的, 灵活的 [ag = to do]
+
 1. -in *n.* 表示"有组织的抗议或示威"、"公开的集体活动"
+
+   1. **sit-in** *n.* 静坐示威
 
 1. -in, -ine *n.* [化、医] 表示"...素"
 
+   1. **hematin** *n.* 血红素 [hemat = blood]
+
 1. -ine *a.* 表示"具有...的性质的; 像...的"
+
+   1. **adamantine** *a.* 坚硬的, 坚强的 (adament *n.* 硬石)
 
 1. -ing *n.* 表示"属于...类的一个; 具有...性质的一个"
 
+   1. **evening** *n.* 傍晚, 晚上 (even *n.* <古> 傍晚)
+
 1. -itis *n.* 表示"...炎; ...癖"
+
+   1. **arthritis** *n.* 关节炎 [arthr = joint]
 
 1. -kin *n.* 表示"小的...(人或动物)"
 
+   1. **devilkin** *n.* 小魔鬼, 小鬼
+
 1. -latry *n.* = the worship of 对...的崇拜
+
+   1. **heliolatry** *n.* 太阳崇拜 [helio- = the sun]
 
 1. -le *n.* 表示"小的...(物)"
 
+   1. **freckle** *n.* 雀斑
+
 1. -le *v.* 表示"反复或连续地...(动作或行为)"
+
+   1. **crackle** *v.* 劈劈啪啪地响
 
 1. -let *n.* 表示"小的...(物)"
 
+   1. **booklet** *n.* 小册子
+
 1. -like *a.* 表示"有...性质的; 如...的"
+
+   1. **childlike** *a.* 孩子般天真的; 诚实的
 
 1. -ling *n.* 表示"小的...(人或动物)"
 
+   1. **birdling** *n.* 小鸟
+
 1. -lith, -lite *n.* = stone 石
+
+   1. **aerolith** *n.* 陨石 [aero- = air]
 
 1. -logue *n.* = speech 说话
 
+   1. **dialogue** *n.* 对话 [dia-= between]
+
 1. -long *a. & ad.* = 表示"...长时间的(地); 朝向...的(地)"
+
+   1. **daylong** *a. & ad.* 整天的(地)
 
 1. -made *a.* 表示"...制造的"
 
+   1. **handmade** *a.* 手工制的
+
 1. -man *n.* 表示"从事...职业的人"
+
+   1. **clergyman** *n.* 牧师; 教士
 
 1. -mania = unusual or unreasonable fondness of ...狂; ...迷
 
+   1. **bibliomania** *n.* 藏书癖; 珍本收集狂 [biblio- = book]
+
 1. -mer *n.* = part 部分
+
+   1. **dimer** *n.* [化] 二聚物 [di- = two]
 
 1. -meter *n.* = a device for measuring ...仪表
 
+   1. **barometer** *n.* 气压计 [bar = pressure]
+
 1. -metry *n.* = the process or art of measuring ...测定(法)
+
+   1. **altimetry** *n.* 测高法, 测高学 [alti- = high]
 
 1. -mony *n.* 表示"...的状态、性质、结果等"
 
+   1. **acrimony** *n.* (语言、态度等) 刻薄, 狠毒 [acri- = sharp]
+
 1. -morph *n.* = form 形
+
+   1. **isomorph** *n.* [化] 同晶体形 [iso- = equal]
 
 1. -most *a.* 表示"最...的"
 
+   1. **hindmost** *a.* 最后面的
+
 1. -nomy *n.* = the law or science of ...法; ...学
+
+   1. **astronomy** *n.* 天文学 [astro- = star]
 
 1. -ock *n.* 表示"小...(物)"
 
+   1. **bullock** *n.* 小公牛
+
 1. -ode *n.* = way of electricity, electrode 电极
+
+   1. **anode** *n.* 阳极 [an- (ana-) = up]
 
 1. -oid *a. & n.* 表示"如...物(的)"
 
+   1. **asteroid** *a.* 星状的 *n.* 小行星 [aster = star]
+
 1. -oma *n.* 表示"...的肿瘤"
+
+   1. **adenoma** *n.* 腺瘤 [aden = gland]
 
 1. -on *n.* = nuclear particle ...核子
 
+   1. **electron** *n.* 电子 [electr- = electricity]
+
 1. -one *n.* 表示"大的...(物)"
+
+   1. **cyclone** *n.* 旋风 [cycl- = circle]
 
 1. -oon *n.* 表示"与...有关的人或物"
 
+   1. **balloon** *n.* 大气球
+
 1. -ose *n.* [化] 表示"...糖"
+
+   1. **dextrose** *n.* 右旋糖, 葡萄糖 [dextr = toward the right]
 
 1. -ose *a.* (=-ous) 表示"...多的; 具有...特征的"
 
+   1. **bellicose** *a.* 好战的, 好斗的 [bell = war]
+
 1. -osis *n.* 表示"疾病; 其他生理状态"
+
+   1. **neurosis** *n.* 神经(机能)病 [neur = nerve]
 
 1. -ot *n.* 表示"具有...特征的人"
 
+   1. **bigot** *n.* 执拗的人, 抱偏见的人
+
 1. -parous *a.* = giving birth, producing 生...的; 产...的
+
+   1. **biparous** *a.* 一产双胎 [bi- = two]
 
 1. -pathy *n.* = feeling 情感; disease 疾病; treatment 疗法
 
+   1. **antipathy** *n.* 反感; 厌恶 [anti- = against]
+
 1. -ped, -pede *n.* = ...footed animal ...足动物
+
+   1. **aliped** *n.* 翼肢动物(如蝙蝠) [ali- = wing]
 
 1. -person *n.* 表示"...的人"(用以避免使用阳性的-man)
 
+   1. **chairperson** *n.* 主席
+
 1. -phagous *a.* = eating 吃...的; 以...为食的
+
+   1. **bacteriophagous** *a.* 噬菌的 [bacteri = germ]
 
 1. -phil, -phile *n.* = lover or loving of 爱好...(者)
 

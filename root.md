@@ -514,7 +514,7 @@ Root = 词根
 1. nasc, nat = to be born 出生
 
    1. **nation** [to be born 出生; -ion *n.* = the state 表行为状态 -> 人们出生的环境 -> 人们的出身种族 ->] *n.*  国民; 民族
-   1. **pregnant** [pre- = before 在...之前; gnant (nat) = to be born 出生 -> 在出生之前的 ->] *a.*  (1) 怀孕; 怀胎 (2) 意义深远的; 含蓄的 (3) 充满的; 富有的
+   1. **pregnant** [pre- = before 在...之前; gn- 生育, 生产; -ant 表形容词 -> 在出生之前的 ->] *a.*  (1) 怀孕; 怀胎 (2) 意义深远的; 含蓄的 (3) 充满的; 富有的
        * **pregnancy** [pregan(t); -cy; *n.*] *n.* 怀孕; 富有意义; 充满
 
 1. not = to get to know 知晓
@@ -1504,6 +1504,11 @@ Root = 词根
 1. nox, noc, nec = injury to cause injury to 伤害
 
    1. **noxious** [nox; -i-; -ous *a.*] *a.* 有害的; 有毒的
+   1. **obnoxious** [ob-; nox; -i-; -ous *a.*] *a.* 令人讨厌的
+   1. **nocent** [noc-; -ent *a.*] *a.* 有害的; 有罪的
+   1. **innocent** [in-; nocent *a.*] *a.* 无罪的; 清白的
+   1. **innocuous** [in-; noc; -u-; -ous *a.*] *a.* 无意冒犯的; 无恶意的
+   1. **internecine** [inter-; nec; -u-; -ine *a.*] *a.* 内讧的
 
 1. numer = number 数
 

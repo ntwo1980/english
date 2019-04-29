@@ -13,14 +13,14 @@
 1. **innocent** [in-; nocent *a.*] *a.* 无罪的; 清白的
 
 1. **bunch** *n.* 簇, 束, 捆, 串<br/>
-  拼车感到就业pinch (压力)
-  到皖南城学开winch (压力)
-  他把很多面包punch (打孔)
-  然后bunch (捆成一束)
-  作为lunch (午餐)
-  饿了咬了面包hunch (大块)
-  然后munch (用力咀嚼)
-  边吃边march (前进)
-  身体越来越parch (干热)
+  拼车感到就业pinch (压力)<br/>
+  到皖南城学开winch (压力)<br/>
+  他把很多面包punch (打孔)<br/>
+  然后bunch (捆成一束)<br/>
+  作为lunch (午餐)<br/>
+  饿了咬了面包hunch (大块)<br/>
+  然后munch (用力咀嚼)<br/>
+  边吃边march (前进)<br/>
+  身体越来越parch (干热)<br/>
 
 

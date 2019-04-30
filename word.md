@@ -15,13 +15,13 @@
 1. **bunch** *n.* 簇, 束, 捆, 串<br/>
   (口诀) 拼车学绞车<br/>
   拼车感到就业pinch (压力)<br/>
-  到皖南城学开winch (压力)<br/>
+  来到皖南学开winch (压力)<br/>
   他把很多面包punch (打孔)<br/>
   然后bunch (捆成一束)<br/>
   作为lunch (午餐)<br/>
-  饿了咬了面包hunch (大块)<br/>
-  然后munch (用力咀嚼)<br/>
+  饿了咬口面包hunch (大块)<br/>
+  然后用力munch (用力咀嚼)<br/>
   边吃边march (前进)<br/>
   身体越来越parch (干热)<br/>
 
-
+1. **attorney** [at- = to 向; torn- turn 转, 环绕 -> 转向客户 ->] *v.* 代理人; 律师; 检察官

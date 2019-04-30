@@ -2111,6 +2111,7 @@ Prefix = 前缀
    1. **attend** [at- (ad-) = to 向; tend = to stretch 伸 -> 把手或心思伸向 -> ] *v.* 注意
        * **attention** *n.* 注意; 注意力
        * **attentive** *a.* 注意的; 当心的
+   1. **attorney** [at- = to 向; torn- turn 转, 环绕 -> 转向客户 ->] *v.* 代理人; 律师; 检察官
    1. **acclaim** [ac- (ad-) = to 对; claim = to cry 呼喊 -> 向某人呼喊 -> ] *v.* 为...喝彩
        * **acclaimation** *n.* 欢呼, 喝彩; 鼓掌通过
    1. **acknowledge** [ac- (ad-) = to 在; knowledge = to know 知道 -> 在某件事情上知道真情 -> ] *v.* 承认

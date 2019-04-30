@@ -25,3 +25,14 @@
   身体越来越parch (干热)<br/>
 
 1. **attorney** [at- = to 向; torn- turn 转, 环绕 -> 转向客户 ->] *v.* 代理人; 律师; 检察官
+
+1. **jealous** [jeal (zeal) = ardor 热情, 激情; -ous having ... -> 对热心而得不到 ->] *v.* 妒忌的
+  (口诀) 古怪的办案人员<br/>
+  如果找不到fitness (合适)<br/>
+  的witness (证据)<br/>
+  案件的价值就会depress (降低)<br/>
+  因此内心很repress (压抑)<br/>
+  慢慢性格变成curious (古怪的)<br/>
+  有时furious (狂怒的)<br/>
+  有时jealous (猜疑的)<br/>
+  有是zealous (热心的)<br/>

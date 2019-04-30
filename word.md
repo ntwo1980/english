@@ -64,3 +64,13 @@
     * **snigger** 暗笑, 窃笑
     * **giggle** 紧张得咯咯笑
     * **titter** 窃笑
+
+1. **rage** *n.* 愤怒, 情绪激动
+  (口诀) 顽皮的童仆<br/>
+  一个page (童仆, 男侍)<br/>
+  撕下page (页)<br/>
+  做成纸cage (笼)<br/>
+  天天来wage (从事)<br/>
+  自鸣为sage (智者)<br/>
+  还想加wage (工资)<br/>
+  老板很rage (愤怒)<br/>

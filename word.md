@@ -15,7 +15,7 @@
 1. **bunch** *n.* 簇, 束, 捆, 串<br/>
   (口诀) 拼车学绞车<br/>
   拼车感到就业pinch (压力)<br/>
-  来到皖南学开winch (压力)<br/>
+  来到皖南学开winch (绞车)<br/>
   他把很多面包punch (打孔)<br/>
   然后bunch (捆成一束)<br/>
   作为lunch (午餐)<br/>
@@ -55,7 +55,6 @@
     * **siggle** 指发出咯咯的笑声, 较多地用于女人或孩子
     * **grin** 指露齿而笑
     * **beam** 书面用词, 指人因心情舒畅而发出的笑, 即喜形于色的笑
-    * **beam** 指冷笑、嘲笑
     * **sneer** 指冷笑、嘲笑
     * **chuckle**, **chortle** 轻声笑. *chortle* has a suggestion of high glee or impishness that is lacking in *chuckle*.
     * **guffaw** 哄笑.

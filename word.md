@@ -23,11 +23,11 @@
   然后用力munch (用力咀嚼)<br/>
   边吃边march (前进)<br/>
   身体越来越parch (干热)<br/>
-  I bundled a bunch of branches and anchored it on the punching bench.<br/>
+  I bundled a bunch of branches and anchored it on the punching bench.
 
 1. **attorney** [at- = to 向; torn- turn 转, 环绕 -> 转向客户 ->] *v.* 代理人; 律师; 检察官
 
-1. **jealous** [jeal (zeal) = ardor 热情, 激情; -ous having ... -> 对热心而得不到 ->] *v.* 妒忌的
+1. **jealous** [jeal (zeal) = ardor 热情, 激情; -ous having ... -> 对热心而得不到 ->] *v.* 妒忌的<br/>
   (口诀) 古怪的办案人员<br/>
   如果找不到fitness (合适)<br/>
   的witness (证据)<br/>
@@ -65,7 +65,7 @@
     * **giggle** 紧张得咯咯笑
     * **titter** 窃笑
 
-1. **rage** *n.* 愤怒, 情绪激动
+1. **rage** *n.* 愤怒, 情绪激动<br/>
   (口诀) 顽皮的童仆<br/>
   一个page (童仆, 男侍)<br/>
   撕下page (页)<br/>
@@ -75,7 +75,7 @@
   还想加wage (工资)<br/>
   老板很rage (愤怒)<br/>
 
-1. **hum** *v.* 发出哼哼声
+1. **hum** *v.* 发出哼哼声<br/>
   (口诀) 淘气的孩子<br/>
   孩子整天bum (游荡)<br/>
   一边嚼着gum (口香糖)<br/>
@@ -83,7 +83,7 @@
   不会sum (计算)<br/>
   妈妈来打bum (屁股)<br/>
 
-1. **peck** *v.* 啄食
+1. **peck** *v.* 啄食<br/>
   (口诀) 甲板上的约会<br/>
   德客精心deck (打扮)<br/>
   约女友到deck (甲板)<br/>

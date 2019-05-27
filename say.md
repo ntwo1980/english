@@ -13,3 +13,5 @@
 1. **whisper** to speak or say something very quietly, using your breath rather than your voice
 
 1. **preach** to talk about a religious subject in a public place, especially in a church during a service
+
+1. **falter** to speak in a voice that sounds weak and uncertain, and keeps stopping.

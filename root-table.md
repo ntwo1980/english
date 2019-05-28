@@ -21,6 +21,7 @@ Root = 词根
 | biblio                   | book                        | bibliography, bibliophile        |
 | bio                      | life                        | biography, biology               |
 | brev                     | short                       | abbreviate, brevity              |
+| cap, cep                 | take, seize                 | accept, capture                  |
 | capit, capt              | head, chief                 | capital, captain                 |
 | caus, cuse               | cause                       | causal, excuse                   |
 | ced, ceed                | yield, go                   | recede, proceed                  |
@@ -31,7 +32,8 @@ Root = 词根
 | corp                     | body                        | corpse, corporal                 |
 | cosm                     | universe, order             | cosmic, cosmopolitan             |
 | cred                     | believe                     | credible, credit, credo          |
-| crypt                    | hidden                      | cryptogram, culprit              |
+| crypt                    | hidden                      | cryptogram, cryptic              |
+| culp                     | guilt                       | culpable, culprit                |
 | dem                      | people                      | democracy, epidemic              |
 | dent                     | tooth                       | dentist, dentifrice              |
 | derm                     | skin                        | dermatology, epidermis           |
@@ -106,7 +108,7 @@ Root = 词根
 | qui, quit                | rest                        | quiet, quit, acquiesce, acquit   |
 | rect, reg                | to rule or guide; proper    | rectify, regal, region           |
 | rupt                     | break, sever                | abrupt, disrupt, interrupt       |
-| salt, salv               | safety, health              | salubrious, salvage, salutary    |
+| salu, salv               | safety, health              | salubrious, salvage, salutary    |
 | scent, scend             | climb                       | ascend, ascent                   |
 | schizo, schiz            | division, split             | schizophrenic                    |
 | sci                      | know                        | scientific                       |
@@ -115,6 +117,7 @@ Root = 词根
 | sec, sect                | cut                         | dissect, section                 |
 | secut, sequ              | folow, ensue                | sequence, consequence            |
 | sed, sess                | sit                         | sedentary, session               |
+| sen, senil                | old, old age                         | senior, senator, senility               |
 | sens, sent               | feel, be aware              | sensible, sentient               |
 | sequ, secu               | follow                      | sequence, sequel, consecutive    |
 | simil                    | same                        | similar, assimilate, simile      |

@@ -117,7 +117,7 @@ Root = 词根
 | sec, sect                | cut                         | dissect, section                 |
 | secut, sequ              | folow, ensue                | sequence, consequence            |
 | sed, sess                | sit                         | sedentary, session               |
-| sen, senil                | old, old age                         | senior, senator, senility               |
+| sen, senil               | old, old age                | senior, senator, senility        |
 | sens, sent               | feel, be aware              | sensible, sentient               |
 | sequ, secu               | follow                      | sequence, sequel, consecutive    |
 | simil                    | same                        | similar, assimilate, simile      |

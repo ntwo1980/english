@@ -4,7 +4,7 @@ Prefix = 前缀
 ## Common Prefixes
 
 | Prefix       | Meaning              | Example                               |
-| ------------ | -------------------- | -------------------------------       |
+| ------------ | -------------------- | ------------------------------------- |
 | a-           | not, without         | atypical, amorphous                   |
 | ab-          | from, away           | abnormal, abscond                     |
 | ante-        | before               | antecedent, antemeridian              |
@@ -43,3 +43,27 @@ Prefix = 前缀
 | trans-       | across               | transmit, transfer                    |
 | tri-         | three                | triad, triangle                       |
 | un-          | not                  | unable, unacceptable                  |
+
+## Numerical Prefixes
+
+| Prefix       | Meaning              | Example                               |
+| ------------ | -------------------- | ------------------------------------- |
+| mono-        | one                  | monotype, monologue                   |
+| uni-         | one                  | universal, unilateral                 |
+| bi-          | two                  | biweekly, biannual                    |
+| di-          | two                  | divide, diverge                       |
+| tri-         | three                | trinity, trilogy                      |
+| quad-        | four                 | quadrangle                            |
+| quart-       | fourth               | quarter                               |
+| penta-       | five                 | pentagon, pentameter                  |
+| quint-       | five                 | quintet, quintuplets                  |
+| hex-         | six                  | hexagon, hexameter                    |
+| sex-         | six                  | sextuplets, sextillion                |
+| sept-        | seven                | septet, septennial                    |
+| oct-         | eight                | octopus, octave                       |
+| non-         | nine                 | nonagon, nonagenarian                 |
+| dec-         | ten                  | decimal, decade                       |
+| cent-        | hundred              | century, centipede                    |
+| mill-        | thousand             | millennium                            |
+| kilo-        | thousand             | kilobyte                              |
+| mega-        | million              | megabyte, megaton                     |
